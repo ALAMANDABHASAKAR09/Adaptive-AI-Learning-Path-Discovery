@@ -1,0 +1,1333 @@
+[
+  {
+    "index": 1,
+    "level": "Intermediate",
+    "title": "The Complete Agentic AI Engineering Course (2025)",
+    "link": "https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/",
+    "ratingValue": "4.7",
+    "ratingsCount": "19245",
+    "totalHours": "17",
+    "lecturesCount": "129",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6566789_2e8a_10.jpg",
+    "whatYoullLearn": [
+      "Project 1: Career Digital Twin. Build and deploy your own Agent to represent you to potential future employers.",
+      "Project 2: SDR Agent. An instant business application: create Sales Representatives that craft and send professional emails .",
+      "Project 3: Deep Research. Make your own version of the essential Agentic use case: a team of Agents that carry out extensive research on any topic you choose.",
+      "Project 4: Build a Stock Picker Agent in minutes with CrewAI\u2014automate your search for investment gems!",
+      "Project 5: Deploy your own 4-Agent Engineering Team\u2014manage, build, and test software apps with CrewAI and Coder Agents in Docker!",
+      "Project 6: Build your own version of OpenAI\u2019s Operator Agent\u2014your Sidekick works with you inside your browser via LangGraph!",
+      "Project 7: Agent Creator\u2014an Agent that builds and launches new Agents using AutoGen, unlocking endless AI possibilities!",
+      "Project 8: Capstone\u2014build a Trading Floor with 4 Agents making autonomous trades, powered by 6 MCP servers and 44 tools!"
+    ],
+    "analytics": {
+      "relevance_score": 0.75,
+      "insight": "Course level is Intermediate",
+      "sentiment_analysis": {
+        "sentiment_score": 0.85,
+        "sentiment_tag": "High",
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "Helpful",
+          "Fun",
+          "Engaging Presenter"
+        ],
+        "detected_pain_points": [
+          "Difficult Practice Test"
+        ]
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "instructor_tag": "High",
+        "content_freshness_score": 0.85,
+        "freshness_tag": "High",
+        "course_engagement_score": 0.88,
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "Not specified"
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.07,
+      "popularity_tag": "Low",
+      "final_comparison_score": 71.55,
+      "filter_tags": []
+    }
+  },
+  {
+    "index": 2,
+    "level": "Intermediate",
+    "title": "LLMs Mastery: Complete Guide to Transformers & Generative AI",
+    "link": "https://www.udemy.com/course/llms-mastery-complete-guide-to-transformers-generative-ai/",
+    "ratingValue": "4.5",
+    "ratingsCount": "19245",
+    "totalHours": "17",
+    "lecturesCount": "129",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/4732634_17d4_17.jpg",
+    "whatYoullLearn": [
+      "Grasp NLP Fundamentals: Understand the evolution from rule-based systems to advanced LLMs like Llama3, Gemma2, Phi3, and Mistral.",
+      "Master Transformers & LLMs: Learn the architecture and application of Transformers in depth. Including tokenization, embeddings, pre-training & fine-tunning.",
+      "Understand Generative AI Principles: Develop skills in building and fine-tuning generative models for real-world applications using RLHF and Chat-Templates",
+      "Use Transformer Models: Overview LLMs and Encoder-Decoder models like BERT, GPT, T5, Llama and more in many different NLP tasks: Personal assistant, Reviews, QA",
+      "Specialised Techniques: Implement 8-bit and 4-bit training, and use tools like DeepSpeed and FSDP, along with PeFT, LoRA, FlashAttention and more."
+    ],
+    "analytics": {
+      "relevance_score": 0.75,
+      "insight": "Course level is Intermediate",
+      "sentiment_analysis": {
+        "sentiment_score": 0.85,
+        "sentiment_tag": "High",
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "Helpful",
+          "Fun",
+          "Engaging Presenter"
+        ],
+        "detected_pain_points": [
+          "Difficult Practice Test"
+        ]
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "instructor_tag": "High",
+        "content_freshness_score": 0.85,
+        "freshness_tag": "High",
+        "course_engagement_score": 0.88,
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "Not specified"
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.07,
+      "popularity_tag": "Low",
+      "final_comparison_score": 71.55,
+      "filter_tags": []
+    }
+  },
+  {
+    "index": 3,
+    "level": "Intermediate",
+    "title": "LangChain- Develop AI Agents with LangChain & LangGraph",
+    "link": "https://www.udemy.com/course/langchain/",
+    "ratingValue": "4.6",
+    "ratingsCount": "7450",
+    "totalHours": "7.5",
+    "lecturesCount": "52",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5281528_8f36.jpg",
+    "whatYoullLearn": [
+      "Become proficient in LangChain",
+      "Have end to end working LangChain based generative AI agents",
+      "Prompt Engineering Theory: Chain of Thought, ReAct, Few Shot prompting and understand how LangChain is build under the hood",
+      "Context Engineering",
+      "Understand how to navigate inside the LangChain opensource codebase",
+      "Large Language Models theory for software engineers",
+      "LangChain: Lots of chains Chains, Agents, DocumentLoader, TextSplitter, OutputParser, Memory",
+      "RAG, Vectorestores/ Vector Databases (Pinecone, FAISS)",
+      "Model Context Protocol (MCP)",
+      "LangGraph"
+    ],
+    "analytics": {
+      "relevance_score": 0.75,
+      "insight": "Course level is Intermediate",
+      "sentiment_analysis": {
+        "sentiment_score": 0.85,
+        "sentiment_tag": "High",
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "Helpful",
+          "Fun",
+          "Engaging Presenter"
+        ],
+        "detected_pain_points": [
+          "Difficult Practice Test"
+        ]
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "instructor_tag": "High",
+        "content_freshness_score": 0.85,
+        "freshness_tag": "High",
+        "course_engagement_score": 0.88,
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "Not specified"
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.07,
+      "popularity_tag": "Low",
+      "final_comparison_score": 71.55,
+      "filter_tags": []
+    }
+  },
+  {
+    "index": 4,
+    "level": "Intermediate",
+    "title": "AWS Certified Machine Learning Specialty 2025 - Hands On!",
+    "link": "https://www.udemy.com/course/chatgpt-generative-ai-for-software-professionals/",
+    "ratingValue": "4.6",
+    "ratingsCount": "7450",
+    "totalHours": "7.5",
+    "lecturesCount": "52",
+    "imageSrc": null,
+    "whatYoullLearn": [
+      "Artificial Intelligence : Basics of AI. Key Concepts of AI, AI/ML Differences, Deep Learning. Real life examples of AI, ML, Deep Learning and Generative AI.",
+      "Generative AI Internals : GPT (Generative Pre-trained Transformer), Gen AI timeline, Democratization of AI",
+      "ChatGPT 4o : Effective Prompts to improve productivity. Build career - Create resume and prepare for interview. 1000+ Prompts with practical examples",
+      "Open AI : Models, APIs, Invoking APIs using Postman, Playground, Tokens, Temperature, Pricing, Usage, Billing. Productivity versus Product development.",
+      "Open AI Evolution:  Tracing the evolution and milestones of OpenAI  and ChatGPT tech stack - Examining the technological stack behind ChatGPT.",
+      "ChatGPT alternatives :  Exploring alternative models like Google Gemini and Copilot in the context of chat-based AI. Comparing DALL-E 2, DALL-E 3 & Midjourney.",
+      "Jupyter Notebook and Jupyter Lab : Using Jupyter Lab for seamless interaction. Examples of using ChatGPT and other models within a notebook .",
+      "Prompt Examples in Notebook : Practical examples of using prompts within Jupyter Notebooks. Tips for effective prompt formulation.",
+      "Calculate Token Pricing - Tiktoken : Introduction to Tiktoken. Understanding token pricing and calculating costs for different interactions.",
+      "Talk to Your Data - English Lang for SQL: Leveraging generative models for natural language interactions with data.",
+      "Hands-on Programs for Open AI models : Whisper, DALL-E 3, and Embeddings.",
+      "Advanced Generative AI :  Embeddings, Vector DB, Fine-tuning, Zero-shot, One-shot and Few shot learning and RAG (Retrieval-augmented generation).",
+      "Real-world Project Implementation : Hands-on project integrating OpenAI models ( ChatGPT, Whisper, Embeddings).  Uses RAG and embeddings are plotted in graph.",
+      "Generative AI Future : Will AI take away jobs - Addressing the common concern of job displacement by AI and New opportunities - Strategies for professionals",
+      "Google Gemini : Explore the power of Google Gemini and it's various models Ultra, Pro and Nano",
+      "Google Gemini: Image + text prompts, code generation, testing and debugging Platform with Replit integration",
+      "Github Copilot: Revolutionizing Code Development: Discover Github Copilot's revolutionary impact on code development, enhancing productivity and efficiency.",
+      "LangChain: Learn building LLM applications using LCEL(LangChain Expression Language) framework, RAG (Retrieval augmented generation), & building AI agents",
+      "OpenAI Sora - Text to Video Model: Master OpenAI Sora's architecture and diffusion models.",
+      "Will AI take away jobs or create more opportunities"
+    ],
+    "analytics": {
+      "relevance_score": 0.75,
+      "insight": "Course level is Intermediate",
+      "sentiment_analysis": {
+        "sentiment_score": 0.85,
+        "sentiment_tag": "High",
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "Helpful",
+          "Fun",
+          "Engaging Presenter"
+        ],
+        "detected_pain_points": [
+          "Difficult Practice Test"
+        ]
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "instructor_tag": "High",
+        "content_freshness_score": 0.85,
+        "freshness_tag": "High",
+        "course_engagement_score": 0.88,
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "Not specified"
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.07,
+      "popularity_tag": "Low",
+      "final_comparison_score": 71.55,
+      "filter_tags": []
+    }
+  },
+  {
+    "index": 5,
+    "level": "Intermediate",
+    "title": "AWS Certified Machine Learning Specialty Full Practice Exam",
+    "link": "https://www.udemy.com/course/hands-on-rag-with-langchain-build-real-world-projects/",
+    "ratingValue": "4.3",
+    "ratingsCount": "38923",
+    "totalHours": "17.5",
+    "lecturesCount": "159",
+    "imageSrc": null,
+    "whatYoullLearn": [
+      "Set up PostgreSQL with the pgvector extension to enable efficient vector search",
+      "Build an end to end RAG pipeline connecting Large Language Models LLMs with PostgreSQL",
+      "Implement a RAG pipeline step-by-step: retrieval, context injection, and grounded LLM responses.",
+      "Explore vector indexes (HNSW, IVFFlat) and learn how they improve retrieval speed and accuracy.",
+      "Apply semantic caching to reduce cost and latency while improving response times.",
+      "Evaluate RAG systems using RAGAS metrics like faithfulness, context recall, and precision.",
+      "Enhance retrieval quality with re-ranking and metadata filtering.",
+      "Deploy APIs for ingestion and RAG Q&A to make your projects production-ready and testable."
+    ],
+    "analytics": {
+      "relevance_score": 0.75,
+      "insight": "Course level is Intermediate",
+      "sentiment_analysis": {
+        "sentiment_score": 0.85,
+        "sentiment_tag": "High",
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "Helpful",
+          "Fun",
+          "Engaging Presenter"
+        ],
+        "detected_pain_points": [
+          "Difficult Practice Test"
+        ]
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "instructor_tag": "High",
+        "content_freshness_score": 0.85,
+        "freshness_tag": "High",
+        "course_engagement_score": 0.88,
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "Not specified"
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.07,
+      "popularity_tag": "Low",
+      "final_comparison_score": 71.55,
+      "filter_tags": []
+    }
+  },
+  {
+    "index": 6,
+    "level": "Intermediate",
+    "title": "Generative AI to AI Agent Masterclass for Software Engineers",
+    "link": "https://www.udemy.com/course/ai-powered-data-analytics-mastery-ai-tools-vibe-coding/",
+    "ratingValue": "4.2",
+    "ratingsCount": "38923",
+    "totalHours": "17.5",
+    "lecturesCount": "159",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5681448_28a1_2.jpg",
+    "whatYoullLearn": [
+      "Core Data Analytics: Master the data analysis process, storytelling, and business applications using tools like Excel and SQL.",
+      "Generative AI Skills: Leverage ChatGPT, Claude, Perplexity, and Grok for data processing and advanced prompt engineering.",
+      "SQL & Database Management: Write and optimize SQL queries, use joins, window functions, and integrate AI for data cleaning.",
+      "Python & Vibe Coding: Analyze data with Python, using Anaconda, and apply vibe coding for practical data manipulation.",
+      "Data Visualization: Create impactful dashboards and charts in Power BI, guided by AI-driven KPI and chart recommendations.",
+      "Predictive Analytics & No-Code: Build machine learning models (e.g., K-Nearest Neighbors, Random Forests) and automate workflows with n8n."
+    ],
+    "analytics": {
+      "relevance_score": 0.75,
+      "insight": "Course level is Intermediate",
+      "sentiment_analysis": {
+        "sentiment_score": 0.85,
+        "sentiment_tag": "High",
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "Helpful",
+          "Fun",
+          "Engaging Presenter"
+        ],
+        "detected_pain_points": [
+          "Difficult Practice Test"
+        ]
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "instructor_tag": "High",
+        "content_freshness_score": 0.85,
+        "freshness_tag": "High",
+        "course_engagement_score": 0.88,
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "Not specified"
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.07,
+      "popularity_tag": "Low",
+      "final_comparison_score": 71.55,
+      "filter_tags": []
+    }
+  },
+  {
+    "index": 7,
+    "level": "Intermediate",
+    "title": "Hands-On RAG with LangChain: Build Real-World Projects",
+    "link": "https://www.udemy.com/course/building-smarter-ai-apps-with-semantic-kernel/",
+    "ratingValue": "4.6",
+    "ratingsCount": "452",
+    "totalHours": "19",
+    "lecturesCount": "185",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6706641_b48f_2.jpg",
+    "whatYoullLearn": [
+      "Master AI Application development for C# developers",
+      "Understand the core concepts of the Semantic Kernel Framework",
+      "Learn how to use Semantic Kernel to connect to many different models and model providers including Azure OpenAI, OpenAI, Inferencing API",
+      "Learn how to implement Retrieval-Augmented Generation (RAG) plugins",
+      "Understand the power of integrating Model Context Protocol (MCP) servers into Semantic Kernel",
+      "Learn the basics of AI and Large Language Models (LLMs)",
+      "Master multimodal data (text, images, video ext.) into Generative AI Application",
+      "Gain Proficiency with Azure AI Foundry and deploying OpenAI Models",
+      "Learn how to use Semantic Kernel to connect to local models using ONNX, Ollama and Hugging Face",
+      "Gain proficiency by learning how to use Semantic Kernel with ASP.NET",
+      "Attain expert proficiency in creating Semantic Kernel plugins and function calling, adhering to industry best practices",
+      "Learn to quickly create Plugins using existing API Endpoints"
+    ],
+    "analytics": {
+      "relevance_score": 0.75,
+      "insight": "Course level is Intermediate",
+      "sentiment_analysis": {
+        "sentiment_score": 0.85,
+        "sentiment_tag": "High",
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "Helpful",
+          "Fun",
+          "Engaging Presenter"
+        ],
+        "detected_pain_points": [
+          "Difficult Practice Test"
+        ]
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "instructor_tag": "High",
+        "content_freshness_score": 0.85,
+        "freshness_tag": "High",
+        "course_engagement_score": 0.88,
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "Not specified"
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.07,
+      "popularity_tag": "Low",
+      "final_comparison_score": 71.55,
+      "filter_tags": []
+    }
+  },
+  {
+    "index": 8,
+    "level": "Intermediate",
+    "title": "AI Powered Data Analytics Mastery - AI Tools & Vibe Coding",
+    "link": "https://www.udemy.com/course/agentic-ai-for-beginner/",
+    "ratingValue": "4.6",
+    "ratingsCount": "452",
+    "totalHours": "19",
+    "lecturesCount": "185",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6690527_035b_3.jpg",
+    "whatYoullLearn": [
+      "Master the Fundamentals of Agentic AI",
+      "Build and Deploy Your Own AI Agents from Scratch",
+      "Harness the Power of Multi-Agent Systems for Complex Tasks",
+      "Deploy and Manage Agentic AI on Cloud Platforms with Robust Guardrails"
+    ],
+    "analytics": {
+      "relevance_score": 0.75,
+      "insight": "Course level is Intermediate",
+      "sentiment_analysis": {
+        "sentiment_score": 0.85,
+        "sentiment_tag": "High",
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "Helpful",
+          "Fun",
+          "Engaging Presenter"
+        ],
+        "detected_pain_points": [
+          "Difficult Practice Test"
+        ]
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "instructor_tag": "High",
+        "content_freshness_score": 0.85,
+        "freshness_tag": "High",
+        "course_engagement_score": 0.88,
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "Not specified"
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.07,
+      "popularity_tag": "Low",
+      "final_comparison_score": 71.55,
+      "filter_tags": []
+    }
+  },
+  {
+    "index": 9,
+    "level": "Intermediate",
+    "title": "Develop Agentic .NET Applications Using Semantic Kernel",
+    "link": "https://www.udemy.com/course/azure-ai-agents-with-azure-kubernetes-service-aks/",
+    "ratingValue": "4.7",
+    "ratingsCount": "9",
+    "totalHours": "2",
+    "lecturesCount": "40",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6424547_beea_4.jpg",
+    "whatYoullLearn": [
+      "Learn about Azure Kubernetes Service",
+      "Learn about kubernetes networking, multi-container design patters, ingress controllers etc.",
+      "Containerize and deploy AI Agents on AKS (Azure Kubernetes Service) for scalable, production-ready inference.",
+      "Implement Retrieval-Augmented Generation (RAG) with secure data access and enterprise-grade architecture."
+    ],
+    "analytics": {
+      "relevance_score": 0.75,
+      "insight": "Course level is Intermediate",
+      "sentiment_analysis": {
+        "sentiment_score": 0.85,
+        "sentiment_tag": "High",
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "Helpful",
+          "Fun",
+          "Engaging Presenter"
+        ],
+        "detected_pain_points": [
+          "Difficult Practice Test"
+        ]
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "instructor_tag": "High",
+        "content_freshness_score": 0.85,
+        "freshness_tag": "High",
+        "course_engagement_score": 0.88,
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "Not specified"
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.07,
+      "popularity_tag": "Low",
+      "final_comparison_score": 71.55,
+      "filter_tags": []
+    }
+  },
+  {
+    "index": 10,
+    "level": "Intermediate",
+    "title": "Agentic AI for Beginner",
+    "link": "https://www.udemy.com/course/langgraph/",
+    "ratingValue": "4.4",
+    "ratingsCount": "9",
+    "totalHours": "2",
+    "lecturesCount": "40",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6527837_34d5_6.jpg",
+    "whatYoullLearn": [
+      "Become proficient in LangGraph",
+      "Implement Advanced Agents",
+      "Have end to end working LangGraph based generative AI agents",
+      "Understand how to navigate inside the LangGraph opensource codebase",
+      "LangGraph Ecosystem: LangGraph Studio/ IDE, LangGraph Cloud API, LangGraph Cloud Managed Service"
+    ],
+    "analytics": {
+      "relevance_score": 0.75,
+      "insight": "Course level is Intermediate",
+      "sentiment_analysis": {
+        "sentiment_score": 0.85,
+        "sentiment_tag": "High",
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "Helpful",
+          "Fun",
+          "Engaging Presenter"
+        ],
+        "detected_pain_points": [
+          "Difficult Practice Test"
+        ]
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "instructor_tag": "High",
+        "content_freshness_score": 0.85,
+        "freshness_tag": "High",
+        "course_engagement_score": 0.88,
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "Not specified"
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.07,
+      "popularity_tag": "Low",
+      "final_comparison_score": 71.55,
+      "filter_tags": []
+    }
+  },
+  {
+    "index": 11,
+    "level": "Intermediate",
+    "title": "Azure AI Agents with Azure Kubernetes Service (AKS)",
+    "link": "https://www.udemy.com/course/artificial-intelligence-for-project-managers/",
+    "ratingValue": "4.7",
+    "ratingsCount": "256",
+    "totalHours": "31.5",
+    "lecturesCount": "233",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6691169_b9a9.jpg",
+    "whatYoullLearn": [
+      "Understand core AI concepts and their project applications, including machine learning, NLP, and automation.",
+      "Apply AI tools like ChatGPT to automate tasks and enhance project management efficiency.",
+      "Develop data-driven decision-making skills using AI insights to improve project outcomes.",
+      "Ensure ethical AI integration in projects by addressing transparency, bias, and responsible usage.",
+      "Strategically integrate AI into project workflows to boost productivity and collaboration.",
+      "Write effective AI prompts that generate accurate, relevant outputs for project tasks.",
+      "Understand how AI is shaping the future of project management and learn to adapt your role."
+    ],
+    "analytics": {
+      "relevance_score": 0.75,
+      "insight": "Course level is Intermediate",
+      "sentiment_analysis": {
+        "sentiment_score": 0.85,
+        "sentiment_tag": "High",
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "Helpful",
+          "Fun",
+          "Engaging Presenter"
+        ],
+        "detected_pain_points": [
+          "Difficult Practice Test"
+        ]
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "instructor_tag": "High",
+        "content_freshness_score": 0.85,
+        "freshness_tag": "High",
+        "course_engagement_score": 0.88,
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "Not specified"
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.07,
+      "popularity_tag": "Low",
+      "final_comparison_score": 71.55,
+      "filter_tags": []
+    }
+  },
+  {
+    "index": 12,
+    "level": "Intermediate",
+    "title": "LangGraph- Develop LLM powered AI agents with LangGraph",
+    "link": "https://www.udemy.com/course/ai-for-business-leaders-master-ai-strategy/",
+    "ratingValue": "4.6",
+    "ratingsCount": "256",
+    "totalHours": "31.5",
+    "lecturesCount": "233",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5938898_5007_3.jpg",
+    "whatYoullLearn": [
+      "Decode AI tech & terminology to ask the right strategic questions",
+      "Identify high-impact AI opportunities in your business function",
+      "Evaluate build-vs-buy AI solutions using ROI frameworks",
+      "Lead ethical AI initiatives that mitigate risks & bias"
+    ],
+    "analytics": {
+      "relevance_score": 0.75,
+      "insight": "Course level is Intermediate",
+      "sentiment_analysis": {
+        "sentiment_score": 0.85,
+        "sentiment_tag": "High",
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "Helpful",
+          "Fun",
+          "Engaging Presenter"
+        ],
+        "detected_pain_points": [
+          "Difficult Practice Test"
+        ]
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "instructor_tag": "High",
+        "content_freshness_score": 0.85,
+        "freshness_tag": "High",
+        "course_engagement_score": 0.88,
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "Not specified"
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.07,
+      "popularity_tag": "Low",
+      "final_comparison_score": 71.55,
+      "filter_tags": []
+    }
+  },
+  {
+    "index": 13,
+    "level": "Intermediate",
+    "title": "Artificial Intelligence for Project Managers",
+    "link": "https://www.udemy.com/course/agentic-ai-risk-and-cybersecurity-masterclass-2025/",
+    "ratingValue": "4.4",
+    "ratingsCount": "135",
+    "totalHours": "7",
+    "lecturesCount": "67",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6219365_0e77.jpg",
+    "whatYoullLearn": [
+      "How Agentic AI Is A Game Changer For Risk And Security",
+      "How Agentic AI Works",
+      "What Are The Unique Risks That Agentic AI Introduces",
+      "How To Mitigate Agentic AI Risks",
+      "How To Threat Model Agentic AI Systems"
+    ],
+    "analytics": {
+      "relevance_score": 0.75,
+      "insight": "Course level is Intermediate",
+      "sentiment_analysis": {
+        "sentiment_score": 0.85,
+        "sentiment_tag": "High",
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "Helpful",
+          "Fun",
+          "Engaging Presenter"
+        ],
+        "detected_pain_points": [
+          "Difficult Practice Test"
+        ]
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "instructor_tag": "High",
+        "content_freshness_score": 0.85,
+        "freshness_tag": "High",
+        "course_engagement_score": 0.88,
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "Not specified"
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.07,
+      "popularity_tag": "Low",
+      "final_comparison_score": 71.55,
+      "filter_tags": []
+    }
+  },
+  {
+    "index": 14,
+    "level": "Intermediate",
+    "title": "AI for Business Leaders: Master AI Strategy",
+    "link": "https://www.udemy.com/course/fine-tuning-llm-with-hugging-face-transformers/",
+    "ratingValue": "4.5",
+    "ratingsCount": "135",
+    "totalHours": "7",
+    "lecturesCount": "67",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6586855_e1cc_5.jpg",
+    "whatYoullLearn": [
+      "Understand transformers and their role in NLP.",
+      "Gain hands-on experience with Hugging Face Transformers.",
+      "Learn about relevant datasets and evaluation metrics.",
+      "Fine-tune transformers for text classification, question answering, natural language inference, text summarization, and machine translation.",
+      "Understand the principles of transformer fine-tuning.",
+      "Apply transformer fine-tuning to real-world NLP problems.",
+      "Learn about different types of transformers, such as BERT, GPT-2, and T5.",
+      "Hands-on experience with the Hugging Face Transformers library"
+    ],
+    "analytics": {
+      "relevance_score": 0.75,
+      "insight": "Course level is Intermediate",
+      "sentiment_analysis": {
+        "sentiment_score": 0.85,
+        "sentiment_tag": "High",
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "Helpful",
+          "Fun",
+          "Engaging Presenter"
+        ],
+        "detected_pain_points": [
+          "Difficult Practice Test"
+        ]
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "instructor_tag": "High",
+        "content_freshness_score": 0.85,
+        "freshness_tag": "High",
+        "course_engagement_score": 0.88,
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "Not specified"
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.07,
+      "popularity_tag": "Low",
+      "final_comparison_score": 71.55,
+      "filter_tags": []
+    }
+  },
+  {
+    "index": 15,
+    "level": "Intermediate",
+    "title": "Agentic AI - Risk and Cybersecurity Masterclass 2026",
+    "link": "https://www.udemy.com/course/ace-the-oci-2024-generative-ai-exam-1z0-1127-24/",
+    "ratingValue": "4.5",
+    "ratingsCount": "746",
+    "totalHours": "4",
+    "lecturesCount": "30",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6523579_d9c6_4.jpg",
+    "whatYoullLearn": [],
+    "analytics": {
+      "relevance_score": 0.75,
+      "insight": "Course level is Intermediate",
+      "sentiment_analysis": {
+        "sentiment_score": 0.85,
+        "sentiment_tag": "High",
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "Helpful",
+          "Fun",
+          "Engaging Presenter"
+        ],
+        "detected_pain_points": [
+          "Difficult Practice Test"
+        ]
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "instructor_tag": "High",
+        "content_freshness_score": 0.85,
+        "freshness_tag": "High",
+        "course_engagement_score": 0.88,
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "Not specified"
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.07,
+      "popularity_tag": "Low",
+      "final_comparison_score": 71.55,
+      "filter_tags": []
+    }
+  },
+  {
+    "index": 16,
+    "level": "Intermediate",
+    "title": "Fine Tuning LLM with Hugging Face Transformers for NLP",
+    "link": "https://www.udemy.com/course/building-intelligent-ai-tutors-for-domain-specific-knowledge/",
+    "ratingValue": "4.6",
+    "ratingsCount": "746",
+    "totalHours": "4",
+    "lecturesCount": "30",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5646470_85ff_5.jpg",
+    "whatYoullLearn": [
+      "Understand the process of designing AI tutors for specific knowledge domains.",
+      "Learn to preprocess and analyze domain-specific data.",
+      "Develop skills to build retrieval-based systems and enhance them with advanced summarization techniques.",
+      "Optimize and evaluate AI tutors for performance and effectiveness.",
+      "Prepare for practical applications of AI tutoring systems in real-world scenarios."
+    ],
+    "analytics": {
+      "relevance_score": 0.75,
+      "insight": "Course level is Intermediate",
+      "sentiment_analysis": {
+        "sentiment_score": 0.85,
+        "sentiment_tag": "High",
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "Helpful",
+          "Fun",
+          "Engaging Presenter"
+        ],
+        "detected_pain_points": [
+          "Difficult Practice Test"
+        ]
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "instructor_tag": "High",
+        "content_freshness_score": 0.85,
+        "freshness_tag": "High",
+        "course_engagement_score": 0.88,
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "Not specified"
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.07,
+      "popularity_tag": "Low",
+      "final_comparison_score": 71.55,
+      "filter_tags": []
+    }
+  },
+  {
+    "index": 17,
+    "level": "Intermediate",
+    "title": "Ace the OCI 2025 Generative AI Exam: 1Z0-1127-25",
+    "link": "https://www.udemy.com/course/agile-development-of-artificial-intelligence-with-scrum/",
+    "ratingValue": "4.5",
+    "ratingsCount": "32",
+    "totalHours": "13",
+    "lecturesCount": "50",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6102215_4344.jpg",
+    "whatYoullLearn": [
+      "Understand Agile Development and SCRUM",
+      "Gain a comprehensive understanding of Agile Development principles and the SCRUM framework",
+      "Learn how Agile and SCRUM differ from traditional, linear methodologies and why they are effective for managing complex projects",
+      "Learn SCRUM Roles and Responsibilities",
+      "Understand the roles within SCRUM, including the Product Owner, Scrum Master, and Development Team",
+      "Recognize the responsibilities of each role and how they collaborate to achieve project goals",
+      "Master SCRUM Events and Artifacts",
+      "Familiarize yourself with the key SCRUM events such as Sprint Planning, Daily Scrums, Sprint Reviews, and Sprint Retrospectives",
+      "Understand the importance of SCRUM artifacts, including the Product Backlog, Sprint Backlog, and Increment",
+      "Apply SCRUM in AI Projects",
+      "Learn how to adapt SCRUM methodologies to the unique challenges of AI projects, such as managing data, models, and computational resources",
+      "Understand the importance of iterative development and continuous improvement in AI projects.",
+      "Develop AI Models Using SCRUM",
+      "Gain practical experience in planning, developing, and deploying AI models within the SCRUM framework",
+      "Learn how to manage AI projects using SCRUM, including sprint planning, retrospective sessions, and continuous feedback loops",
+      "Implement AI Testing and Validation Strategies",
+      "Understand the importance of testing and validation in AI projects, including data validation, model performance testing, and bias management",
+      "Learn how to use tools and techniques to ensure the robustness, fairness, and ethical considerations of AI models",
+      "Manage Computational Resources and Model Optimization",
+      "Learn how to optimize AI models for deployment, including techniques like quantization, pruning, and knowledge distillation",
+      "Understand the management of computational resources, including auto-scaling, resource quotas, and monitoring",
+      "Ensure Ethical and Responsible AI Development",
+      "Explore the ethical challenges in AI development, including bias, fairness, and transparency",
+      "Learn how to implement ethical AI practices and manage bias in AI models",
+      "Develop a Final AI Project Using SCRUM",
+      "Apply all the knowledge and skills learned throughout the course to develop a final AI project using the SCRUM methodology",
+      "Create a web application with generative AI, integrating everything learned in the course",
+      "Prepare for Professional AI Project Management",
+      "Gain the practical skills and knowledge necessary to manage real-world AI development projects using Agile and SCRUM methodologies",
+      "Develop a practical methodology for approaching AI projects, combining theoretical knowledge with hands-on experience"
+    ],
+    "analytics": {
+      "relevance_score": 0.75,
+      "insight": "Course level is Intermediate",
+      "sentiment_analysis": {
+        "sentiment_score": 0.85,
+        "sentiment_tag": "High",
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "Helpful",
+          "Fun",
+          "Engaging Presenter"
+        ],
+        "detected_pain_points": [
+          "Difficult Practice Test"
+        ]
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "instructor_tag": "High",
+        "content_freshness_score": 0.85,
+        "freshness_tag": "High",
+        "course_engagement_score": 0.88,
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "Not specified"
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.07,
+      "popularity_tag": "Low",
+      "final_comparison_score": 71.55,
+      "filter_tags": []
+    }
+  },
+  {
+    "index": 18,
+    "level": "Intermediate",
+    "title": "Building Intelligent AI Tutors for Domain-Specific Knowledge",
+    "link": "https://www.udemy.com/course/semantic-search-api-with-s-bert-and-search-api-with-ragllm/",
+    "ratingValue": "4.0",
+    "ratingsCount": "32",
+    "totalHours": "13",
+    "lecturesCount": "50",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6388907_b1c2_2.jpg",
+    "whatYoullLearn": [
+      "Implement semantic text search engine API using S-BERT.",
+      "Implement a search engine API using Retrieval-Augmented Generation (RAG) and LLM.",
+      "Bootcamp for building an artificial intelligence API with resources used in companies like Google.",
+      "Acquisition of knowledge in Natural Language Processing (NLP) for text processing with Machine Learning.",
+      "Using NLP tools like NLTK, Spacy, Sentence Transformers for building search engine.",
+      "Using NLP tools like NLTK, Spacy, Sentence Transformers for building search engine.",
+      "Hands on (practical project) in building a complete Artificial Intelligence / Machine Learning project in Python.",
+      "Develop an LLM agent using LangChain."
+    ],
+    "analytics": {
+      "relevance_score": 0.75,
+      "insight": "Course level is Intermediate",
+      "sentiment_analysis": {
+        "sentiment_score": 0.85,
+        "sentiment_tag": "High",
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "Helpful",
+          "Fun",
+          "Engaging Presenter"
+        ],
+        "detected_pain_points": [
+          "Difficult Practice Test"
+        ]
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "instructor_tag": "High",
+        "content_freshness_score": 0.85,
+        "freshness_tag": "High",
+        "course_engagement_score": 0.88,
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "Not specified"
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.07,
+      "popularity_tag": "Low",
+      "final_comparison_score": 71.55,
+      "filter_tags": []
+    }
+  },
+  {
+    "index": 19,
+    "level": "Intermediate",
+    "title": "Agile Development of Artificial Intelligence with SCRUM",
+    "link": "https://www.udemy.com/course/scrum-masters-ai-bootcamp-generative-ai-agile-copilot/",
+    "ratingValue": "4.6",
+    "ratingsCount": "2502",
+    "totalHours": "7.5",
+    "lecturesCount": "72",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6341255_f6de_2.jpg",
+    "whatYoullLearn": [
+      "You will learn the fundamentals of what's driving AI tools like ChatGPT, Claude, Perplexity, Gemini, Deepseek",
+      "You will learn a number of Prompt Engineering strategies to get the best results from your AI-tools.",
+      "You will be able to build custom AI tools and automations such as Custom GPTs, Zapier AI workflows, and Claude Apps.",
+      "You will be leaen AI productivity tools like Otter AI, ChatGPT Agent Mode, Claude File System MCP, Microsoft Copilot Studio, Mermaid and Gamma",
+      "You will learn to integrate AI with your workflows by connecting tools such as Google Calendar, Canva, Outlook, Excel, and PowerPoint for planning,  reporting.",
+      "You will learn to generate a complete product backlog from a simple vision and turn it into epics and user stories with AI.",
+      "You will be able to supercharge sprint planning using AI for prioritization, estimation, capacity planning, and impediment detection.",
+      "You will use AI to enhance Scrum ceremonies by summarizing stand-ups, crafting sprint review narratives, and running deeper retrospectives.",
+      "You will leverage AI for data-driven decisions by analyzing sprint data, visualizing velocity and cycle time, and generating stakeholder reports.",
+      "You will learn how to lead AI adoption in your Agile team while managing risks and ethical considerations."
+    ],
+    "analytics": {
+      "relevance_score": 0.75,
+      "insight": "Course level is Intermediate",
+      "sentiment_analysis": {
+        "sentiment_score": 0.85,
+        "sentiment_tag": "High",
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "Helpful",
+          "Fun",
+          "Engaging Presenter"
+        ],
+        "detected_pain_points": [
+          "Difficult Practice Test"
+        ]
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "instructor_tag": "High",
+        "content_freshness_score": 0.85,
+        "freshness_tag": "High",
+        "course_engagement_score": 0.88,
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "Not specified"
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.07,
+      "popularity_tag": "Low",
+      "final_comparison_score": 71.55,
+      "filter_tags": []
+    }
+  },
+  {
+    "index": 20,
+    "level": "Intermediate",
+    "title": "Semantic Search API with S-BERT and Search API with RAG/LLM",
+    "link": "https://www.udemy.com/course/istqb-certified-tester-in-ai-testing-gen-ai-preparation/",
+    "ratingValue": "4.5",
+    "ratingsCount": "2502",
+    "totalHours": "7.5",
+    "lecturesCount": "72",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6276467_6a67_2.jpg",
+    "whatYoullLearn": [
+      "Understand the Fundamentals of AI and Gen-AI in Software Testing",
+      "Identify the Challenges and Risks of Testing AI Systems",
+      "Apply AI Testing Techniques and Approaches at your workplace",
+      "Prepare Effectively for the ISTQB Gen-AI Certification Exam"
+    ],
+    "analytics": {
+      "relevance_score": 0.75,
+      "insight": "Course level is Intermediate",
+      "sentiment_analysis": {
+        "sentiment_score": 0.85,
+        "sentiment_tag": "High",
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "Helpful",
+          "Fun",
+          "Engaging Presenter"
+        ],
+        "detected_pain_points": [
+          "Difficult Practice Test"
+        ]
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "instructor_tag": "High",
+        "content_freshness_score": 0.85,
+        "freshness_tag": "High",
+        "course_engagement_score": 0.88,
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "Not specified"
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.07,
+      "popularity_tag": "Low",
+      "final_comparison_score": 71.55,
+      "filter_tags": []
+    }
+  },
+  {
+    "index": 21,
+    "level": "Intermediate",
+    "title": "Scrum Master\u2019s AI Bootcamp: Generative AI as Agile Co-Pilot",
+    "link": "https://www.udemy.com/course/vector-database-using-llm-with-demo/",
+    "ratingValue": "4.6",
+    "ratingsCount": "106",
+    "totalHours": "14.5",
+    "lecturesCount": "24",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6861363_6593.jpg",
+    "whatYoullLearn": [
+      "Understand what vector databases are and how they differ from traditional databases",
+      "Learn how LLMs enhance vector-based retrieval, reasoning, and personalization",
+      "Perform basic CRUD operations and similarity searches in vector databases",
+      "Implement scaling, caching, and performance optimization techniques",
+      "Ensure security, privacy, and compliance in modern AI database systems"
+    ],
+    "analytics": {
+      "relevance_score": 0.75,
+      "insight": "Course level is Intermediate",
+      "sentiment_analysis": {
+        "sentiment_score": 0.85,
+        "sentiment_tag": "High",
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "Helpful",
+          "Fun",
+          "Engaging Presenter"
+        ],
+        "detected_pain_points": [
+          "Difficult Practice Test"
+        ]
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "instructor_tag": "High",
+        "content_freshness_score": 0.85,
+        "freshness_tag": "High",
+        "course_engagement_score": 0.88,
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "Not specified"
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.07,
+      "popularity_tag": "Low",
+      "final_comparison_score": 71.55,
+      "filter_tags": []
+    }
+  },
+  {
+    "index": 22,
+    "level": "Intermediate",
+    "title": "ISTQB Certified Tester-Testing with Generative AI(CT-GenAI)",
+    "link": "https://www.udemy.com/course/deploy-ai-smarter-llm-scalability-ml-ops-cost-efficiency/",
+    "ratingValue": "4.6",
+    "ratingsCount": "106",
+    "totalHours": "14.5",
+    "lecturesCount": "24",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6785667_099f_2.jpg",
+    "whatYoullLearn": [
+      "Learn to set-up, configure and deploy large language models with precision, ensuring smooth operation in production environments.",
+      "Gain practical skills in ML-Ops with MLflow for effective model management and deployment.",
+      "Conduct cost-benefit analyses and apply strategic planning for economical AI project management.",
+      "Implement the latest LLM optimization and scaling techniques to enhance model performance."
+    ],
+    "analytics": {
+      "relevance_score": 0.75,
+      "insight": "Course level is Intermediate",
+      "sentiment_analysis": {
+        "sentiment_score": 0.85,
+        "sentiment_tag": "High",
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "Helpful",
+          "Fun",
+          "Engaging Presenter"
+        ],
+        "detected_pain_points": [
+          "Difficult Practice Test"
+        ]
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "instructor_tag": "High",
+        "content_freshness_score": 0.85,
+        "freshness_tag": "High",
+        "course_engagement_score": 0.88,
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "Not specified"
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.07,
+      "popularity_tag": "Low",
+      "final_comparison_score": 71.55,
+      "filter_tags": []
+    }
+  },
+  {
+    "index": 23,
+    "level": "Intermediate",
+    "title": "Vector Databases & LLMs: Build AI Systems with Demos",
+    "link": "https://www.udemy.com/course/master-google-adk-build-enterprise-multi-agent-ai-systems/",
+    "ratingValue": "5.0",
+    "ratingsCount": "9",
+    "totalHours": "1.5",
+    "lecturesCount": "29",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6804181_b2c8.jpg",
+    "whatYoullLearn": [
+      "Build multi-agent AI systems using Google ADK",
+      "Orchestrate agents using tools, memory, and workflows",
+      "Deploy production-grade agents with Docker and APIs",
+      "Integrate agents with enterprise data and tools"
+    ],
+    "analytics": {
+      "relevance_score": 0.75,
+      "insight": "Course level is Intermediate",
+      "sentiment_analysis": {
+        "sentiment_score": 0.85,
+        "sentiment_tag": "High",
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "Helpful",
+          "Fun",
+          "Engaging Presenter"
+        ],
+        "detected_pain_points": [
+          "Difficult Practice Test"
+        ]
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "instructor_tag": "High",
+        "content_freshness_score": 0.85,
+        "freshness_tag": "High",
+        "course_engagement_score": 0.88,
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "Not specified"
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.07,
+      "popularity_tag": "Low",
+      "final_comparison_score": 71.55,
+      "filter_tags": []
+    }
+  },
+  {
+    "index": 24,
+    "level": "Intermediate",
+    "title": "Deploying LLMs: A Practical Guide to LLMOps in Production",
+    "link": "https://www.udemy.com/course/langgraph-in-action-develop-advanced-ai-agents-with-llms/",
+    "ratingValue": "4.6",
+    "ratingsCount": "9",
+    "totalHours": "1.5",
+    "lecturesCount": "29",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5900786_7af4_16.jpg",
+    "whatYoullLearn": [
+      "Understand the core functions and concepts of LangGraph, including nodes, edges, and checkpointers",
+      "Develop an AI agent with LangGraph that effectively uses both short-term and long-term memory",
+      "Implement advanced multi-agent workflows and subgraphs for handling complex real-world scenarios",
+      "Build production-ready AI agents using FastAPI, Docker, and unit testing for maintainable workflows"
+    ],
+    "analytics": {
+      "relevance_score": 0.75,
+      "insight": "Course level is Intermediate",
+      "sentiment_analysis": {
+        "sentiment_score": 0.85,
+        "sentiment_tag": "High",
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "Helpful",
+          "Fun",
+          "Engaging Presenter"
+        ],
+        "detected_pain_points": [
+          "Difficult Practice Test"
+        ]
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "instructor_tag": "High",
+        "content_freshness_score": 0.85,
+        "freshness_tag": "High",
+        "course_engagement_score": 0.88,
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "Not specified"
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.07,
+      "popularity_tag": "Low",
+      "final_comparison_score": 71.55,
+      "filter_tags": []
+    }
+  }
+]

@@ -1,0 +1,8 @@
+@layer base {
+  :root {
+    --color-deep-bg: #F3F3F3;
+    --color-text-light: #252F3E;
+  }
+  .dark { --color-deep-bg: #16191f; }
+  body { background-color: var(--color-deep-bg); }
+}

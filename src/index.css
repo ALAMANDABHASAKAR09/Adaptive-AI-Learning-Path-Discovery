@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{ --inter-font: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; }
+html, body, #root { height: 100%; }
+body { font-family: var(--inter-font); }
+
+/* small helper to mirror styles from original */
+.container-card { @apply bg-white rounded-xl shadow-md border p-6; }
+
+/* Smooth theme transitions */
+body { transition: background-color 0.35s ease, color 0.35s ease; }
+.container-card { transition: box-shadow 0.25s ease, transform 0.25s ease; }
+
+/* Theme toggle switch styles used in header and explorer */
+.theme-toggle { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.25rem 0.5rem; border-radius: 9999px; cursor: pointer; user-select: none; transition: background-color 0.25s ease, color 0.25s ease; }
+.theme-toggle .switch { width: 44px; height: 26px; background: #e5e7eb; border-radius: 9999px; position: relative; transition: background-color 0.25s ease; }
+.theme-toggle .knob { width: 20px; height: 20px; background: white; border-radius: 9999px; position: absolute; top: 3px; left: 3px; box-shadow: 0 2px 6px rgba(0,0,0,0.15); transition: transform 0.25s ease, left 0.25s ease; }
+.dark .theme-toggle .switch { background: #111827; }
+.dark .theme-toggle .knob { left: calc(100% - 23px); }
+
+/* Expanded stage layout helpers */
+.expanded-stage { max-width: 92rem; padding: 1.5rem; }
+.expanded-hero { border-radius: 1rem; overflow: hidden; position: relative; }
+.expanded-hero .overlay { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.55) 100%); }
+.expanded-hero .hero-content { position: relative; z-index: 10; }
+
+/* Explorer background helper (will work with inline background-image on container) */
+.explorer-bg { background-position: center; background-size: cover; background-repeat: no-repeat; }
+
+/* Make course cards larger in explorer */
+.course-card { display: block; background: var(--surface-1); border-radius: 0.75rem; overflow: hidden; box-shadow: 0 8px 18px rgba(15,23,42,0.06); transition: transform 0.18s ease, box-shadow 0.18s ease; }
+.course-card:hover { transform: translateY(-4px); box-shadow: 0 14px 28px rgba(15,23,42,0.08); }
+.course-card__image-container { height: 200px; overflow: hidden; }
+@media (min-width: 1024px) { .course-card__image-container { height: 240px; } }
+.course-card__image { width: 100%; height: 100%; object-fit: cover; display: block; }
+
+/* Improve contrast in hero content when overlay is present */
+.hero-content { color: #111827; }
+.dark .hero-content { color: #f8fafc; }
+
+/* Ensure content cards inside explorer have sufficient opacity for readability over background image */
+.expanded-stage .bg-white\/95 { background-color: rgba(255,255,255,0.95); }
+.dark .expanded-stage .dark\:bg-gray-800\/80 { background-color: rgba(31,41,55,0.82); }
+
+/* Pagination button visuals */
+button[disabled] { opacity: 0.5; }
+
+/* Make overlay slightly stronger on mobile for readability */
+@media (max-width: 768px) {
+  .expanded-hero .overlay { background: linear-gradient(180deg, rgba(0,0,0,0.55) 0%, rgba(0,0,0,0.7) 100%); }
+}
+
+/* Responsive tweaks for expanded explorer */
+@media (min-width: 1024px) {
+  .expanded-stage { padding: 2rem; }
+}
+
+/* Dark-mode fixes for filter controls and form elements used in explorer */
+.filter-group, .sort-group, .filter-toggle, .sort-toggle, .filter-content, .sort-content {
+  color: #111827; /* default dark text for light mode */
+}
+
+.dark .filter-group, .dark .sort-group, .dark .filter-toggle, .dark .sort-toggle {
+  background-color: #0f1724; /* darker surface */
+  border-color: #334155;
+  color: #e6eef8;
+}
+
+.dark .filter-content, .dark .sort-content {
+  background-color: rgba(15,23,36,0.9);
+  border-color: rgba(100,116,139,0.16);
+  color: #e0e5ea;
+}
+
+/* Radio/checkbox item text in dark mode */
+.dark .radio-item, .dark .checkbox-item { color: #e6eef8; }
+
+/* Ensure select / input fields show light text on dark */
+input, select, textarea, button {
+  color: inherit;
+}
+.dark input, .dark select, .dark textarea { color: #e6eef8; background-color: rgba(255,255,255,0.03); }
+
+/* Pagination buttons in dark mode */
+.dark button:not([disabled]) { background-color: #0b1220; color: #e6eef8; border: 1px solid rgba(255,255,255,0.04); }
+
+/* Make sure filter tags remain visible */
+.filter-tag { border: 1px solid rgba(0,0,0,0.06); }
+.dark .filter-tag { border-color: rgba(255,255,255,0.06); }
+.dark .filter-tag,
+.dark .filter-tag * {
+  color: #0b1220;            /* or use #111827 for dark text on yellow; if pill is yellow, use dark text for contrast */
+}
+
+/* Make radio/checkbox markers visible in dark */
+.radio-item input, .checkbox-item input { width: 14px; height: 14px; }
+.radio-item input:checked, .checkbox-item input:checked { outline: none; box-shadow: 0 0 0 2px rgba(255,153,0,0.12); }
+
+.dark .radio-item input, .dark .checkbox-item input { background-color: rgba(255,255,255,0.02); border-color: rgba(255,255,255,0.12); }
+.dark .radio-item input:checked, .dark .checkbox-item input:checked { background-color: #f97316; border-color: #f97316; }
+
+/* Ensure the 'Generative AI' filter label stands out */
+label.checkbox-item span, label.radio-item span { color: inherit; }
+.dark label.checkbox-item, .dark label.radio-item { color: #e6eef8; }
+
+/* Site-wide background image (place public/background.jpg to use). Fallback to theme color when missing. */
+body {
+  background-image: url('./react-course-app/background.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: var(--color-deep-bg, #F3F3F3);
+}
+
+/* Ensure main cards have a semi-opaque surface to remain readable over background */
+.container-card, .expanded-stage > .rounded-xl, .expanded-stage .bg-white\/95 {
+  background-color: rgba(255,255,255,0.92);
+}
+.dark .container-card, .dark .expanded-stage > .rounded-xl, .dark .expanded-stage .dark\:bg-gray-800\/90 {
+  background-color: rgba(17,24,39,0.85); /* dark surface with opacity */
+}
+
+/* Stronger contrast for filter toggles and labels in dark mode */
+.filter-toggle, .filter-group, .filter-content, .radio-item, .checkbox-item, .filter-tag {
+  color: inherit;
+}
+
+.dark .filter-toggle, .dark .radio-item, .dark .checkbox-item { color: #e6eef8; }
+
+/* Make sure selection labels (Step1 options etc) always have readable text */
+label, label span { color: inherit; }
+
+/* Slight padding & border emphasis on filter groups so they stand out */
+.filter-group { border-width: 1px; border-style: solid; }
+.dark .filter-group { border-color: rgba(255,255,255,0.06); }
+
+/* Ensure header transparent background doesn't clash with site image */
+.header { background-color: rgba(255,255,255,0.9); }
+.dark .header { background-color: rgba(6,8,15,0.7); }
+
+/* Keep high contrast for course cards across themes */
+.course-card { background-color: rgba(255,255,255,0.96); }
+.dark .course-card { background-color: rgba(17,24,39,0.86); }
+
+/* Make sure filter content popovers are solid and readable */
+.filter-content, .sort-content { background-color: rgba(255,255,255,0.98); }
+.dark .filter-content, .dark .sort-content { background-color: rgba(2,6,23,0.88); }
+
+/* Ensure inputs/selects show light text in dark mode */
+.dark input, .dark select, .dark textarea { color: #e6eef8; }
+
+/* Collapsible filter toolbar styles */
+.filters-toolbar { display: block; }
+.filter-section { position: relative; display: inline-block; }
+.filter-header { cursor: pointer; }
+.filter-panel { position: absolute; z-index: 40; min-width: 220px; margin-top: 6px; box-shadow: 0 8px 24px rgba(2,6,23,0.12); }
+.filter-panel .radio-item, .filter-panel .checkbox-item { display: block; padding: 4px 0; }
+
+/* ensure hover-open does not keep other panels open; only panel hovered or explicitly expanded opens */
+.filter-section .filter-panel { display: none; }
+.filter-section:hover .filter-panel { display: block; }
+
+/* explicit expanded state for JS toggle */
+.filter-section.expanded .filter-panel { display: block; }
+
+/* ensure panels inside toolbar don't push layout */
+.filters-toolbar { position: relative; }
+
+/* spacing for lecture/enrollment row inside course card */
+.course-card .text-xs strong { color: inherit; }
+
+:root{ --surface-1: #ffffff; --surface-2: #f7fafc; --surface-3: #eef2f7; --muted-text: #6b7280; }
+
+/* Replace pure-white backgrounds with subtle tints from the existing palette */
+body {
+  /* soft neutral background instead of stark white */
+  background-color: var(--surface-2);
+  background-image: linear-gradient(180deg, rgba(255,255,255,0.02), transparent 40%);
+}
+
+/* slightly less bright surface for main containers */
+.container-card, .expanded-stage > .rounded-xl, .expanded-stage .bg-white\/95 {
+  background-color: rgba(247,250,252,0.95); /* off-white with subtle tint */
+}
+.dark .container-card, .dark .expanded-stage > .rounded-xl, .dark .expanded-stage .dark\:bg-gray-800\/90 {
+  background-color: rgba(17,24,39,0.85);
+}
+
+/* reduce overall padding for tighter layout between stages */
+.expanded-stage { max-width: 92rem; padding: 1.5rem; }
+@media (min-width: 1024px) { .expanded-stage { padding: 2rem; } }
+
+/* soften card backgrounds and shadows */
+.course-card { background-color: var(--surface-1); box-shadow: 0 8px 18px rgba(15,23,42,0.06); }
+.course-card:hover { transform: translateY(-4px); box-shadow: 0 14px 28px rgba(15,23,42,0.08); }
+
+/* larger thumbnails for better visibility */
+.course-card__image-container { height: 200px; overflow: hidden; }
+@media (min-width: 1024px) { .course-card__image-container { height: 240px; } }
+
+/* slightly tighter grid spacing */
+.course-grid { gap: 12px; }
+
+/* use muted text variable */
+.text-muted { color: var(--muted-text); }

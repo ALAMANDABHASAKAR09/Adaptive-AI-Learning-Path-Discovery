@@ -1,0 +1,753 @@
+[
+    {
+        "index": 1,
+        "level": "Beginner",
+        "title": "Generative AI for Beginners",
+        "link": "https://www.udemy.com/course/generative-ai-for-beginners-b/",
+        "ratingValue": "4.5",
+        "ratingsCount": "62490",
+        "totalHours": "3.5",
+        "lecturesCount": "27",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/5655756_50d9_10.jpg",
+        "whatYoullLearn": [
+            "Detailed Understanding of Generative AI",
+            "Key Concepts - LLM, Embeddings, Prompt Engineering, Fine Tuning",
+            "Industry use cases and ideas that can be implemented",
+            "Hands-on experience, creating a chatbot",
+            "Future trends and how to stay relevant in post-GenAI world",
+            "Roadmap for continous learning"
+        ],
+        "analytics": {
+            "relevance_score": 0.8,
+            "insight": "This course is highly relevant but does not specifically mention core LLM or RAG concepts. It is aimed at a beginner level, which may be too introductory. The short duration (3 hours) suggests it's a brief introduction. The high average rating (4.5) indicates strong student satisfaction.",
+            "normalized_rating": 0.9,
+            "normalized_popularity": 0.14,
+            "final_comparison_score": 8.16,
+            "filter_tags": [
+                "Beginner",
+                "Short (< 10h)"
+            ]
+        }
+    },
+    {
+        "index": 2,
+        "level": "Beginner",
+        "title": "2026 Bootcamp: Generative AI, LLM Apps, AI Agents, Cursor AI",
+        "link": "https://www.udemy.com/course/bootcamp-generative-artificial-intelligence-and-llm-app-development/",
+        "ratingValue": "4.3",
+        "ratingsCount": "62490",
+        "totalHours": "3.5",
+        "lecturesCount": "27",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/5782854_4bd2_7.jpg",
+        "whatYoullLearn": [
+            "Keys to AI, Generative AI, LLM Apps, and new AI Coding Assistants like Cursor AI.",
+            "LLM Apps with LangChain, CrewAI, LangGraph, LangServe and LangSmith.",
+            "How to build apps without coding using Cursor AI and AI Coding Assistants.",
+            "How to build the new Multimodal and Multi-Agent LLM Applications.",
+            "Opportunities and threats of AI for businesses, startups, and jobs.",
+            "RAG Applications in Depth: Full Stack RAG Apps and Advanced Techniques.",
+            "How to manage LLMOps: Observability, Evaluation, Testing, Etc.",
+            "Professional opportunities opened by Artificial Intelligence.",
+            "Steps to become an Artificial Intelligence Engineer.",
+            "How to introduce Artificial Intelligence into your business.",
+            "Keys to LLM Applications, the highest potential applications of Generative AI.",
+            "Architecture of professional LLM Applications.",
+            "The RAG Technique (Retrieval Augmented Generation).",
+            "Artificial Intelligence Agents.",
+            "Basic and advanced LangChain, LangChain LCEL, and LangChain v010. LangSmith, LangServe, LangChain Templates.",
+            "LCEL (LangChain Expression Language) in depth.",
+            "Basic and advanced LlamaIndex. LlamaIndex Templates.",
+            "ChatGPT, OpenAI, OpenAI functions, and the OpenAI API.",
+            "Large Language Models (LLM): ChatGPT, Llama2, Mistral, Falcon, etc.",
+            "Vector databases: Postgres, Pinecone, Chroma, FAISS, DeepLake, etc.",
+            "Full-Stack Applications: Nextjs and FastAPI.",
+            "Professional deployment: Vercel and Render.",
+            "Provisional deployment: Streamlit.",
+            "Cloud hosting: AWS S3.",
+            "How to apply the principles of Responsible AI.",
+            "Daily tools of the AI Engineer: Jupyter Notebooks, Python, Terminal, Github, Codespaces, etc."
+        ],
+        "analytics": {
+            "relevance_score": 1.0,
+            "insight": "This course is highly relevant and directly addresses the topic of LLM/RAG. It is aimed at a beginner level, which may be too introductory. The short duration (3 hours) suggests it's a brief introduction. The high average rating (4.3) indicates strong student satisfaction.",
+            "normalized_rating": 0.86,
+            "normalized_popularity": 0.14,
+            "final_comparison_score": 9.04,
+            "filter_tags": [
+                "Beginner",
+                "Short (< 10h)"
+            ]
+        }
+    },
+    {
+        "index": 3,
+        "level": "Beginner",
+        "title": "Generative AI application design and development",
+        "link": "https://www.udemy.com/course/generative-ai-app-dev/",
+        "ratingValue": "4.8",
+        "ratingsCount": "3353",
+        "totalHours": "72.5",
+        "lecturesCount": "712",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6178491_bf1a.jpg",
+        "whatYoullLearn": [
+            "Learners will master the core concepts and principles behind Generative AI, how LLMs work, and how they can be applied in real-world use cases.",
+            "Develop practical skills to design, architect, and implement smart applications leveraging a wide range of LLMs from both open and closed sources.",
+            "Learn how to effectively use popular tools including LangChain, LangGraph,  HuggingFace, StreamLit, Ollama, and more",
+            "Understand and implement best practices when it comes to efficiency, scalability, and responsible use of generative AI in production environments.",
+            "Identify and navigate challenges specific to generative AI applications.",
+            "Prepare for intermediate-level technical interviews for roles in Generative AI.",
+            "Learn how In-context learning, RAG and Fine-tuning works under the covers"
+        ],
+        "analytics": {
+            "relevance_score": 1.0,
+            "insight": "This course is highly relevant and directly addresses the topic of LLM/RAG. It is aimed at a beginner level, which may be too introductory. The extensive duration (72 hours) suggests comprehensive coverage. The high average rating (4.8) indicates strong student satisfaction.",
+            "normalized_rating": 0.96,
+            "normalized_popularity": 1.0,
+            "final_comparison_score": 9.76,
+            "filter_tags": [
+                "Beginner",
+                "Long (> 40h)"
+            ]
+        }
+    },
+    {
+        "index": 4,
+        "level": "Beginner",
+        "title": "AWS Certified Machine Learning Specialty 2025 - Hands On!",
+        "link": "https://www.udemy.com/course/generative-ai-for-leaders/",
+        "ratingValue": "4.5",
+        "ratingsCount": "3353",
+        "totalHours": "72.5",
+        "lecturesCount": "712",
+        "whatYoullLearn": [
+            "Delve deep into AI's essence: Business leaders can grasp the myriad facets of AI without drowning in technicalities.",
+            "Generative AI's brilliance: Learn how it's reshaping industries by creating novel content, a boon for forward-thinking businesses.",
+            "Shape your business future: Discover AI's strategic role in decision-making, ensuring a competitive edge in the marketplace.",
+            "Teamwork makes the AI dream work: Recognize the pivotal roles from tech experts to executives in AI's seamless integration.",
+            "Amplify business outcomes: Harness Generative AI tools, revolutionizing efficiency and innovation in the corporate realm.",
+            "Leadership evolution in AI times: Cultivate skills harmonizing with an AI-augmented world, preparing businesses for the future.",
+            "Navigating AI's ethical maze: Leaders must champion responsible Generative AI use, safeguarding values and societal trust.",
+            "Embrace and adapt: Leaders are at the helm, steering businesses through AI's transformative waves, ensuring growth and resilience.",
+            "Learn how to leverage Perplexity AI for Research and Writing"
+        ],
+        "analytics": {
+            "relevance_score": 0.0,
+            "insight": "This course is a very poor match and does not specifically mention core LLM or RAG concepts. It is aimed at a beginner level, which may be too introductory. The extensive duration (72 hours) suggests comprehensive coverage. The high average rating (4.5) indicates strong student satisfaction.",
+            "normalized_rating": 0.9,
+            "normalized_popularity": 1.0,
+            "final_comparison_score": 3.7,
+            "filter_tags": [
+                "Beginner",
+                "Long (> 40h)"
+            ]
+        }
+    },
+    {
+        "index": 5,
+        "level": "Beginner",
+        "title": "AWS Certified Machine Learning Specialty Full Practice Exam",
+        "link": "https://www.udemy.com/course/generative-ai-for-net-developers-with-azure-ai-services/",
+        "ratingValue": "4.5",
+        "ratingsCount": "290",
+        "totalHours": "27",
+        "lecturesCount": "257",
+        "whatYoullLearn": [
+            "Understand the Fundamentals of Generative AI",
+            "Integrate Azure AI Services with .NET",
+            "Work with Natural Language Processing (NLP)",
+            "Develop AI-Enhanced Applications",
+            "Develop generative AI solutions using .NET and Azure OpenAI Services",
+            "Integrate with Azure AI Cognitive Services",
+            "Explore Machine Learning Fundamentals",
+            "Develop and train models using Azure ML",
+            "Use ML Builder to develop and train local neural network models",
+            "Implement grounded Retrieval-Augmented Generation (RAG) generative AI applications",
+            "Use Azure AI Studio to explore and deploy OpenAI models for text and image generation",
+            "Explore and implement GPT and DALL-E OpenAI models"
+        ],
+        "analytics": {
+            "relevance_score": 0.4,
+            "insight": "This course has minimal relevance but does not specifically mention core LLM or RAG concepts. It is aimed at a beginner level, which may be too introductory. The extensive duration (27 hours) suggests comprehensive coverage. The high average rating (4.5) indicates strong student satisfaction.",
+            "normalized_rating": 0.9,
+            "normalized_popularity": 1.0,
+            "final_comparison_score": 6.8,
+            "filter_tags": [
+                "Beginner",
+                "Medium (10-40h)"
+            ]
+        }
+    },
+    {
+        "index": 6,
+        "level": "Beginner",
+        "title": "Generative AI for Leaders & Business Professionals",
+        "link": "https://www.udemy.com/course/generative-ai-for-beginners-learning-with-demos/",
+        "ratingValue": "4.5",
+        "ratingsCount": "290",
+        "totalHours": "27",
+        "lecturesCount": "257",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/5617682_3b88_2.jpg",
+        "whatYoullLearn": [
+            "AI Concepts & Workloads",
+            "Machine Learning Foundations",
+            "Types of Machine Learning",
+            "Demo Lab on Machine Learning",
+            "Deep Learning Foundations",
+            "Types of Deep Learning",
+            "Demo Lab on Deep Learning",
+            "Generative AI Foundations",
+            "Embeddings Vs Vector Databases",
+            "AI Infrastructure",
+            "OpenAI / ChatGPT / APIs",
+            "Azure OpenAI",
+            "Bring Your Own Data - RAG with Azure AI Search",
+            "Azure OpenAI Fine Tuning",
+            "Azure OpenAI Content Filtering",
+            "Azure OpenAI - IAM / RBAC Model",
+            "Azure OpenAI - Making API Calls (Python Codes)",
+            "Assistants API",
+            "Assistants API - Code Interpreter (Python Code)",
+            "Assistants API - Function Calling",
+            "Assistants API - Code Interpreter",
+            "Assistants API - File Search",
+            "RAG-Using Azure AI Search & LangChain"
+        ],
+        "analytics": {
+            "relevance_score": 1.0,
+            "insight": "This course is highly relevant but does not specifically mention core LLM or RAG concepts. It is aimed at a beginner level, which may be too introductory. The extensive duration (27 hours) suggests comprehensive coverage. The high average rating (4.5) indicates strong student satisfaction.",
+            "normalized_rating": 0.9,
+            "normalized_popularity": 1.0,
+            "final_comparison_score": 9.8,
+            "filter_tags": [
+                "Beginner",
+                "Medium (10-40h)"
+            ]
+        }
+    },
+    {
+        "index": 7,
+        "level": "Beginner",
+        "title": "Generative AI for .NET Developers with Azure AI Services",
+        "link": "https://www.udemy.com/course/aws-ai-practitioner-certified/",
+        "ratingValue": "4.6",
+        "ratingsCount": "3728",
+        "totalHours": "9.5",
+        "lecturesCount": "68",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6081691_7659.jpg",
+        "whatYoullLearn": [
+            "Pass the AWS Certified AI Practitioner Certification AIF-C01",
+            "Practice Exam with Explanations included!",
+            "Learn the Fundamentals of Artificial Intelligence, Machine Learning, Deep Learning & Generative AI",
+            "Learn the key AWS AI services, including a deep dive on Bedrock, Amazon Q and SageMaker",
+            "Learn Prompt Engineering",
+            "All 200+ slides available as downloadable PDF"
+        ],
+        "analytics": {
+            "relevance_score": 0.6,
+            "insight": "This course is highly relevant but does not specifically mention core LLM or RAG concepts. It is aimed at a beginner level, which may be too introductory. The short duration (9 hours) suggests it's a brief introduction. The high average rating (4.6) indicates strong student satisfaction.",
+            "normalized_rating": 0.92,
+            "normalized_popularity": 0.34,
+            "final_comparison_score": 7.28,
+            "filter_tags": [
+                "Beginner",
+                "Short (< 10h)"
+            ]
+        }
+    },
+    {
+        "index": 8,
+        "level": "Beginner",
+        "title": "Generative AI:Beginner to Pro with OpenAI & Azure OpenAI",
+        "link": "https://www.udemy.com/course/ai-content-generation/",
+        "ratingValue": "4.5",
+        "ratingsCount": "3728",
+        "totalHours": "9.5",
+        "lecturesCount": "68",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/5785006_5455_21.jpg",
+        "whatYoullLearn": [
+            "Use ChatGPT, DALLE-2, Stable Diffusion, Whisper, Synthesia, MAKE-A-VIDEO, IMAGEN to Automate Content Creation",
+            "Master Prompt Engineering across: Text to text & Text to Image Generation for best results on BARD, GPT-4, DALLE-2, GEN-1, Stable Diffusion",
+            "Stay up-to-date on Generative AI News & Concepts in practical ways: GANs, GAI, LMMs, Transformers, Stable Diffusion, AI Content Generation,",
+            "Unleash Your Content Potential! Generate 100s of Ideas for Text, Image, Audio, & Video with the Power of Generative AI.",
+            "Learn how to use industry-leading tools for text, image, audio & video generation",
+            "Unleash Your AI Creativity with Avatars! Learn to Generate AI-Powered Avatars without Writing Any Code in Stable Diffusion",
+            "Stay Ahead of the Game with the Latest Generative AI News. Get Access to Cutting-Edge Updates and Advance Your Skills Today!",
+            "Unlock Your Content Creation Potential! Get Hands-On Experience and Gain a Competitive Edge with Generative AI.",
+            "Learn how to leverage Perplexity AI for Research and Writing"
+        ],
+        "analytics": {
+            "relevance_score": 0.4,
+            "insight": "This course has minimal relevance but does not specifically mention core LLM or RAG concepts. It is aimed at a beginner level, which may be too introductory. The short duration (9 hours) suggests it's a brief introduction. The high average rating (4.5) indicates strong student satisfaction.",
+            "normalized_rating": 0.9,
+            "normalized_popularity": 0.34,
+            "final_comparison_score": 5.38,
+            "filter_tags": [
+                "Beginner",
+                "Short (< 10h)"
+            ]
+        }
+    },
+    {
+        "index": 9,
+        "level": "Beginner",
+        "title": "[NEW] Ultimate AWS Certified AI Practitioner AIF-C01",
+        "link": "https://www.udemy.com/course/ai-literacy-generative-ai-in-the-workplace/",
+        "ratingValue": "4.8",
+        "ratingsCount": "458",
+        "totalHours": "6.5",
+        "lecturesCount": "98",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6082775_2db5_3.jpg",
+        "whatYoullLearn": [
+            "Demonstrate the ability to use at least three generative AI tools relevant to your job function.",
+            "Apply prompt engineering techniques to effectively communicate with AI tools for improved results.",
+            "Develop a strategy for integrating generative AI tools into your daily work routine to enhance productivity.",
+            "Identify at least five practical applications of generative AI in various business functions.",
+            "Evaluate the potential benefits and limitations of implementing generative AI in your role.",
+            "Formulate effective questions and prompts to maximize the utility of generative AI in problem-solving scenarios.",
+            "Adapt existing workflows to incorporate generative AI tools for improved efficiency.",
+            "Articulate the potential impact of generative AI on your industry and career trajectory.",
+            "Communicate the value and limitations of generative AI to both technical and non-technical stakeholders.",
+            "Create a personal action plan for continuous learning and skill development in the field of AI."
+        ],
+        "analytics": {
+            "relevance_score": 0.2,
+            "insight": "This course has minimal relevance but does not specifically mention core LLM or RAG concepts. It is aimed at a beginner level, which may be too introductory. The short duration (6 hours) suggests it's a brief introduction. The high average rating (4.8) indicates strong student satisfaction.",
+            "normalized_rating": 0.96,
+            "normalized_popularity": 0.49,
+            "final_comparison_score": 4.86,
+            "filter_tags": [
+                "Beginner",
+                "Short (< 10h)"
+            ]
+        }
+    },
+    {
+        "index": 10,
+        "level": "Beginner",
+        "title": "Master Generative AI: Automate Content Effortlessly with AI",
+        "link": "https://www.udemy.com/course/self-guided-learning-with-chatgpt-enhance-your-skills/",
+        "ratingValue": "4.5",
+        "ratingsCount": "458",
+        "totalHours": "6.5",
+        "lecturesCount": "98",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/5071718_8cff.jpg",
+        "whatYoullLearn": [
+            "Understanding and Utilizing ChatGPT Capabilities",
+            "Developing Effective Learning Strategies",
+            "Enhancing Productivity and Task Management",
+            "Ethical Use and Critical Thinking",
+            "Applying ChatGPT to Problem Solving and Creative Thinking",
+            "Integrating ChatGPT with Other Digital Tools"
+        ],
+        "analytics": {
+            "relevance_score": 0.0,
+            "insight": "This course is a very poor match and does not specifically mention core LLM or RAG concepts. It is aimed at a beginner level, which may be too introductory. The short duration (6 hours) suggests it's a brief introduction. The high average rating (4.5) indicates strong student satisfaction.",
+            "normalized_rating": 0.9,
+            "normalized_popularity": 0.49,
+            "final_comparison_score": 2.38,
+            "filter_tags": [
+                "Beginner",
+                "Short (< 10h)"
+            ]
+        }
+    },
+    {
+        "index": 11,
+        "level": "Beginner",
+        "title": "AI Literacy Basics: Applying Generative AI in the Workplace",
+        "link": "https://www.udemy.com/course/generative-ai-and-prompt-engineering/",
+        "ratingValue": "4.5",
+        "ratingsCount": "881",
+        "totalHours": "16.5",
+        "lecturesCount": "260",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6030716_30f8.jpg",
+        "whatYoullLearn": [
+            "Learn the evolution of Large Language Models and how they leverage Transformers",
+            "AI Engineer: Learn Advanced Prompt Engineering skills like shot prompting and prompt chaining",
+            "Prompt Engineer: Become a superhuman prompt engineer by mastering the skill of crafting effective prompts",
+            "ChatGPT: Generate content, analyze data, and accelerate learning with powerful prompt engineering techniques!",
+            "Productivity: Reach your goals faster with ChatGPT",
+            "Marketing: Harness the power of ChatGPT to produce tailored content, stay ahead of trends, and design engaging ads, newsletters, and media campaigns!",
+            "AI Video & Audio Tools: Bring your scripts to life, transform them into engaging content, and effortlessly produce social media content",
+            "AI Image Generation: Instantly create stunning visuals, illustrations, and graphics from text prompts, and elevate your content with cutting-edge AI"
+        ],
+        "analytics": {
+            "relevance_score": 0.6,
+            "insight": "This course is highly relevant but does not specifically mention core LLM or RAG concepts. It is aimed at a beginner level, which may be too introductory. The extensive duration (16 hours) suggests comprehensive coverage. The high average rating (4.5) indicates strong student satisfaction.",
+            "normalized_rating": 0.9,
+            "normalized_popularity": 1.0,
+            "final_comparison_score": 8.3,
+            "filter_tags": [
+                "Beginner",
+                "Medium (10-40h)"
+            ]
+        }
+    },
+    {
+        "index": 12,
+        "level": "Beginner",
+        "title": "Self-Guided Learning with ChatGPT and GenAI and become a pro",
+        "link": "https://www.udemy.com/course/ai-for-managers/",
+        "ratingValue": "4.8",
+        "ratingsCount": "881",
+        "totalHours": "16.5",
+        "lecturesCount": "260",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/5817070_df8a.jpg",
+        "whatYoullLearn": [
+            "You know exactly why Generative AI & AI is important for your business now, how to leverage AI in your organization, address fears, and handle risks of AI",
+            "You will gain a competitive edge over competitors by getting your people excited about AI (instead of scared)",
+            "\"Good fantastic course for managers and executives to start the AI journey\", Sandeep - 100% AI know-how for business, 0% tech/coding",
+            "4 examples for using Generative AI in the workplace show you the power of AI",
+            "You understand, evaluate, and mitigate the risks of AI and GenAI- beyond ChatGPT",
+            "You address the fears of employees when introducing AI",
+            "You see high quality AI avatars co-facilitating this course and real-world examples of multiple industries to understand the power of AI",
+            "Free ebook/workbook for managers to leverage AI in their organizations",
+            "Spanish, Portuguese, German, English, French Subtitles professionally translated"
+        ],
+        "analytics": {
+            "relevance_score": 0.0,
+            "insight": "This course is a very poor match and does not specifically mention core LLM or RAG concepts. It is aimed at a beginner level, which may be too introductory. The extensive duration (16 hours) suggests comprehensive coverage. The high average rating (4.8) indicates strong student satisfaction.",
+            "normalized_rating": 0.96,
+            "normalized_popularity": 1.0,
+            "final_comparison_score": 2.88,
+            "filter_tags": [
+                "Beginner",
+                "Medium (10-40h)"
+            ]
+        }
+    },
+    {
+        "index": 13,
+        "level": "Beginner",
+        "title": "Generative AI and Prompt Engineering For Absolute Beginners",
+        "link": "https://www.udemy.com/course/the-ultimate-beginners-guide-to-ai-and-machine-learning/",
+        "ratingValue": "4.6",
+        "ratingsCount": "29486",
+        "totalHours": "10.5",
+        "lecturesCount": "148",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6293005_c499.jpg",
+        "whatYoullLearn": [
+            "Demonstrate a solid understanding of the difference between AI, Machine Learning and Deep Learning.",
+            "Clearly articulate why Large Language Models like ChatGPT and Bard are NOT intelligent.",
+            "Articulate the difference between Supervised, Unsupervised, and Reinforcement Machine Learning.",
+            "Explain the concept of machine learning and its relation to AI.",
+            "Define artificial intelligence (AI) and differentiate it from human intelligence.",
+            "Describe what Artificial Intelligence is, and what it is not.",
+            "Explain what types of sophisticated software systems are not AI systems.",
+            "Describe how Machine Learning is different to the classical software development approach.",
+            "Compare and contrast supervised, unsupervised, and reinforcement learning.",
+            "Explain Supervised and Unsupervised Machine Learning terms such as algorithms, models, labels and features.",
+            "Explain Function Approximators and the role of Neural Networks as Universal Function Approximators.",
+            "Explain Encoding and Decoding when using machine learning models to work with non-numeric, categorical type data.",
+            "Demonstrate an intuitive understanding of Reinforcement Learning concepts such as agents, environments, rewards and goals.",
+            "Identify examples of AI in everyday life and discuss their impact.",
+            "Evaluate the effectiveness of different AI applications in real-world scenarios.",
+            "Apply basic principles of neural networks to a hypothetical problem.",
+            "Discuss the role of data in training AI models",
+            "Construct a neural network model for a specified task",
+            "Assess the impact of AI on job markets and skill requirements",
+            "Recall the key milestones in the evolution of AI from theory to its practical applications in business contexts.",
+            "Explain the benefits of integrating AI with human teams to improve business outcomes.",
+            "Identify and debunk common misconceptions about AI in the workplace.",
+            "Evaluate ethical considerations and propose ethical guidelines for implementing AI in team environments.",
+            "Identify potential opportunities where AI could enhance team performance within your organization.",
+            "Demonstrate effective collaboration techniques between AI systems and human team members in project scenarios.",
+            "Build trust among team members in using AI systems by facilitating open discussions about AI capabilities and limitations.",
+            "Create a strategy to foster a culture that embraces AI innovation and change within a team or organization",
+            "Compare AI tools commonly used in business settings to determine which would best meet your team’s needs",
+            "Describe how AI technologies can be used for data analysis and decision-making in business projects.",
+            "Lead a team through AI-driven changes by developing and implementing strategies for AI integration.",
+            "Use AI for predictive analytics and risk management, demonstrating improved decision-making processes in team projects.",
+            "Implement AI-driven personalization in marketing campaigns and measure the impact on consumer engagement.",
+            "Develop a plan to use AI for enhancing recruitment and talent management processes within Human Resources.",
+            "Analyze financial data using AI tools for forecasting and budget planning, demonstrating improved accuracy in financial management",
+            "Optimize supply chain management by integrating AI solutions for inventory management and demand forecasting.",
+            "Identify barriers to AI integration and devise strategies to address them, fostering an environment conducive to AI adoption.",
+            "Develop and ensure adherence to ethical AI guidelines in your team or organization, demonstrating responsible AI use.",
+            "Predict future trends in AI and prepare your team or organization for innovative AI technologies and methodologies.",
+            "Design and implement a continuous improvement plan for AI integration, demonstrating long-term success in enhancing team performance.",
+            "Explain the concept of Artificial Intelligence and its significance in the modern world.",
+            "Differentiate between Narrow AI, General AI, and Superintelligent AI in terms of capabilities and limitations.",
+            "Utilize machine learning algorithms to identify patterns in data.",
+            "Implement a basic neural network using deep learning frameworks",
+            "Assess the role of data in training AI systems and the importance of a robust AI ecosystem.",
+            "Apply supervised learning algorithms to solve real-world predictive problems.",
+            "Cluster data points using unsupervised learning algorithms like K-means clustering.",
+            "Design a reinforcement learning model to optimize decision-making processes.",
+            "Prepare datasets for machine learning by performing data cleaning, normalization, and feature selection.",
+            "Evaluate the performance of machine learning models to avoid overfitting using validation techniques.",
+            "Create a Convolutional Neural Network (CNN) to recognize patterns in images.",
+            "Develop a Recurrent Neural Network (RNN) for processing sequential data.",
+            "Generate realistic data samples with Generative Adversarial Networks (GANs).",
+            "Employ predictive analytics tools to forecast future trends based on historical data.",
+            "Implement text processing techniques in natural language processing (NLP) for sentiment analysis.",
+            "Leverage AI-driven decision-making tools to enhance business processes.",
+            "Analyze customer behavior using AI techniques for targeted marketing strategies.",
+            "Automate repetitive tasks within an organization using Robotic Process Automation (RPA).",
+            "Optimize supply chain operations by applying AI-driven predictive analytics.",
+            "Apply AI in healthcare to improve accuracy in medical diagnosis and personalized medicine.",
+            "Define artificial intelligence and differentiate between AI and machine learning.",
+            "Identify and describe three major applications of AI in business.",
+            "Explain the role of AI in digital transformation and its impact on businesses.",
+            "Discuss the importance of ethics and governance in AI development and deployment.",
+            "Classify different data types and sources relevant for AI projects.",
+            "Describe the process of collecting and managing data for use in AI applications.",
+            "Apply data preprocessing techniques to improve the quality of data for AI models.",
+            "Demonstrate data representation techniques suitable for AI algorithms.",
+            "Evaluate data quality and implement data governance practices in AI projects.",
+            "Understand the basic concepts of machine learning and its main types.",
+            "Apply supervised learning algorithms to solve classification and regression problems.",
+            "Utilize unsupervised learning techniques for data clustering and anomaly detection.",
+            "Describe the fundamentals of reinforcement learning and its application areas.",
+            "Develop a simple linear regression model for predictive analytics.",
+            "Construct a decision tree model to classify data into predefined categories.",
+            "Implement a basic neural network for solving simple classification problems.",
+            "Apply k-means clustering algorithm to segment data into distinct groups.",
+            "Analyze text data using natural language processing (NLP) techniques for sentiment analysis.",
+            "Build and train a convolutional neural network (CNN) for image classification tasks.",
+            "Design a reinforcement learning model using the Q-learning algorithm for decision-making processes."
+        ],
+        "analytics": {
+            "relevance_score": 0.6,
+            "insight": "This course is highly relevant but does not specifically mention core LLM or RAG concepts. It is aimed at a beginner level, which may be too introductory. The extensive duration (10 hours) suggests comprehensive coverage. The high average rating (4.6) indicates strong student satisfaction.",
+            "normalized_rating": 0.92,
+            "normalized_popularity": 0.74,
+            "final_comparison_score": 7.96,
+            "filter_tags": [
+                "Beginner",
+                "Medium (10-40h)"
+            ]
+        }
+    },
+    {
+        "index": 14,
+        "level": "Beginner",
+        "title": "AI for business - AI 101 fundamentals for managers & leaders",
+        "link": "https://www.udemy.com/course/ai-bootcamp-guru/",
+        "ratingValue": "4.5",
+        "ratingsCount": "29486",
+        "totalHours": "10.5",
+        "lecturesCount": "148",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/5402192_7588_2.jpg",
+        "whatYoullLearn": [
+            "Explain the Fundamentals of Artificial Intelligence (AI)",
+            "Differentiate Between AI, Machine Learning, and Deep Learning",
+            "Understand the Basics of Machine Learning",
+            "Explore Deep Learning and Neural Networks",
+            "Analyze Common AI Applications",
+            "Apply AI Concepts in Real-Life Scenarios",
+            "Prepare for Further AI Learning"
+        ],
+        "analytics": {
+            "relevance_score": 0.0,
+            "insight": "This course is a very poor match and does not specifically mention core LLM or RAG concepts. It is aimed at a beginner level, which may be too introductory. The extensive duration (10 hours) suggests comprehensive coverage. The high average rating (4.5) indicates strong student satisfaction.",
+            "normalized_rating": 0.9,
+            "normalized_popularity": 0.74,
+            "final_comparison_score": 2.98,
+            "filter_tags": [
+                "Beginner",
+                "Medium (10-40h)"
+            ]
+        }
+    },
+    {
+        "index": 15,
+        "level": "Beginner",
+        "title": "The Ultimate Beginner's Guide to AI and Machine Learning",
+        "link": "https://www.udemy.com/course/google-veo-ai-video/",
+        "ratingValue": "4.1",
+        "ratingsCount": "6675",
+        "totalHours": "12",
+        "lecturesCount": "95",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/5329926_9de6_4.jpg",
+        "whatYoullLearn": [
+            "Google Veo Basics: Understand the core tools and features to start creating videos immediately.",
+            "Prompting Skills: Master the art of crafting prompts to guide Google Veo for precise and creative results.",
+            "Text-to-Video Magic: Generate complete video scenes with just a few lines of text using Google Veo.",
+            "Customization & Style: Tailor your videos with cinematic styles, dynamic lighting, and customizations.",
+            "Platform Optimization: Export videos for TikTok, YouTube, Instagram, or any platform with the right settings.",
+            "Follow along as we recreate existing viral videos to see exactly how it's done",
+            "You'll learn how to use other Google Labs tools like Whisk and Gemini to enhance and automate your prompting"
+        ],
+        "analytics": {
+            "relevance_score": 0.0,
+            "insight": "This course is a very poor match and does not specifically mention core LLM or RAG concepts. It is aimed at a beginner level, which may be too introductory. The extensive duration (12 hours) suggests comprehensive coverage. The low rating (4.1) suggests quality concerns.",
+            "normalized_rating": 0.82,
+            "normalized_popularity": 0.48,
+            "final_comparison_score": 2.42,
+            "filter_tags": [
+                "Beginner",
+                "Medium (10-40h)"
+            ]
+        }
+    },
+    {
+        "index": 16,
+        "level": "Beginner",
+        "title": "AI for Everyone: Understanding and Applying the Basics",
+        "link": "https://www.udemy.com/course/the-complete-generative-ai-for-business-analysis/",
+        "ratingValue": "4.5",
+        "ratingsCount": "6675",
+        "totalHours": "12",
+        "lecturesCount": "95",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/5743374_c9a0_4.jpg",
+        "whatYoullLearn": [
+            "6 IIBA PDUs/CDUs",
+            "How generative AI works",
+            "Prompting skills you can immediately apply in real BA work",
+            "Where and how GenAI can be used across the full business analysis cycle",
+            "Structured examples and Prompt cards that you can save for personal use and reference",
+            "The ethical considerations every analyst should know before using AI in their work"
+        ],
+        "analytics": {
+            "relevance_score": 0.0,
+            "insight": "This course is a very poor match and does not specifically mention core LLM or RAG concepts. It is aimed at a beginner level, which may be too introductory. The extensive duration (12 hours) suggests comprehensive coverage. The high average rating (4.5) indicates strong student satisfaction.",
+            "normalized_rating": 0.9,
+            "normalized_popularity": 0.48,
+            "final_comparison_score": 2.46,
+            "filter_tags": [
+                "Beginner",
+                "Medium (10-40h)"
+            ]
+        }
+    },
+    {
+        "index": 17,
+        "level": "Beginner",
+        "title": "AI Video Creation with Google Veo 3: A Generative AI Course",
+        "link": "https://www.udemy.com/course/google-cloud-generative-ai-leader-practice-pool/",
+        "ratingValue": "4.5",
+        "ratingsCount": "1558",
+        "totalHours": "5",
+        "lecturesCount": "44",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6665375_ab83.jpg",
+        "whatYoullLearn": [],
+        "analytics": {
+            "relevance_score": 0.0,
+            "insight": "This course is a very poor match and does not specifically mention core LLM or RAG concepts. It is aimed at a beginner level, which may be too introductory. The short duration (5 hours) suggests it's a brief introduction. The high average rating (4.5) indicates strong student satisfaction.",
+            "normalized_rating": 0.9,
+            "normalized_popularity": 0.22,
+            "final_comparison_score": 2.14,
+            "filter_tags": [
+                "Beginner",
+                "Short (< 10h)"
+            ]
+        }
+    },
+    {
+        "index": 18,
+        "level": "Beginner",
+        "title": "The Complete Generative AI for Business Analysis",
+        "link": "https://www.udemy.com/course/artificial-intelligence-for-beginners-b/",
+        "ratingValue": "4.6",
+        "ratingsCount": "1558",
+        "totalHours": "5",
+        "lecturesCount": "44",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6688401_f9b9_4.jpg",
+        "whatYoullLearn": [
+            "Understand the Fundamentals of AI – Explain what Artificial Intelligence is, how it works, and how it differs from Machine Learning and Deep Learning.",
+            "Identify AI in Everyday Life – Recognize and describe how AI is used in common applications such as smartphones, social media, recommendation systems, and virtu",
+            "Evaluate the Benefits and Limitations of AI – Discuss the advantages AI brings to different industries while considering ethical concerns and potential challeng",
+            "Adopt AI for Personal and Professional Use – Explore practical AI tools that can improve productivity, creativity, and decision-making in daily tasks and work e"
+        ],
+        "analytics": {
+            "relevance_score": 0.0,
+            "insight": "This course is a very poor match and does not specifically mention core LLM or RAG concepts. It is aimed at a beginner level, which may be too introductory. The short duration (5 hours) suggests it's a brief introduction. The high average rating (4.6) indicates strong student satisfaction.",
+            "normalized_rating": 0.92,
+            "normalized_popularity": 0.22,
+            "final_comparison_score": 2.18,
+            "filter_tags": [
+                "Beginner",
+                "Short (< 10h)"
+            ]
+        }
+    },
+    {
+        "index": 19,
+        "level": "Beginner",
+        "title": "Google Cloud Generative AI Leader Practice Question Pool",
+        "link": "https://www.udemy.com/course/copilot-studio-for-beginners-hands-on-ai-agent-build/",
+        "ratingValue": "3.8",
+        "ratingsCount": "169",
+        "totalHours": "13",
+        "lecturesCount": "121",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6620163_e385_2.jpg",
+        "whatYoullLearn": [
+            "Build and configure your first Copilot Studio AI agent from scratch",
+            "Connect files, websites and data sources as agent knowledge bases",
+            "Design conversation flows with Topics, variables and conditions",
+            "Trigger Power Automate actions to extend agents with real-world tasks",
+            "Publish agents to Microsoft Teams and embed them on a website",
+            "Track usage and improve performance with Copilot Studio Analytics"
+        ],
+        "analytics": {
+            "relevance_score": 0.2,
+            "insight": "This course has minimal relevance but does not specifically mention core LLM or RAG concepts. It is aimed at a beginner level, which may be too introductory. The extensive duration (13 hours) suggests comprehensive coverage. The low rating (3.8) suggests quality concerns.",
+            "normalized_rating": 0.76,
+            "normalized_popularity": 0.6,
+            "final_comparison_score": 5.24,
+            "filter_tags": [
+                "Beginner",
+                "Medium (10-40h)"
+            ]
+        }
+    },
+    {
+        "index": 20,
+        "level": "Beginner",
+        "title": "Getting Started with Generative AI: Unboxing the Future",
+        "link": "https://www.udemy.com/course/artificial-intelligence-ai-foundations-for-developers/",
+        "ratingValue": "5.0",
+        "ratingsCount": "169",
+        "totalHours": "13",
+        "lecturesCount": "121",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6451223_f89e_3.jpg",
+        "whatYoullLearn": [
+            "Software Developers and Engineers who want to understand the impact of AI without diving into code or complex math.",
+            "Beginners to AI who are curious about how it works and how it’s shaping the future of software development.",
+            "Technical Professionals (DevOps, QA, SRE, Product Engineers) looking to build AI awareness and future-proof their careers.",
+            "Students and Early-Career Technologists who want a clear, structured, and conceptual starting point for their AI journey.",
+            "Developers exploring roles like AI Integrator or AI Product Engineer, who need a foundational understanding before learning tools or frameworks."
+        ],
+        "analytics": {
+            "relevance_score": 0.2,
+            "insight": "This course has minimal relevance but does not specifically mention core LLM or RAG concepts. It is aimed at a beginner level, which may be too introductory. The extensive duration (13 hours) suggests comprehensive coverage. The high average rating (5.0) indicates strong student satisfaction.",
+            "normalized_rating": 1.0,
+            "normalized_popularity": 0.6,
+            "final_comparison_score": 5.8,
+            "filter_tags": [
+                "Beginner",
+                "Medium (10-40h)"
+            ]
+        }
+    },
+    {
+        "index": 21,
+        "level": "Beginner",
+        "title": "Copilot Studio for Beginners: Hands-On AI Agent Build",
+        "link": "https://www.udemy.com/course/generative-ai-tutorial/",
+        "ratingValue": "4.8",
+        "ratingsCount": "1898",
+        "totalHours": "10",
+        "lecturesCount": "80",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6715579_5d7f.jpg",
+        "whatYoullLearn": [
+            "Fine tuning an LLM",
+            "Prompt Engineering",
+            "Gen AI Basics",
+            "OpenAI API Usage",
+            "Langchain Basics"
+        ],
+        "analytics": {
+            "relevance_score": 0.6,
+            "insight": "This course is highly relevant but does not specifically mention core LLM or RAG concepts. It is aimed at a beginner level, which may be too introductory. The extensive duration (10 hours) suggests comprehensive coverage. The high average rating (4.8) indicates strong student satisfaction.",
+            "normalized_rating": 0.96,
+            "normalized_popularity": 0.4,
+            "final_comparison_score": 7.38,
+            "filter_tags": [
+                "Beginner",
+                "Medium (10-40h)"
+            ]
+        }
+    }
+]

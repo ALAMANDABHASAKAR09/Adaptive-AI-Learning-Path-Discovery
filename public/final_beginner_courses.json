@@ -1,0 +1,4432 @@
+[
+  {
+    "index": 1,
+    "level": "Beginner",
+    "title": "Generative AI for Beginners",
+    "link": "https://www.udemy.com/course/generative-ai-for-beginners-b/",
+    "ratingsCount": 64702,
+    "totalHours": "3.5",
+    "lecturesCount": "27",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5655756_50d9_10.jpg",
+    "rating": 4.5,
+    "whatYoullLearn": [
+      "Detailed Understanding of Generative AI",
+      "Key Concepts - LLM, Embeddings, Prompt Engineering, Fine Tuning",
+      "Industry use cases and ideas that can be implemented",
+      "Hands-on experience, creating a chatbot",
+      "Future trends and how to stay relevant in post-GenAI world",
+      "Roadmap for continous learning"
+    ],
+    "analytics": {
+      "relevance_score": 0.7,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. High popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.67,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "informative"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.9,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 1,
+      "popularity_tag": "High",
+      "filter_tags": [
+        "Beginner",
+        "LLM",
+        "Short (<10h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 85.5
+    }
+  },
+  {
+    "index": 2,
+    "level": "Beginner",
+    "title": "2026 Bootcamp: Generative AI, LLM Apps, AI Agents, Cursor AI",
+    "link": "https://www.udemy.com/course/bootcamp-generative-artificial-intelligence-and-\nllm-app-development/",
+    "ratingsCount": 64702,
+    "totalHours": "3.5",
+    "lecturesCount": "27",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5782854_4bd2_7.jpg",
+    "rating": 4.3,
+    "whatYoullLearn": [
+      "Keys to AI, Generative AI, LLM Apps, and new AI Coding Assistants like Cursor AI.",
+      "LLM Apps with LangChain, CrewAI, LangGraph, LangServe and LangSmith.",
+      "How to build apps without coding using Cursor AI and AI Coding Assistants.",
+      "How to build the new Multimodal and Multi-Agent LLM Applications.",
+      "Opportunities and threats of AI for businesses, startups, and jobs.",
+      "RAG Applications in Depth: Full Stack RAG Apps and Advanced Techniques.",
+      "How to manage LLMOps: Observability, Evaluation, Testing, Etc.",
+      "Professional opportunities opened by Artificial Intelligence.",
+      "Steps to become an Artificial Intelligence Engineer.",
+      "How to introduce Artificial Intelligence into your business.",
+      "Keys to LLM Applications, the highest potential applications of Generative AI.",
+      "Architecture of professional LLM Applications.",
+      "The RAG Technique (Retrieval Augmented Generation).",
+      "Artificial Intelligence Agents.",
+      "Basic and advanced LangChain, LangChain LCEL, and LangChain v010. LangSmith, LangServe, LangChain Templates.",
+      "LCEL (LangChain Expression Language) in depth.",
+      "Basic and advanced LlamaIndex. LlamaIndex Templates.",
+      "ChatGPT, OpenAI, OpenAI functions, and the OpenAI API.",
+      "Large Language Models (LLM): ChatGPT, Llama2, Mistral, Falcon, etc.",
+      "Vector databases: Postgres, Pinecone, Chroma, FAISS, DeepLake, etc.",
+      "Full-Stack Applications: Nextjs and FastAPI.",
+      "Professional deployment: Vercel and Render.",
+      "Provisional deployment: Streamlit.",
+      "Cloud hosting: AWS S3.",
+      "How to apply the principles of Responsible AI.",
+      "Daily tools of the AI Engineer: Jupyter Notebooks, Python, Terminal, Github, Codespaces, etc."
+    ],
+    "analytics": {
+      "relevance_score": 0.85,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. High popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.67,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "great"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.67,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "Medium"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Build a full-stack RAG application."
+      },
+      "normalized_rating": 0.86,
+      "rating_tag": "High",
+      "normalized_popularity": 1,
+      "popularity_tag": "High",
+      "filter_tags": [
+        "LLM",
+        "RAG",
+        "LangGraph",
+        "Short (<10h)",
+        "Python",
+        "Beginner",
+        "AI Agents",
+        "Generative AI",
+        "LangChain",
+        "AWS"
+      ],
+      "final_comparison_score": 87.65
+    }
+  },
+  {
+    "index": 3,
+    "level": "Beginner",
+    "title": "Generative AI application design and development",
+    "link": "https://www.udemy.com/course/generative-ai-app-dev/",
+    "ratingsCount": 3388,
+    "totalHours": "72.5",
+    "lecturesCount": "712",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6178491_bf1a.jpg",
+    "rating": 4.7,
+    "whatYoullLearn": [
+      "Learners will master the core concepts and principles behind Generative AI, how LLMs work, and how they can be applied in real-world use cases.",
+      "Develop practical skills to design, architect, and implement smart applications leveraging a wide range of LLMs from both open and closed sources.",
+      "Learn how to effectively use popular tools including LangChain, LangGraph,  HuggingFace, StreamLit, Ollama, and more",
+      "Understand and implement best practices when it comes to efficiency, scalability, and responsible use of generative AI in production environments.",
+      "Identify and navigate challenges specific to generative AI applications.",
+      "Prepare for intermediate-level technical interviews for roles in Generative AI.",
+      "Learn how In-context learning, RAG and Fine-tuning works under the covers"
+    ],
+    "analytics": {
+      "relevance_score": 0.61,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.83,
+        "sentiment_trend": "Overwhelmingly Positive",
+        "detected_strengths": [
+          "great",
+          "awesome",
+          "clear",
+          "well-structured"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "High"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "content_freshness_score": 0.95,
+        "course_engagement_score": 0.83,
+        "instructor_tag": "High",
+        "freshness_tag": "High",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Build a movie recommendation engine and a creative writing workbench."
+      },
+      "normalized_rating": 0.94,
+      "rating_tag": "High",
+      "normalized_popularity": 0.05,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "LLM",
+        "RAG",
+        "LangGraph",
+        "Beginner",
+        "Long (>25h)",
+        "Generative AI",
+        "LangChain"
+      ],
+      "final_comparison_score": 62.25
+    }
+  },
+  {
+    "index": 4,
+    "level": "Beginner",
+    "title": "AWS Certified Machine Learning Specialty 2025 - Hands On!",
+    "link": "https://www.udemy.com/course/generative-ai-for-leaders/",
+    "ratingsCount": 3388,
+    "totalHours": "72.5",
+    "lecturesCount": "712",
+    "rating": 4.6,
+    "whatYoullLearn": [
+      "Delve deep into AI's essence: Business leaders can grasp the myriad facets of AI without drowning in technicalities.",
+      "Generative AI's brilliance: Learn how it's reshaping industries by creating novel content, a boon for forward-thinking businesses.",
+      "Shape your business future: Discover AI's strategic role in decision-making, ensuring a competitive edge in the marketplace.",
+      "Teamwork makes the AI dream work: Recognize the pivotal roles from tech experts to executives in AI's seamless integration.",
+      "Amplify business outcomes: Harness Generative AI tools, revolutionizing efficiency and innovation in the corporate realm.",
+      "Leadership evolution in AI times: Cultivate skills harmonizing with an AI-augmented world, preparing businesses for the future.",
+      "Navigating AI's ethical maze: Leaders must champion responsible Generative AI use, safeguarding values and societal trust.",
+      "Embrace and adapt: Leaders are at the helm, steering businesses through AI's transformative waves, ensuring growth and resilience.",
+      "Learn how to leverage Perplexity AI for Research and Writing"
+    ],
+    "analytics": {
+      "relevance_score": 0.21,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Does not emphasize practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.5,
+        "sentiment_trend": "Mixed",
+        "detected_strengths": [
+          "great"
+        ],
+        "detected_pain_points": [
+          "outdated"
+        ],
+        "sentiment_tag": "Low"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.2,
+        "course_engagement_score": 0.5,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "Low"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "No specific project mentioned."
+      },
+      "normalized_rating": 0.92,
+      "rating_tag": "High",
+      "normalized_popularity": 0.05,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "RAG",
+        "Beginner",
+        "Long (>25h)",
+        "Generative AI",
+        "AWS"
+      ],
+      "final_comparison_score": 33.6
+    }
+  },
+  {
+    "index": 5,
+    "level": "Beginner",
+    "title": "AWS Certified Machine Learning Specialty Full Practice Exam",
+    "link": "https://www.udemy.com/course/generative-ai-for-net-developers-with-azure-ai services/",
+    "ratingsCount": 309,
+    "totalHours": "27",
+    "lecturesCount": "257",
+    "rating": 4.3,
+    "whatYoullLearn": [
+      "Understand the Fundamentals of Generative AI",
+      "Integrate Azure AI Services with .NET",
+      "Work with Natural Language Processing (NLP)",
+      "Develop AI-Enhanced Applications",
+      "Develop generative AI solutions using .NET and Azure OpenAI Services",
+      "Integrate with Azure AI Cognitive Services",
+      "Explore Machine Learning Fundamentals",
+      "Develop and train models using Azure ML",
+      "Use ML Builder to develop and train local neural network models",
+      "Implement grounded Retrieval-Augmented Generation (RAG) generative AI applications",
+      "Use Azure AI Studio to explore and deploy OpenAI models for text and image generation",
+      "Explore and implement GPT and DALL-E OpenAI models"
+    ],
+    "analytics": {
+      "relevance_score": 0.4,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.67,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "clear"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.67,
+        "instructor_tag": "High",
+        "freshness_tag": "Low",
+        "engagement_tag": "Medium"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.86,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "RAG",
+        "Beginner",
+        "Long (>25h)",
+        "Azure",
+        "Generative AI",
+        "AWS"
+      ],
+      "final_comparison_score": 49.65
+    }
+  },
+  {
+    "index": 6,
+    "level": "Beginner",
+    "title": "Generative AI for Leaders & Business Professionals",
+    "link": "https://www.udemy.com/course/generative-ai-for-beginners-learning-with-demos/",
+    "ratingsCount": 309,
+    "totalHours": "27",
+    "lecturesCount": "257",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5617682_3b88_2.jpg",
+    "rating": 4.5,
+    "whatYoullLearn": [
+      "AI Concepts & Workloads",
+      "Machine Learning Foundations",
+      "Types of Machine Learning",
+      "Demo Lab on Machine Learning",
+      "Deep Learning Foundations",
+      "Types of Deep Learning",
+      "Demo Lab on Deep Learning",
+      "Generative AI Foundations",
+      "Embeddings Vs Vector Databases",
+      "AI Infrastructure",
+      "OpenAI / ChatGPT / APIs",
+      "Azure OpenAI",
+      "Bring Your Own Data - RAG with Azure AI Search",
+      "Azure OpenAI Fine Tuning",
+      "Azure OpenAI Content Filtering",
+      "Azure OpenAI - IAM / RBAC Model",
+      "Azure OpenAI - Making API Calls (Python Codes)",
+      "Assistants API",
+      "Assistants API - Code Interpreter (Python Code)",
+      "Assistants API - Function Calling",
+      "Assistants API - Code Interpreter",
+      "Assistants API - File Search",
+      "RAG-Using Azure AI Search & LangChain"
+    ],
+    "analytics": {
+      "relevance_score": 0.65,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.67,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "awesome"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.9,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "RAG",
+        "Python",
+        "Beginner",
+        "Long (>25h)",
+        "Generative AI",
+        "Azure",
+        "LangChain"
+      ],
+      "final_comparison_score": 63.5
+    }
+  },
+  {
+    "index": 7,
+    "level": "Beginner",
+    "title": "Generative AI for .NET Developers with Azure AI Services",
+    "link": "https://www.udemy.com/course/ai-literacy-generative-ai-in-the-workplace/",
+    "ratingsCount": 5337,
+    "totalHours": "9.5",
+    "lecturesCount": "68",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6081691_7659.jpg",
+    "rating": 4.6,
+    "whatYoullLearn": [
+      "Demonstrate the ability to use at least three generative AI tools relevant to your job function.",
+      "Apply prompt engineering techniques to effectively communicate with AI tools for improved results.",
+      "Develop a strategy for integrating generative AI tools into your daily work routine to enhance productivity.",
+      "Identify at least five practical applications of generative AI in various business functions.",
+      "Evaluate the potential benefits and limitations of implementing generative AI in your role.",
+      "Formulate effective questions and prompts to maximize the utility of generative AI in problem-solving scenarios.",
+      "Adapt existing workflows to incorporate generative AI tools for improved\nefficiency.",
+      "Articulate the potential impact of generative AI on your industry and career trajectory.",
+      "Communicate the value and limitations of generative AI to both technical and non technical stakeholders.",
+      "Create a personal action plan for continuous learning and skill development in the field of AI."
+    ],
+    "analytics": {
+      "relevance_score": 0.42,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.33,
+        "sentiment_trend": "Generally Negative",
+        "detected_strengths": [
+          "No Specific Strengths Detected"
+        ],
+        "detected_pain_points": [
+          "too fast"
+        ],
+        "sentiment_tag": "Low"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.2,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.33,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "Low"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.92,
+      "rating_tag": "High",
+      "normalized_popularity": 0.08,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Azure",
+        "Short (<10h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 47.55
+    }
+  },
+  {
+    "index": 8,
+    "level": "Beginner",
+    "title": "Generative AI:Beginner to Pro with OpenAI & Azure OpenAI",
+    "link": "https://www.udemy.com/course/aws-ai-practitioner-certified/",
+    "ratingsCount": 5337,
+    "totalHours": "9.5",
+    "lecturesCount": "68",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5785006_5455_21.jpg",
+    "rating": 4.5,
+    "whatYoullLearn": [
+      "Pass the AWS Certified AI Practitioner Certification AIF-C01",
+      "Practice Exam with Explanations included!",
+      "Learn the Fundamentals of Artificial Intelligence, Machine Learning, Deep Learning & Generative AI",
+      "Learn the key AWS AI services, including a deep dive on Bedrock, Amazon Q and SageMaker",
+      "Learn Prompt Engineering",
+      "All 200+ slides available as downloadable PDF"
+    ],
+    "analytics": {
+      "relevance_score": 0.12,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Poor topic match, missing RAG/LLM Engineering. Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.67,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "great"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.95,
+        "course_engagement_score": 0.67,
+        "instructor_tag": "Low",
+        "freshness_tag": "High",
+        "engagement_tag": "Medium"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.08,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Short (<10h)",
+        "Beginner",
+        "Azure",
+        "Generative AI",
+        "AWS"
+      ],
+      "final_comparison_score": 40.45
+    }
+  },
+  {
+    "index": 9,
+    "level": "Beginner",
+    "title": "AI Literacy Basics: Applying Generative AI in the Workplace",
+    "link": "https://www.udemy.com/course/self-guided-learning-with-chatgpt-enhance-your skills/",
+    "ratingsCount": 477,
+    "totalHours": "6.5",
+    "lecturesCount": "98",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6030716_30f8.jpg",
+    "rating": 4.5,
+    "whatYoullLearn": [
+      "Understanding and Utilizing ChatGPT Capabilities",
+      "Developing Effective Learning Strategies",
+      "Enhancing Productivity and Task Management",
+      "Ethical Use and Critical Thinking",
+      "Applying ChatGPT to Problem Solving and Creative Thinking",
+      "Integrating ChatGPT with Other Digital Tools"
+    ],
+    "analytics": {
+      "relevance_score": 0.4,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.75,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "clear",
+          "hands-on"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.9,
+        "instructor_tag": "High",
+        "freshness_tag": "Low",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.01,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 53.7
+    }
+  },
+  {
+    "index": 10,
+    "level": "Beginner",
+    "title": "[NEW] Ultimate AWS Certified AI Practitioner AIF-C01",
+    "link": "https://www.udemy.com/course/ai-content-generation/",
+    "ratingsCount": 477,
+    "totalHours": "6.5",
+    "lecturesCount": "98",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6082775_2db5_3.jpg",
+    "rating": 4.7,
+    "whatYoullLearn": [
+      "Use ChatGPT, DALLE-2, Stable Diffusion, Whisper, Synthesia, MAKE-A-VIDEO, IMAGEN to Automate Content Creation",
+      "Master Prompt Engineering across: Text to text & Text to Image Generation for best results on BARD, GPT-4, DALLE-2, GEN-1, Stable Diffusion",
+      "Stay up-to-date on Generative AI News & Concepts in practical ways: GANs, GAI, LMMs, Transformers, Stable Diffusion, AI Content Generation,",
+      "Unleash Your Content Potential! Generate 100s of Ideas for Text, Image, Audio, & Video with the Power of Generative AI.",
+      "Learn how to use industry-leading tools for text, image, audio & video generation",
+      "Unleash Your AI Creativity with Avatars! Learn to Generate AI-Powered Avatars without Writing Any Code in Stable Diffusion",
+      "Stay Ahead of the Game with the Latest Generative AI News. Get Access to Cutting-Edge Updates and Advance Your Skills Today!",
+      "Unlock Your Content Creation Potential! Get Hands-On Experience and Gain a Competitive Edge with Generative AI.",
+      "Learn how to leverage Perplexity AI for Research and Writing"
+    ],
+    "analytics": {
+      "relevance_score": 0.4,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.75,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "informative",
+          "practical"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.8,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.9,
+        "instructor_tag": "High",
+        "freshness_tag": "Low",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.94,
+      "rating_tag": "High",
+      "normalized_popularity": 0.01,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "RAG",
+        "Short (<10h)",
+        "Beginner",
+        "Generative AI",
+        "AWS"
+      ],
+      "final_comparison_score": 54.1
+    }
+  },
+  {
+    "index": 11,
+    "level": "Beginner",
+    "title": "Self-Guided Learning with ChatGPT and GenAI and become a pro",
+    "link": "https://www.udemy.com/course/generative-ai-and-prompt-engineering/",
+    "ratingsCount": 897,
+    "totalHours": "16.5",
+    "lecturesCount": "260",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5817070_df8a.jpg",
+    "rating": 4.8,
+    "whatYoullLearn": [
+      "Learn the evolution of Large Language Models and how they leverage Transformers",
+      "AI Engineer: Learn Advanced Prompt Engineering skills like shot prompting and prompt chaining",
+      "Prompt Engineer: Become a superhuman prompt engineer by mastering the skill of crafting effective prompts",
+      "ChatGPT: Generate content, analyze data, and accelerate learning with powerful prompt engineering techniques!",
+      "Productivity: Reach your goals faster with ChatGPT",
+      "Marketing: Harness the power of ChatGPT to produce tailored content, stay ahead of trends, and design engaging ads, newsletters, and media campaigns!",
+      "AI Video & Audio Tools: Bring your scripts to life, transform them into engaging\ncontent, and effortlessly produce social media content",
+      "AI Image Generation: Instantly create stunning visuals, illustrations, and graphics from text prompts, and elevate your content with cutting-edge AI"
+    ],
+    "analytics": {
+      "relevance_score": 0.5,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.67,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "excellent"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.67,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "Medium"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.96,
+      "rating_tag": "High",
+      "normalized_popularity": 0.01,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "LLM",
+        "RAG",
+        "Beginner",
+        "Generative AI",
+        "Medium (10-25h)"
+      ],
+      "final_comparison_score": 54.85
+    }
+  },
+  {
+    "index": 12,
+    "level": "Beginner",
+    "title": "Master Generative AI: Automate Content Effortlessly with AI",
+    "link": "https://www.udemy.com/course/ai-for-managers/",
+    "ratingsCount": 897,
+    "totalHours": "16.5",
+    "lecturesCount": "260",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5071718_8cff.jpg",
+    "rating": 4.5,
+    "whatYoullLearn": [
+      "You know exactly why Generative AI & AI is important for your business now, how to leverage AI in your organization, address fears, and handle risks of AI",
+      "You will gain a competitive edge over competitors by getting your people excited about AI (instead of scared)",
+      "\"Good fantastic course for managers and executives to start the AI journey\", Sandeep - 100% AI know-how for business, 0% tech/coding",
+      "4 examples for using Generative AI in the workplace show you the power of AI",
+      "You understand, evaluate, and mitigate the risks of AI and GenAI- beyond ChatGPT",
+      "You address the fears of employees when introducing AI",
+      "You see high quality AI avatars co-facilitating this course and real-world examples of multiple industries to understand the power of AI",
+      "Free ebook/workbook for managers to leverage AI in their organizations",
+      "Spanish, Portuguese, German, English, French Subtitles professionally translated"
+    ],
+    "analytics": {
+      "relevance_score": 0.4,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.88,
+        "sentiment_trend": "Overwhelmingly Positive",
+        "detected_strengths": [
+          "excellent",
+          "informative",
+          "clear",
+          "easy to follow",
+          "practical",
+          "engaging"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "High"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.9,
+        "instructor_tag": "High",
+        "freshness_tag": "Low",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.01,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "RAG",
+        "Medium (10-25h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 53.7
+    }
+  },
+  {
+    "index": 13,
+    "level": "Beginner",
+    "title": "Generative AI and Prompt Engineering For Absolute Beginners",
+    "link": "https://www.udemy.com/course/the-ultimate-beginners-guide-to-ai-and-machine learning/",
+    "ratingsCount": 1994,
+    "totalHours": "5",
+    "lecturesCount": "44",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6293005_c499.jpg",
+    "rating": 4.6,
+    "whatYoullLearn": [
+      "Demonstrate a solid understanding of the difference between AI, Machine Learning and Deep Learning.",
+      "Clearly articulate why Large Language Models like ChatGPT and Bard are NOT\nintelligent.",
+      "Articulate the difference between Supervised, Unsupervised, and Reinforcement Machine Learning.",
+      "Explain the concept of machine learning and its relation to AI.",
+      "Define artificial intelligence (AI) and differentiate it from human intelligence.",
+      "Describe what Artificial Intelligence is, and what it is not.",
+      "Explain what types of sophisticated software systems are not AI systems.",
+      "Describe how Machine Learning is different to the classical software development approach.",
+      "Compare and contrast supervised, unsupervised, and reinforcement learning.",
+      "Explain Supervised and Unsupervised Machine Learning terms such as algorithms, models, labels and features.",
+      "Explain Function Approximators and the role of Neural Networks as Universal Function Approximators.",
+      "Explain Encoding and Decoding when using machine learning models to work with non numeric, categorical type data.",
+      "Demonstrate an intuitive understanding of Reinforcement Learning concepts such as agents, environments, rewards and goals.",
+      "Identify examples of AI in everyday life and discuss their impact.",
+      "Evaluate the effectiveness of different AI applications in real-world scenarios.",
+      "Apply basic principles of neural networks to a hypothetical problem.",
+      "Discuss the role of data in training AI models",
+      "Construct a neural network model for a specified task",
+      "Assess the impact of AI on job markets and skill requirements",
+      "Recall the key milestones in the evolution of AI from theory to its practical applications in business contexts.",
+      "Explain the benefits of integrating AI with human teams to improve business outcomes.",
+      "Identify and debunk common misconceptions about AI in the workplace.",
+      "Evaluate ethical considerations and propose ethical guidelines for implementing AI in team environments.",
+      "Identify potential opportunities where AI could enhance team performance within your organization.",
+      "Demonstrate effective collaboration techniques between AI systems and human team members in project scenarios.",
+      "Build trust among team members in using AI systems by facilitating open discussions about AI capabilities and limitations.",
+      "Create a strategy to foster a culture that embraces AI innovation and change within a team or organization",
+      "Compare AI tools commonly used in business settings to determine which would best meet your team’s needs",
+      "Describe how AI technologies can be used for data analysis and decision-making in business projects.",
+      "Lead a team through AI-driven changes by developing and implementing strategies for AI integration.",
+      "Use AI for predictive analytics and risk management, demonstrating improved decision making processes in team projects.",
+      "Implement AI-driven personalization in marketing campaigns and measure the impact on consumer engagement.",
+      "Develop a plan to use AI for enhancing recruitment and talent management processes within Human Resources.",
+      "Analyze financial data using AI tools for forecasting and budget planning, demonstrating improved accuracy in financial management",
+      "Optimize supply chain management by integrating AI solutions for inventory management and demand forecasting.",
+      "Identify barriers to AI integration and devise strategies to address them, fostering an environment conducive to AI adoption.",
+      "Develop and ensure adherence to ethical AI guidelines in your team or organization, demonstrating responsible AI use.",
+      "Predict future trends in AI and prepare your team or organization for innovative AI technologies and methodologies.",
+      "Design and implement a continuous improvement plan for AI integration, demonstrating long-term success in enhancing team performance.",
+      "Explain the concept of Artificial Intelligence and its significance in the modern world.",
+      "Differentiate between Narrow AI, General AI, and Superintelligent AI in terms of capabilities and limitations.",
+      "Utilize machine learning algorithms to identify patterns in data.",
+      "Implement a basic neural network using deep learning frameworks",
+      "Assess the role of data in training AI systems and the importance of a robust AI ecosystem.",
+      "Apply supervised learning algorithms to solve real-world predictive problems.",
+      "Cluster data points using unsupervised learning algorithms like K-means clustering.",
+      "Design a reinforcement learning model to optimize decision-making processes.",
+      "Prepare datasets for machine learning by performing data cleaning, normalization, and feature selection.",
+      "Evaluate the performance of machine learning models to avoid overfitting using validation techniques.",
+      "Create a Convolutional Neural Network (CNN) to recognize patterns in images.",
+      "Develop a Recurrent Neural Network (RNN) for processing sequential data.",
+      "Generate realistic data samples with Generative Adversarial Networks (GANs).",
+      "Employ predictive analytics tools to forecast future trends based on historical data.",
+      "Implement text processing techniques in natural language processing (NLP) for sentiment analysis.",
+      "Leverage AI-driven decision-making tools to enhance business processes.",
+      "Analyze customer behavior using AI techniques for targeted marketing strategies.",
+      "Automate repetitive tasks within an organization using Robotic Process Automation (RPA).",
+      "Optimize supply chain operations by applying AI-driven predictive analytics.",
+      "Apply AI in healthcare to improve accuracy in medical diagnosis and personalized medicine.",
+      "Define artificial intelligence and differentiate between AI and machine learning.",
+      "Identify and describe three major applications of AI in business.",
+      "Explain the role of AI in digital transformation and its impact on businesses.",
+      "Discuss the importance of ethics and governance in AI development and deployment.",
+      "Classify different data types and sources relevant for AI projects.",
+      "Describe the process of collecting and managing data for use in AI applications.",
+      "Apply data preprocessing techniques to improve the quality of data for AI models.",
+      "Demonstrate data representation techniques suitable for AI algorithms.",
+      "Evaluate data quality and implement data governance practices in AI projects.",
+      "Understand the basic concepts of machine learning and its main types.",
+      "Apply supervised learning algorithms to solve classification and regression problems.",
+      "Utilize unsupervised learning techniques for data clustering and anomaly detection.",
+      "Describe the fundamentals of reinforcement learning and its application areas.",
+      "Develop a simple linear regression model for predictive analytics.",
+      "Construct a decision tree model to classify data into predefined categories.",
+      "Implement a basic neural network for solving simple classification problems.",
+      "Apply k-means clustering algorithm to segment data into distinct groups.",
+      "Analyze text data using natural language processing (NLP) techniques for sentiment analysis.",
+      "Build and train a convolutional neural network (CNN) for image classification tasks.",
+      "Design a reinforcement learning model using the Q-learning algorithm for decision making processes."
+    ],
+    "analytics": {
+      "relevance_score": 0.51,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.67,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "helpful"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.67,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "Medium"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.92,
+      "rating_tag": "High",
+      "normalized_popularity": 0.03,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "LLM",
+        "RAG",
+        "Short (<10h)",
+        "Beginner",
+        "Generative AI"
+      ],
+      "final_comparison_score": 55.25
+    }
+  },
+  {
+    "index": 14,
+    "level": "Beginner",
+    "title": "AI for business - AI 101 fundamentals for managers & leaders",
+    "link": "https://www.udemy.com/course/ai-bootcamp-guru/",
+    "ratingsCount": 1994,
+    "totalHours": "5",
+    "lecturesCount": "44",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5402192_7588_2.jpg",
+    "rating": 4.5,
+    "whatYoullLearn": [
+      "Explain the Fundamentals of Artificial Intelligence (AI)",
+      "Differentiate Between AI, Machine Learning, and Deep Learning",
+      "Understand the Basics of Machine Learning",
+      "Explore Deep Learning and Neural Networks",
+      "Analyze Common AI Applications",
+      "Apply AI Concepts in Real-Life Scenarios",
+      "Prepare for Further AI Learning"
+    ],
+    "analytics": {
+      "relevance_score": 0.41,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.75,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "great",
+          "clear"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.8,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.75,
+        "instructor_tag": "High",
+        "freshness_tag": "Low",
+        "engagement_tag": "Medium"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.03,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)"
+      ],
+      "final_comparison_score": 52.25
+    }
+  },
+  {
+    "index": 15,
+    "level": "Beginner",
+    "title": "The Ultimate Beginner's Guide to AI and Machine Learning",
+    "link": "https://www.udemy.com/course/copilot-studio-for-beginners-hands-on-ai-agent build/",
+    "ratingsCount": 30423,
+    "totalHours": "10.5",
+    "lecturesCount": "148",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5329926_9de6_4.jpg",
+    "rating": 4.1,
+    "whatYoullLearn": [
+      "Build and configure your first Copilot Studio AI agent from scratch",
+      "Connect files, websites and data sources as agent knowledge bases",
+      "Design conversation flows with Topics, variables and conditions",
+      "Trigger Power Automate actions to extend agents with real-world tasks",
+      "Publish agents to Microsoft Teams and embed them on a website",
+      "Track usage and improve performance with Copilot Studio Analytics"
+    ],
+    "analytics": {
+      "relevance_score": 0.24,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Poor topic match, missing RAG/LLM Engineering. Includes practical projects.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.67,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "great",
+          "clear",
+          "easy to follow"
+        ],
+        "detected_pain_points": [
+          "too fast"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.8,
+        "course_engagement_score": 0.67,
+        "instructor_tag": "Low",
+        "freshness_tag": "High",
+        "engagement_tag": "Medium"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.82,
+      "rating_tag": "High",
+      "normalized_popularity": 0.47,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Medium (10-25h)"
+      ],
+      "final_comparison_score": 52.25
+    }
+  },
+  {
+    "index": 16,
+    "level": "Beginner",
+    "title": "AI for Everyone: Understanding and Applying the Basics",
+    "link": "https://www.udemy.com/course/generative-ai-interview-questions/",
+    "ratingsCount": 30423,
+    "totalHours": "10.5",
+    "lecturesCount": "148",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5743374_c9a0_4.jpg",
+    "rating": 4.5,
+    "whatYoullLearn": [
+      "Build a Strong Foundation in Generative AI Topics including basics to advanced topics",
+      "Demonstrate Expertise in Fine-Tuning LLMs and RAG Framework",
+      "Effectively Address LLM Challenges in Interviews",
+      "Confidently Discuss LLM Evaluation Metrics and Prompt Engineering"
+    ],
+    "analytics": {
+      "relevance_score": 0.64,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.5,
+        "sentiment_trend": "No Reviews",
+        "detected_strengths": [
+          "No Specific Strengths Detected"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Low"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.5,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "Low"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.47,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "LLM",
+        "RAG",
+        "Beginner",
+        "Generative AI",
+        "Medium (10-25h)"
+      ],
+      "final_comparison_score": 66.5
+    }
+  },
+  {
+    "index": 17,
+    "level": "Beginner",
+    "title": "Copilot Studio for Beginners: Hands-On AI Agent Build",
+    "link": "https://www.udemy.com/course/azure-ai-foundry/",
+    "ratingsCount": 171,
+    "totalHours": "13",
+    "lecturesCount": "121",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6715579_5d7f.jpg",
+    "rating": 4.7,
+    "whatYoullLearn": [
+      "Azure AI Foundry platform",
+      "Deploying Models in Azure AI Foundry",
+      "Safety and Security in AI",
+      "Responsible AI",
+      "Generative AI",
+      "Microsoft AI",
+      "Azure AI Studio"
+    ],
+    "analytics": {
+      "relevance_score": 0.1,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Poor topic match, missing RAG/LLM Engineering. Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.67,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "great"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.2,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "Low"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.94,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Medium (10-25h)",
+        "Azure",
+        "Generative AI"
+      ],
+      "final_comparison_score": 31.4
+    }
+  },
+  {
+    "index": 18,
+    "level": "Beginner",
+    "title": "Generative AI Interview Questions",
+    "link": "https://www.udemy.com/course/the-complete-generative-ai-for-business analysis/",
+    "ratingsCount": 171,
+    "totalHours": "13",
+    "lecturesCount": "121",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6305199_2567_4.jpg",
+    "rating": 5,
+    "whatYoullLearn": [
+      "6 IIBA PDUs/CDUs",
+      "How generative AI works",
+      "Prompting skills you can immediately apply in real BA work",
+      "Where and how GenAI can be used across the full business analysis cycle",
+      "Structured examples and Prompt cards that you can save for personal use and reference",
+      "The ethical considerations every analyst should know before using AI in their work"
+    ],
+    "analytics": {
+      "relevance_score": 0.1,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Poor topic match, missing RAG/LLM Engineering. Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.8,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "clear",
+          "easy to follow",
+          "well-structured"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "High"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.8,
+        "instructor_tag": "High",
+        "freshness_tag": "Low",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 1,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Medium (10-25h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 41
+    }
+  },
+  {
+    "index": 19,
+    "level": "Beginner",
+    "title": "Azure AI Foundry - Project Driven Learning for AI on Cloud",
+    "link": "https://www.udemy.com/course/ai-for-absolute-beginners/",
+    "ratingsCount": 6701,
+    "totalHours": "12",
+    "lecturesCount": "95",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6578217_3523_5.jpg",
+    "rating": 4.5,
+    "whatYoullLearn": [
+      "Learners will gain a foundational understanding of what artificial intelligence is, how generative AI works, and its applications in various fields.",
+      "By the end of the course, learners will be able to use different GPT models like ChatGPT, Google Gemini, and many others",
+      "Learners will develop the skills to craft effective prompts, enabling them to communicate efficiently with AI models",
+      "Apply AI Tools for Image Generation, Voice Generation, and Social Media"
+    ],
+    "analytics": {
+      "relevance_score": 0.42,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.75,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "helpful",
+          "engaging"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.8,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.9,
+        "instructor_tag": "High",
+        "freshness_tag": "Low",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.1,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Medium (10-25h)",
+        "Azure",
+        "Generative AI"
+      ],
+      "final_comparison_score": 56.3
+    }
+  },
+  {
+    "index": 20,
+    "level": "Beginner",
+    "title": "The Complete Generative AI for Business Analysis",
+    "link": "https://www.udemy.com/course/artificial-intelligence-ai-foundations-for developers/",
+    "ratingsCount": 6701,
+    "totalHours": "12",
+    "lecturesCount": "95",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6688401_f9b9_4.jpg",
+    "rating": 4.5,
+    "whatYoullLearn": [
+      "Software Developers and Engineers who want to understand the impact of AI without diving into code or complex math.",
+      "Beginners to AI who are curious about how it works and how it’s shaping the future of software development.",
+      "Technical Professionals (DevOps, QA, SRE, Product Engineers) looking to build AI awareness and future-proof their careers.",
+      "Students and Early-Career Technologists who want a clear, structured, and conceptual starting point for their AI journey.",
+      "Developers exploring roles like AI Integrator or AI Product Engineer, who need a foundational understanding before learning tools or frameworks."
+    ],
+    "analytics": {
+      "relevance_score": 0.52,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.67,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "excellent"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.67,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "Medium"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.1,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Medium (10-25h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 56.85
+    }
+  },
+  {
+    "index": 21,
+    "level": "Beginner",
+    "title": "AI for Absolute Beginners",
+    "link": "https://www.udemy.com/course/generative-ai-tutorial/",
+    "ratingsCount": 2188,
+    "totalHours": "13",
+    "lecturesCount": "94",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6186245_0b0c_2.jpg",
+    "rating": 4.1,
+    "whatYoullLearn": [
+      "Fine tuning an LLM",
+      "Prompt Engineering",
+      "Gen AI Basics",
+      "OpenAI API Usage",
+      "Langchain Basics"
+    ],
+    "analytics": {
+      "relevance_score": 0.11,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Good topic match (LLM/LangChain). Does not emphasize practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.5,
+        "sentiment_trend": "Mixed",
+        "detected_strengths": [
+          "helpful"
+        ],
+        "detected_pain_points": [
+          "hard to understand"
+        ],
+        "sentiment_tag": "Low"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.5,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "Low"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "No specific project mentioned."
+      },
+      "normalized_rating": 0.82,
+      "rating_tag": "High",
+      "normalized_popularity": 0.03,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "LLM",
+        "Medium (10-25h)",
+        "LangChain"
+      ],
+      "final_comparison_score": 28.2
+    }
+  },
+  {
+    "index": 22,
+    "level": "Beginner",
+    "title": "Artificial Intelligence (AI) Foundations for Developers",
+    "link": "https://www.udemy.com/course/gen-ai-for-beginners/",
+    "ratingsCount": 2188,
+    "totalHours": "13",
+    "lecturesCount": "94",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6688773_f22f_3.jpg",
+    "rating": 5,
+    "whatYoullLearn": [
+      "You will learn what Generative AI is, how it differs from other AI, and the fundamental principles behind its operation.",
+      "You will learn how to write effective prompts to guide AI models in generating desired text, images or other content.",
+      "Identification and description of various real-world uses of Generative AI across different industries and creative fields.",
+      "Learn about the most popular AI tools for professionals."
+    ],
+    "analytics": {
+      "relevance_score": 0.21,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Does not emphasize practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.88,
+        "sentiment_trend": "Overwhelmingly Positive",
+        "detected_strengths": [
+          "great",
+          "informative",
+          "clear",
+          "well-structured",
+          "engaging"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "High"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.8,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.9,
+        "instructor_tag": "High",
+        "freshness_tag": "Low",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 1,
+      "rating_tag": "High",
+      "normalized_popularity": 0.03,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Medium (10-25h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 47.5
+    }
+  },
+  {
+    "index": 23,
+    "level": "Beginner",
+    "title": "Generative AI for Complete Beginners",
+    "link": "https://www.udemy.com/course/ai-900-azure-ai-fundamentals-complete-exam-prep/",
+    "ratingsCount": 10406,
+    "totalHours": "2.5",
+    "lecturesCount": "39",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5903930_4d30.jpg",
+    "rating": 4.3,
+    "whatYoullLearn": [
+      "PASS the Microsoft Azure AI Fundamentals Exam (AI-900)",
+      "Full Practice Exam with Detailed Explanations",
+      "Access to All Downloadable Slides & Resources",
+      "Up-to-Date & Complete Coverage of All Topics",
+      "Hands-On Demonstrations & Real-World Scenarios",
+      "Build a Strong Foundation in AI and Azure to kickstart your AI and cloud career",
+      "Understand and apply Azure Vision Studio to build computer vision models",
+      "Learn Azure Document Intelligence for automating document processing",
+      "Master Azure Machine Learning to build, train, and deploy models",
+      "Implement AI Speech services for speech-to-text and text-to-speech"
+    ],
+    "analytics": {
+      "relevance_score": 0.43,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.5,
+        "sentiment_trend": "Mixed",
+        "detected_strengths": [
+          "No Specific Strengths Detected"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Low"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.5,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "Low"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.86,
+      "rating_tag": "High",
+      "normalized_popularity": 0.16,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "RAG",
+        "Short (<10h)",
+        "Beginner",
+        "Azure",
+        "Generative AI"
+      ],
+      "final_comparison_score": 51.5
+    }
+  },
+  {
+    "index": 24,
+    "level": "Beginner",
+    "title": "Generative AI for Beginners",
+    "link": "https://www.udemy.com/course/ai-for-js-devs/",
+    "ratingsCount": 10406,
+    "totalHours": "2.5",
+    "lecturesCount": "39",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6588707_a31a.jpg",
+    "rating": 4.5,
+    "whatYoullLearn": [
+      "Building AI-powered apps and chatbots using OpenAI, Node and JavaScript/TypeScript.",
+      "Building scalable AI apps that have a massive knowledge base, using Embeddings, Vector Stores and more.",
+      "Fundamental AI concepts such as Tools, Agents, RAG, Vector Stores, Embeddings, Function Calling, Tokens and more",
+      "Build AI-powered software that is able to fetch information from real-time data sources.",
+      "Build a real chat application with a user interface that is capable of answering questions based on any PDF document"
+    ],
+    "analytics": {
+      "relevance_score": 0.53,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.5,
+        "sentiment_trend": "Mixed",
+        "detected_strengths": [
+          "No Specific Strengths Detected"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Low"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.5,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "Low"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.16,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "RAG",
+        "Short (<10h)",
+        "Beginner",
+        "JavaScript",
+        "Generative AI"
+      ],
+      "final_comparison_score": 55.9
+    }
+  },
+  {
+    "index": 25,
+    "level": "Beginner",
+    "title": "AI for Everyone: Understand & Use AI in Everyday Life",
+    "link": "https://www.udemy.com/course/ai-for-everyday/",
+    "ratingsCount": 13,
+    "totalHours": "1.5",
+    "lecturesCount": "40",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6504343_471c_2.jpg",
+    "rating": 4.8,
+    "whatYoullLearn": [
+      "Confidently discuss AI with friends, family, and colleagues",
+      "Understand what is being covered in the news about AI",
+      "Select appropriate AI tools to help you be more creative and productive",
+      "Write effective inputs (aka Prompts) to get higher quality output from AI tools",
+      "Evaluate AI's impact on jobs -- opportunities and challenges",
+      "Discover how AI is already shaping industries and everyday life"
+    ],
+    "analytics": {
+      "relevance_score": 0.25,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Does not emphasize practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.5,
+        "sentiment_trend": "Mixed",
+        "detected_strengths": [
+          "No Specific Strengths Detected"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Low"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.5,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "Low"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.96,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)"
+      ],
+      "final_comparison_score": 42.1
+    }
+  },
+  {
+    "index": 26,
+    "level": "Beginner",
+    "title": "AI Video Creation with Google Veo 3: A Generative AI Course",
+    "link": "https://www.udemy.com/course/google-veo-ai-video/",
+    "ratingsCount": 13,
+    "totalHours": "1.5",
+    "lecturesCount": "40",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6665375_ab83.jpg",
+    "rating": 4.4,
+    "whatYoullLearn": [
+      "Google Veo Basics: Understand the core tools and features to start creating videos immediately.",
+      "Prompting Skills: Master the art of crafting prompts to guide Google Veo for precise and creative results.",
+      "Text-to-Video Magic: Generate complete video scenes with just a few lines of text using Google Veo.",
+      "Customization & Style: Tailor your videos with cinematic styles, dynamic lighting, and customizations.",
+      "Platform Optimization: Export videos for TikTok, YouTube, Instagram, or any platform with the right settings.",
+      "Follow along as we recreate existing viral videos to see exactly how it's done",
+      "You'll learn how to use other Google Labs tools like Whisk and Gemini to enhance and automate your prompting"
+    ],
+    "analytics": {
+      "relevance_score": 0.1,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Poor topic match, missing RAG/LLM Engineering. Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.57,
+        "sentiment_trend": "Mixed",
+        "detected_strengths": [
+          "easy to follow",
+          "practical",
+          "hands-on"
+        ],
+        "detected_pain_points": [
+          "too fast",
+          "too slow"
+        ],
+        "sentiment_tag": "Low"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.2,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.9,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.88,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 41.3
+    }
+  },
+  {
+    "index": 27,
+    "level": "Beginner",
+    "title": "Generative AI Made Simple: Your Complete Beginner's Guide",
+    "link": "https://www.udemy.com/course/generative-artificial-intelligence-for-everyone 2024/",
+    "ratingsCount": 306,
+    "totalHours": "2",
+    "lecturesCount": "19",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5765442_b126_2.jpg",
+    "rating": 4.3,
+    "whatYoullLearn": [
+      "Explain what \"Generative AI\" is and how it works?",
+      "Differentiate between what Gen AI can and cannot do.",
+      "Understand the challenges and limitations of Gen AI",
+      "Understand and Experiment with \"Prompting\" to generate better content.",
+      "Examine and Reflect through Popular Use Cases of Gen AI in Everyday Life.",
+      "Discuss some of the “Future Trends\" of Gen AI and their implications."
+    ],
+    "analytics": {
+      "relevance_score": 0,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Poor topic match, missing RAG/LLM Engineering. Does not emphasize practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.8,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "great",
+          "helpful",
+          "clear"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "High"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.8,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.8,
+        "instructor_tag": "High",
+        "freshness_tag": "Low",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.86,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 35.6
+    }
+  },
+  {
+    "index": 28,
+    "level": "Beginner",
+    "title": "AWS Certified Machine Learning Specialty 2025 - Hands On!",
+    "link": "https://www.udemy.com/course/ai-for-executives/",
+    "ratingsCount": 306,
+    "totalHours": "2",
+    "lecturesCount": "19",
+    "rating": 4.6,
+    "whatYoullLearn": [
+      "What is Generative AI",
+      "What is Large Language Model (LLM)",
+      "Is ChatGPT Strong AI or Weak AI",
+      "Why AI deployments have risen in the last 10 years",
+      "What are the core algorithms in AI",
+      "What is Machine Learning and How is that related to AI",
+      "What are the privacy challenges in Generative AI",
+      "How to address privacy challenges of ChatGPT",
+      "Is RPA really AI",
+      "What is prompt engineering",
+      "What are the top use cases of Machine Learning",
+      "Where should I focus my efforts",
+      "What is Agentic AI",
+      "What is RAG",
+      "What are the needs for Ethics and Governance in AI"
+    ],
+    "analytics": {
+      "relevance_score": 0.5,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.5,
+        "sentiment_trend": "Mixed",
+        "detected_strengths": [
+          "No Specific Strengths Detected"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Low"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.95,
+        "course_engagement_score": 0.5,
+        "instructor_tag": "Low",
+        "freshness_tag": "High",
+        "engagement_tag": "Low"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.92,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "LLM",
+        "RAG",
+        "Short (<10h)",
+        "Beginner",
+        "Generative AI",
+        "AWS"
+      ],
+      "final_comparison_score": 51.7
+    }
+  },
+  {
+    "index": 29,
+    "level": "Beginner",
+    "title": "AWS Certified Machine Learning Specialty Full Practice Exam",
+    "link": "https://www.udemy.com/course/googlecloud-genai/",
+    "ratingsCount": 122,
+    "totalHours": "3.5",
+    "lecturesCount": "32",
+    "rating": 4.3,
+    "whatYoullLearn": [],
+    "analytics": {
+      "relevance_score": 0.5,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.67,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "excellent"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.67,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "Medium"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.86,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)",
+        "AWS"
+      ],
+      "final_comparison_score": 53.65
+    }
+  },
+  {
+    "index": 30,
+    "level": "Beginner",
+    "title": "AI for CXOs & Sr.Managers: Now With Agentic AI & Vibe Coding",
+    "link": "https://www.udemy.com/course/machine-learning-ops-on-google-cloud-real-world data-science/",
+    "ratingsCount": 122,
+    "totalHours": "3.5",
+    "lecturesCount": "32",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/3566335_df9e_4.jpg",
+    "rating": 4.5,
+    "whatYoullLearn": [
+      "Comprehensive understanding of Google Cloud Platform's suite for MLOps, diving deep into tools like Airflow,Cloud Build, Google Container and Artifact Registry",
+      "Hands-on proficiency in orchestrating, deploying, and monitoring machine learning workflows using GCP Composer/Airflow and Vertex AI services.",
+      "Best practices and methodologies to ensure scalable, reproducible, and efficient machine learning pipelines on the cloud.",
+      "Insights and techniques tailored to help in preparation for the GCP Professional ML Certification exam, bolstering your credentials in the cloud ML domain."
+    ],
+    "analytics": {
+      "relevance_score": 0.2,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Poor topic match, missing RAG/LLM Engineering. Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.67,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "clear"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.9,
+        "instructor_tag": "High",
+        "freshness_tag": "Low",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)"
+      ],
+      "final_comparison_score": 45.5
+    }
+  },
+  {
+    "index": 31,
+    "level": "Beginner",
+    "title": "Google Cloud Generative AI Leader Certification Test Exam",
+    "link": "https://www.udemy.com/course/generative-ai-fundamentals-for-beginners/",
+    "ratingsCount": 498,
+    "totalHours": "6.5",
+    "lecturesCount": "66",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6630385_515c_3.jpg",
+    "rating": 4.6,
+    "whatYoullLearn": [
+      "Generative AI Foundations: Understand core concepts and real-world applications",
+      "Core Principles: Grasp LLMs, embeddings, prompts, and tuning.",
+      "Industry Examples: Discover AI solutions across different sectors.",
+      "Practical Skills: Build and deploy Gen AI application from scratch",
+      "Emerging Trends: Keep up in the changing GenAI field.",
+      "Ongoing Growth: Plan for continuous AI skill development.",
+      "Generative Ai",
+      "Artificial intelligence",
+      "Neutral network",
+      "Retrieval Augmented Generation",
+      "Large Language Model",
+      "Ethical Consideration of Gen AI",
+      "Future of Gen AI"
+    ],
+    "analytics": {
+      "relevance_score": 0.2,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Poor topic match, missing RAG/LLM Engineering. Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.5,
+        "sentiment_trend": "Mixed",
+        "detected_strengths": [
+          "No Specific Strengths Detected"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Low"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.5,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "Low"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.92,
+      "rating_tag": "High",
+      "normalized_popularity": 0.01,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "LLM",
+        "Short (<10h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 39.9
+    }
+  },
+  {
+    "index": 32,
+    "level": "Beginner",
+    "title": "Real-world End to End Machine Learning Ops on Google Cloud",
+    "link": "https://www.udemy.com/course/project-management-ai/",
+    "ratingsCount": 498,
+    "totalHours": "6.5",
+    "lecturesCount": "66",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5513054_967b.jpg",
+    "rating": 4.7,
+    "whatYoullLearn": [
+      "AI-Powered Project Planning and Scheduling",
+      "Automating Routine Task",
+      "AI-Driven Risk and Resource Management",
+      "Data-Driven Decision Making"
+    ],
+    "analytics": {
+      "relevance_score": 0.2,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Poor topic match, missing RAG/LLM Engineering. Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.75,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "excellent",
+          "informative"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.7,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.75,
+        "instructor_tag": "Medium",
+        "freshness_tag": "Low",
+        "engagement_tag": "Medium"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.94,
+      "rating_tag": "High",
+      "normalized_popularity": 0.01,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)"
+      ],
+      "final_comparison_score": 43.85
+    }
+  },
+  {
+    "index": 33,
+    "level": "Beginner",
+    "title": "Generative AI Basics (Open AI, LLM, Models, Deep Learning)",
+    "link": "https://www.udemy.com/course/ai-for-marketing-build-and-implement-an-ai marketing-strategy/",
+    "ratingsCount": 190,
+    "totalHours": null,
+    "lecturesCount": null,
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6122173_45df_10.jpg",
+    "rating": 4.2,
+    "whatYoullLearn": [
+      "Build a customized Marketing Strategy from beginning to end using AI",
+      "Select the best tactics to turn website vistors into paying customers with AI",
+      "Harness the power of AI in revolutionizing your marketing efforts",
+      "Analyze and optimize your marketing performance using AI",
+      "Create any type of content with genAI and AI applications"
+    ],
+    "analytics": {
+      "relevance_score": 0.5,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.75,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "great",
+          "informative"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.7,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.75,
+        "instructor_tag": "Medium",
+        "freshness_tag": "Low",
+        "engagement_tag": "Medium"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.84,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "LLM",
+        "Unknown Duration",
+        "Generative AI"
+      ],
+      "final_comparison_score": 54.65
+    }
+  },
+  {
+    "index": 34,
+    "level": "Beginner",
+    "title": "Complete Project Manager's Practical Guide to Using AI 8 PDU",
+    "link": "https://www.udemy.com/course/financial-modeling-with-generative-ai-l/",
+    "ratingsCount": 190,
+    "totalHours": null,
+    "lecturesCount": null,
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6204327_7fe0_4.jpg",
+    "rating": 4.5,
+    "whatYoullLearn": [
+      "Evaluate the effectiveness of generative AI models for financial forecasting and risk assessment.",
+      "Construct financial models incorporating generative AI to enhance predictive capabilities.",
+      "Critique the use of GenAI for mitigating financial risk, emphasizing ethical considerations.",
+      "Design advanced scenario-based financial models using generative AI for strategic decision-making."
+    ],
+    "analytics": {
+      "relevance_score": 0.4,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.67,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "clear"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.67,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "Medium"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Unknown Duration",
+        "Generative AI"
+      ],
+      "final_comparison_score": 50.05
+    }
+  },
+  {
+    "index": 35,
+    "level": "Beginner",
+    "title": "AI for Marketing: Build & implement an AI Marketing strategy",
+    "link": "https://www.udemy.com/course/ai-agents-course/",
+    "ratingsCount": 304,
+    "totalHours": "6",
+    "lecturesCount": "88",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5906490_781d_3.jpg",
+    "rating": 4.5,
+    "whatYoullLearn": [
+      "Understand the Fundamentals of AI Agents",
+      "Explore the Types and Functions of AI Agents",
+      "Design and Development of AI Agents",
+      "Applications and Ethical Considerations of AI Agents"
+    ],
+    "analytics": {
+      "relevance_score": 0.55,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.75,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "great",
+          "informative"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.7,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.75,
+        "instructor_tag": "Medium",
+        "freshness_tag": "Low",
+        "engagement_tag": "Medium"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "AI Agents",
+        "Short (<10h)"
+      ],
+      "final_comparison_score": 57.25
+    }
+  },
+  {
+    "index": 36,
+    "level": "Beginner",
+    "title": "Financial Modeling with Generative AI",
+    "link": "https://www.udemy.com/course/responsible-ai-principles-practices-and applications/",
+    "ratingsCount": 304,
+    "totalHours": "6",
+    "lecturesCount": "88",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6238245_ec6f.jpg",
+    "rating": 4.4,
+    "whatYoullLearn": [
+      "Understand the foundational principles of responsible AI, including fairness, accountability, transparency, and privacy.",
+      "Explore the ethical implications of AI technologies and their impact on society.",
+      "Analyze case studies to identify best practices and common pitfalls in AI development and deployment.",
+      "Develop skills in creating and implementing AI systems that adhere to ethical guidelines and regulatory standards.",
+      "Learn techniques for auditing and monitoring AI systems to ensure ongoing compliance with responsible AI principles.",
+      "Evaluate the role of diverse and inclusive data in reducing biases and improving the fairness of AI models."
+    ],
+    "analytics": {
+      "relevance_score": 0.1,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Poor topic match, missing RAG/LLM Engineering. Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.67,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "practical"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.9,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.88,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 41.3
+    }
+  },
+  {
+    "index": 37,
+    "level": "Beginner",
+    "title": "Intro to AI Agents: Build an Army of Digital Workers with AI",
+    "link": "https://www.udemy.com/course/introduction-to-testing-ai-models-llms-and chatbots/",
+    "ratingsCount": 107,
+    "totalHours": "3.5",
+    "lecturesCount": "43",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5885598_f6d8_2.jpg",
+    "rating": 4.3,
+    "whatYoullLearn": [
+      "Understand how AI is working",
+      "Understand basic software testing and how to apply it to Artificial Intelligence Models",
+      "Understand how Machine Learning Models are tested compared to traditional software",
+      "Understand the Ethics behind Artificial Intelligence (AI) and how to validate biases in Large Language Models ( LLMs)",
+      "Understand how to test reasoning abilities of AI",
+      "Gain knowledge of reasoning types and how to validate Foundation AI Models against different logic and reasoning Types",
+      "Gain knowledge on what is Natural Language Processing, and what tools can be used to test for it in a Machine Learning Model",
+      "See how to benchmark AI against models \"HellaSWAG, MMLU, GLUE, BLEU, Humaneval\"",
+      "Importance of test data and how model drifting degrades Large Language Model\nPerformance",
+      "See how chatbots can be tested with real Chatgpt examples",
+      "Demo on testing Chat GPT with automated Tools",
+      "Understand Adversial Testing techniques - Gain knowhow on how to perform attacks on Artificial Intelligence Models",
+      "Understand the common and traditional metrcs what are used in Machine Learning field, such as F1 Score, Perplexity Recall and Accuracy",
+      "Understand K- Folding Data techniques"
+    ],
+    "analytics": {
+      "relevance_score": 0.25,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Good topic match (LLM/LangChain). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.67,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "great",
+          "clear"
+        ],
+        "detected_pain_points": [
+          "boring"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.2,
+        "instructor_tag": "High",
+        "freshness_tag": "Low",
+        "engagement_tag": "Low"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.86,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "LLM",
+        "AI Agents",
+        "Short (<10h)"
+      ],
+      "final_comparison_score": 36.6
+    }
+  },
+  {
+    "index": 38,
+    "level": "Beginner",
+    "title": "Responsible AI: Principles, Practices, and Applications",
+    "link": "https://www.udemy.com/course/generative-ai-genai-leaders-professionals beginners-chatgpt/",
+    "ratingsCount": 107,
+    "totalHours": "3.5",
+    "lecturesCount": "43",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5953850_b464_2.jpg",
+    "rating": 4.4,
+    "whatYoullLearn": [
+      "Boost your career with complete understanding of Generative AI and how you can implement it.",
+      "Detailed concepts of Artificial Intelligence and everything that drives Generative AI\n(Gen AI) Models to produce the outputs we desire",
+      "Prompt engineering techniques to extract very precise work from GenAI",
+      "Risks that GenAi poses, along with ethical considerations around Responsible AI",
+      "Making the most of opportunities in a Future where all businesses are powered by Gen AI",
+      "Framework to measure the impact GenAI can have on your organization",
+      "Setting up GenAI Center of Excellence (CoE) at your workplace to gain maximum impact of GenAi"
+    ],
+    "analytics": {
+      "relevance_score": 0.2,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Does not emphasize practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.88,
+        "sentiment_trend": "Overwhelmingly Positive",
+        "detected_strengths": [
+          "great",
+          "clear",
+          "easy to follow",
+          "well-structured",
+          "practical"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "High"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.9,
+        "instructor_tag": "High",
+        "freshness_tag": "Low",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "No specific project mentioned."
+      },
+      "normalized_rating": 0.88,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 37.8
+    }
+  },
+  {
+    "index": 39,
+    "level": "Beginner",
+    "title": "Masterclass Testing Machine Learning (AI) Models",
+    "link": "https://www.udemy.com/course/ai-essentials-concepts-and-demos/",
+    "ratingsCount": 3971,
+    "totalHours": "7",
+    "lecturesCount": "78",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5870074_1426_6.jpg",
+    "rating": 4.5,
+    "whatYoullLearn": [
+      "Detailed Understanding of AI Terminology",
+      "Key Concepts - AI / ML, Prompt Engineering, Neural Network",
+      "Industry use cases and ideas that can be implemented",
+      "Hands-on experience, for ChatGPT, Bard, Amazon CodeWhisperer, creating a chatbot"
+    ],
+    "analytics": {
+      "relevance_score": 0.11,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Poor topic match, missing RAG/LLM Engineering. Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.67,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "informative"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.67,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "Medium"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.06,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)"
+      ],
+      "final_comparison_score": 39.65
+    }
+  },
+  {
+    "index": 40,
+    "level": "Beginner",
+    "title": "Generative AI for Professionals and Leaders",
+    "link": "https://www.udemy.com/course/introduction-to-generative-ai/",
+    "ratingsCount": 3971,
+    "totalHours": "7",
+    "lecturesCount": "78",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6141047_71cf_12.jpg",
+    "rating": 4.4,
+    "whatYoullLearn": [
+      "Learn the basic structure and paradigms of modern Generative AI",
+      "What Generative Adversarial Networks (GANs) are and what they are used for",
+      "What Variational Autoencoders (VAEs) are and how they work",
+      "What the applications of the Neural Network models are"
+    ],
+    "analytics": {
+      "relevance_score": 0.41,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.67,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "great"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.67,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "Medium"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.88,
+      "rating_tag": "High",
+      "normalized_popularity": 0.06,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 51.45
+    }
+  },
+  {
+    "index": 41,
+    "level": "Beginner",
+    "title": "AI Essentials : Concepts and Demos",
+    "link": "https://www.udemy.com/course/generative-aimaster-tools-like-chatgpt-midjourney more/",
+    "ratingsCount": 310,
+    "totalHours": "5",
+    "lecturesCount": "74",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5850996_4bec_4.jpg",
+    "rating": 4.8,
+    "whatYoullLearn": [
+      "Understanding Generative AI: Gain a comprehensive understanding of generative AI, its fundamental concepts, and operational principles.",
+      "Exploring Generative AI Applications: Explore the vast potential of generative AI and discover its diverse applications across industries and domains.",
+      "Text Generation with Cutting-edge Tools: Dive into the world of text generation with advanced tools like ChatGPT, ChatGPT Plus, Bing Chat, and Bard",
+      "Text Generation for Various Purposes: Summarize articles, compose quick emails, devise marketing ideas, generate scripts, captions, work reports and more.",
+      "Unlocking Unlimited Potential with ChatGPT Plugins: Enhance your work experience by utilizing ChatGPT Plugins to unlock unlimited potential.",
+      "Comparing Text Generative Tools: Compare various text generative tools to determine the best fit for specific tasks and needs.",
+      "Practical Image Generation Skills: Develop practical skills in image generation with tools such as Clipdrop, Firefly, DALL·E2, Midjourney, and more.",
+      "Image Editing: With tools like ClipDrop, Firefly and Dall.E2 edit your existing images with ease.",
+      "Creating Visual Content: Utilize image generative tools to craft banners, advertisements, posters, and images for presentations.",
+      "Integrating Generative AI into Work: Learn how to seamlessly integrate generative AI tools into your daily work through hands-on lessons and real-world scenario",
+      "Mastering Prompt Crafting: Achieve precise and desired results when working with generative AI, enhancing productivity and outcomes.",
+      "Ethical Considerations in Generative AI: Engage in discussions about the ethical implications of generative AI and best practices for responsible use",
+      "Optimizing Workflow with Generative Tools: Enhance your daily work processes through practical sessions, gaining valuable insights.",
+      "Continuous Learning and Empowerment: Stay up-to-date with the ever-expanding landscape of generative AI tools to empower your work.",
+      "Seamlessly work space: Integrate GPT based extensions right in your google sheets to get efficient with your work.",
+      "Simplifying Coding and Data Visualization: Learn to simplify coding and data visualization using advanced data analysis features."
+    ],
+    "analytics": {
+      "relevance_score": 0.5,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.75,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "clear",
+          "easy to follow",
+          "well-structured",
+          "practical",
+          "hands-on"
+        ],
+        "detected_pain_points": [
+          "outdated"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "content_freshness_score": 0.2,
+        "course_engagement_score": 0.9,
+        "instructor_tag": "High",
+        "freshness_tag": "Low",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.96,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 58.1
+    }
+  },
+  {
+    "index": 42,
+    "level": "Beginner",
+    "title": "Introduction to Generative AI",
+    "link": "https://www.udemy.com/course/deepseek-ai-for-business-build-a-strategy-with-ai insights/",
+    "ratingsCount": 310,
+    "totalHours": "5",
+    "lecturesCount": "74",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5762032_0d16_4.jpg",
+    "rating": 3.9,
+    "whatYoullLearn": [
+      "Create a 6-12 month strategic business framework",
+      "Analyze the market, competitors, product and customers using DeepSeek AI",
+      "Form financially sound decisions based on data",
+      "Monitor strategy implementation through AI tools"
+    ],
+    "analytics": {
+      "relevance_score": 0.1,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Poor topic match, missing RAG/LLM Engineering. Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.67,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "informative"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.67,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "Medium"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.78,
+      "rating_tag": "Medium",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 36.85
+    }
+  },
+  {
+    "index": 43,
+    "level": "Beginner",
+    "title": "Generative AI: Master tools like ChatGPT, Midjourney & more",
+    "link": "https://www.udemy.com/course/generative-ai-for-managers-and-leaders-u/",
+    "ratingsCount": 278,
+    "totalHours": "4.5",
+    "lecturesCount": "57",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5552488_6d18_2.jpg",
+    "rating": 4.2,
+    "whatYoullLearn": [
+      "Take the latest GPT-5 for a test drive",
+      "Understand the strategic role of Generative AI in modern business leadership",
+      "Gain foundational knowledge of AI, Machine Learning, and how Generative AI fits in",
+      "Practice how to assess AI readiness—data, tools, people, and governance.",
+      "Design a practical, ROI-driven AI strategy tailored to your organization or industry",
+      "Explore real-world applications across marketing, HR, operations, development, and more",
+      "Discover how to build autonomous AI Agents using Model Context Protocol",
+      "Discover how to integrate tools like GPT-4o, Claude, Gemini, and custom GPTs",
+      "Evaluate AI ethics, governance, and risks with real-life frameworks and demos",
+      "Practice hands-on demos using ML, RAG, MCP and custom tools",
+      "Use the AI Strategy Builder tool to create a personalized roadmap for your organization"
+    ],
+    "analytics": {
+      "relevance_score": 0.55,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.67,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "great"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.7,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.67,
+        "instructor_tag": "Medium",
+        "freshness_tag": "Low",
+        "engagement_tag": "Medium"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.84,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "RAG",
+        "Short (<10h)",
+        "Beginner",
+        "AI Agents",
+        "Generative AI"
+      ],
+      "final_comparison_score": 55.45
+    }
+  },
+  {
+    "index": 44,
+    "level": "Beginner",
+    "title": "DeepSeek AI for Business: Build a Strategy with AI Insights",
+    "link": "https://www.udemy.com/course/artificial-intelligence-for-beginners-b/",
+    "ratingsCount": 278,
+    "totalHours": "4.5",
+    "lecturesCount": "57",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6610709_4ab8_2.jpg",
+    "rating": 4.5,
+    "whatYoullLearn": [
+      "Understand the Fundamentals of AI – Explain what Artificial Intelligence is, how it works, and how it differs from Machine Learning and Deep Learning.",
+      "Identify AI in Everyday Life – Recognize and describe how AI is used in common applications such as smartphones, social media, recommendation systems, and virtu",
+      "Evaluate the Benefits and Limitations of AI – Discuss the advantages AI brings to different industries while considering ethical concerns and potential challeng",
+      "Adopt AI for Personal and Professional Use – Explore practical AI tools that can\nimprove productivity, creativity, and decision-making in daily tasks and work e"
+    ],
+    "analytics": {
+      "relevance_score": 0.1,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Poor topic match, missing RAG/LLM Engineering. Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.5,
+        "sentiment_trend": "Mixed",
+        "detected_strengths": [
+          "clear"
+        ],
+        "detected_pain_points": [
+          "confusing"
+        ],
+        "sentiment_tag": "Low"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.9,
+        "instructor_tag": "High",
+        "freshness_tag": "Low",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "No specific project mentioned."
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)"
+      ],
+      "final_comparison_score": 34
+    }
+  },
+  {
+    "index": 45,
+    "level": "Beginner",
+    "title": "Generative AI for Managers and Leaders",
+    "link": "https://www.udemy.com/course/chatgpt-generative-ai-prompt-engineering-course/",
+    "ratingsCount": 9517,
+    "totalHours": "7",
+    "lecturesCount": "54",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6057893_6736.jpg",
+    "rating": 4.2,
+    "whatYoullLearn": [
+      "AI Fundamentals",
+      "ChatGPT fundamentals",
+      "ChatGPT best practices",
+      "ChatGPT standard prompt templates and live demo",
+      "ChatGPT Real-world use cases",
+      "ChatGPT advanced features",
+      "Generative AI Fundamentals",
+      "Prompt Engineering",
+      "Prompt Engineering techniques"
+    ],
+    "analytics": {
+      "relevance_score": 0.13,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Poor topic match, missing RAG/LLM Engineering. Includes practical projects.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.67,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "great"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.67,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "Medium"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.84,
+      "rating_tag": "High",
+      "normalized_popularity": 0.15,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 41.65
+    }
+  },
+  {
+    "index": 46,
+    "level": "Beginner",
+    "title": "Getting Started with Generative AI: Unboxing the Future",
+    "link": "https://www.udemy.com/course/ai-ethics-leading-responsible-use-of-generative ai/",
+    "ratingsCount": 9517,
+    "totalHours": "7",
+    "lecturesCount": "54",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6451223_f89e_3.jpg",
+    "rating": 4.9,
+    "whatYoullLearn": [
+      "Business leaders and executives overseeing AI-driven initiatives",
+      "Product managers and project leads working with Generative AI",
+      "Policy makers, legal professionals, and compliance officers",
+      "Academics, researchers, and ethics board members",
+      "HR, L&D, and governance professionals interested in AI ethics",
+      "Anyone curious about the societal impact and responsible use of AI"
+    ],
+    "analytics": {
+      "relevance_score": 0.43,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.8,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "great",
+          "clear"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "High"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.8,
+        "instructor_tag": "High",
+        "freshness_tag": "Low",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.98,
+      "rating_tag": "High",
+      "normalized_popularity": 0.15,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 57
+    }
+  },
+  {
+    "index": 47,
+    "level": "Beginner",
+    "title": "ChatGPT + Generative AI + Prompt Engineering for Beginners",
+    "link": "https://www.udemy.com/course/certificate-in-ai-business-leadership/",
+    "ratingsCount": 3409,
+    "totalHours": "2.5",
+    "lecturesCount": "28",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6701371_7b47_2.jpg",
+    "rating": 4.6,
+    "whatYoullLearn": [
+      "A Non-technical certificate course designed for business leaders!",
+      "Students will learn the foundational concepts of AI and machine learning.",
+      "They will understand how generative AI technologies can be applied in various business functions.",
+      "The course will cover strategies for integrating AI into business strategy and organizational culture.",
+      "Students will explore ethical implications and future trends of AI in business.",
+      "They will gain insights into developing and managing AI-powered ecosystems."
+    ],
+    "analytics": {
+      "relevance_score": 0.41,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.75,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "great",
+          "excellent",
+          "informative",
+          "helpful",
+          "clear"
+        ],
+        "detected_pain_points": [
+          "boring"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.8,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.2,
+        "instructor_tag": "High",
+        "freshness_tag": "Low",
+        "engagement_tag": "Low"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.92,
+      "rating_tag": "High",
+      "normalized_popularity": 0.05,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 44.6
+    }
+  },
+  {
+    "index": 48,
+    "level": "Beginner",
+    "title": "AI Ethics: Leading Responsible Use of Generative AI",
+    "link": "https://www.udemy.com/course/llm-seo-geo-get-ai-to-recommend-you/",
+    "ratingsCount": 3409,
+    "totalHours": "2.5",
+    "lecturesCount": "28",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6776461_9ca7_2.jpg",
+    "rating": 4.7,
+    "whatYoullLearn": [
+      "Get traffic and sales coming from ChatGPT and other AI tools",
+      "Optimize your website and content for AI search engines",
+      "Future trends in AI SEO and how to stay ahead",
+      "Outsmart your competition by taking advantage of these new opportunities",
+      "See a case study of how within minutes I got ChatGPT to promote me as a top expert",
+      "Get traffic from Google Gemini LLM SEO",
+      "Get traffic from Perplexity",
+      "Get traffic from Grok",
+      "Get traffic from Claude AI"
+    ],
+    "analytics": {
+      "relevance_score": 0.21,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Poor topic match, missing RAG/LLM Engineering. Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.67,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "great"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.95,
+        "course_engagement_score": 0.67,
+        "instructor_tag": "Low",
+        "freshness_tag": "High",
+        "engagement_tag": "Medium"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.94,
+      "rating_tag": "High",
+      "normalized_popularity": 0.05,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "LLM",
+        "Short (<10h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 43.85
+    }
+  },
+  {
+    "index": 49,
+    "level": "Beginner",
+    "title": "Generative AI for Java Developers with Azure OpenAI ChatGPT",
+    "link": "https://www.udemy.com/course/generative-ai-for-java-developers-with-azure openai/",
+    "ratingsCount": 1024,
+    "totalHours": "4.5",
+    "lecturesCount": "85",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5668166_36dd.jpg",
+    "rating": 4.2,
+    "whatYoullLearn": [
+      "Understand the fundamentals of AI,Generative AI and OpenAI API",
+      "Learn how to use ChatGPT and Prompt Engineering",
+      "Setup Azure OpenAI account",
+      "Understand Azure OpenAI quotas and pricing",
+      "Deploy Azure OpenAI service",
+      "Learn how to use the Azure OpenAI Studio to deploy LLMs",
+      "Test your models using the Playground",
+      "Access the model from Postman",
+      "Use the models from your Java Code through APIs",
+      "Deploy your tested models as a Web Application",
+      "Use DALL-E studio to generate images",
+      "Create Images From your Java code using APIs",
+      "Understand what text embeddings are and deploy the Embedding Models",
+      "Generate Embeddings and find Similarity between words and sentences",
+      "Use Whisper AI model to generate text from audio",
+      "Translate audio from other languages to english",
+      "Use audio and text models together",
+      "Master using your own data with the models",
+      "Understand how keyword and vector search works",
+      "Use cognitive search",
+      "Learn how to secure your chatbots",
+      "Understand what Fine Tuning is and work on a usecase",
+      "Use Content Filters",
+      "and more in simple steps"
+    ],
+    "analytics": {
+      "relevance_score": 0.3,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Good topic match (LLM/LangChain). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.5,
+        "sentiment_trend": "Mixed",
+        "detected_strengths": [
+          "informative"
+        ],
+        "detected_pain_points": [
+          "outdated"
+        ],
+        "sentiment_tag": "Low"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.2,
+        "course_engagement_score": 0.5,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "Low"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.84,
+      "rating_tag": "High",
+      "normalized_popularity": 0.02,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "LLM",
+        "Short (<10h)",
+        "Beginner",
+        "Azure",
+        "Generative AI"
+      ],
+      "final_comparison_score": 43.3
+    }
+  },
+  {
+    "index": 50,
+    "level": "Beginner",
+    "title": "Intro to Artificial General Intelligence (AGI): Future of AI",
+    "link": "https://www.udemy.com/course/artificial-general-intelligence-agi-course/",
+    "ratingsCount": 1024,
+    "totalHours": "4.5",
+    "lecturesCount": "85",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6023794_8dcf_2.jpg",
+    "rating": 4.5,
+    "whatYoullLearn": [
+      "Understand the key components that make up an AGI system, such as knowledge representation, reasoning, learning, and goal-setting.",
+      "Differentiate between narrow AI, artificial general intelligence (AGI), and artificial superintelligence (ASI), and identify examples of each.",
+      "Analyze the major technical and ethical challenges involved in developing safe and beneficial AGI, such as value alignment, robustness, transparency, and contro",
+      "Compare and contrast the main approaches being pursued to create AGI, including symbolic, connectionist, and hybrid methods.",
+      "Identify the key enabling technologies accelerating AGI development, such as deep learning, reinforcement learning, meta-learning, and knowledge graphs.",
+      "Assess the progress and contributions of major companies and institutions working on AGI, such as DeepMind, OpenAI, Google, MIT, and others.",
+      "Examine recent breakthroughs and milestones in AGI research, like language models, multi-modal learning, and open-ended problem solving.",
+      "Understand core principles of responsible AI development and identify key ethical issues raised by advanced AI systems.",
+      "Recognize the vital role of AI governance frameworks and regulations for ensuring AGI is developed safely and equitably.",
+      "Realistically evaluate expert forecasts and timelines for when we may achieve human level AGI.",
+      "Identify high-value skills and career paths that will be in demand in an AGI transformed world.",
+      "Anticipate and prepare for the profound economic, social and geopolitical impacts and risks of artificial general intelligence."
+    ],
+    "analytics": {
+      "relevance_score": 0,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Poor topic match, missing RAG/LLM Engineering. Does not emphasize practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.67,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "great"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.7,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.67,
+        "instructor_tag": "Medium",
+        "freshness_tag": "Low",
+        "engagement_tag": "Medium"
+      },
+      "content_features": {
+        "has_capstone_project": false,
+        "project_summary": "No specific project mentioned."
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.02,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)"
+      ],
+      "final_comparison_score": 26.95
+    }
+  },
+  {
+    "index": 51,
+    "level": "Beginner",
+    "title": "AI-Powered Digital Marketer. ChatGPT & 80+ AI tools to grow",
+    "link": "https://www.udemy.com/course/digital-marketing-strategy-from-scratch-course/",
+    "ratingsCount": 647,
+    "totalHours": "2",
+    "lecturesCount": "39",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/3833784_12ca_9.jpg",
+    "rating": 4.5,
+    "whatYoullLearn": [
+      "Understand the fundamentals of digital marketing and how to develop a successful digital marketing strategy for your business",
+      "Learn about the different channels of digital marketing, including SEO, PPC, social media, email marketing, and content marketing",
+      "Gain hands-on experience in developing and implementing digital marketing campaigns through real-world projects and case studies",
+      "Create the company's mission, and unique selling proposition",
+      "Сonduct market research, identify your target audience, and create a content marketing plan",
+      "Create and manage PPC campaigns",
+      "Use social media to build brand awareness and drive website traffic",
+      "Use analytics and data to measure the effectiveness of your digital marketing campaigns and make data-driven decisions",
+      "Get a list of tips on how to find a job in digital marketing",
+      "Use AI tools to perform your marketing tasks"
+    ],
+    "analytics": {
+      "relevance_score": 0.5,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.8,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "great",
+          "practical"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "High"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.8,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.9,
+        "instructor_tag": "High",
+        "freshness_tag": "Low",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.01,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)"
+      ],
+      "final_comparison_score": 57.7
+    }
+  },
+  {
+    "index": 52,
+    "level": "Beginner",
+    "title": "AWS Certified Machine Learning Specialty 2025 - Hands On!",
+    "link": "https://www.udemy.com/course/ai-driven-business-process-modeling/",
+    "ratingsCount": 647,
+    "totalHours": "2",
+    "lecturesCount": "39",
+    "rating": 4.6,
+    "whatYoullLearn": [
+      "Grasp the essentials of AI-driven BPM by exploring the BPM lifecycle and understanding how AI enhances each stage.​​",
+      "Use AI tools for process improvement by applying AI in process design and analysis, and integrating methodologies like TQM, Six Sigma, and Lean.​​",
+      "Explore how AI improves real-world processes by examining applications in various industries and understanding how it optimizes processes and delivers results.​",
+      "Address business problems with AI-driven BPM by identifying automation opportunities and applying your knowledge in practical case studies.​​​​"
+    ],
+    "analytics": {
+      "relevance_score": 0.5,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.67,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "helpful"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.67,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "Medium"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.92,
+      "rating_tag": "High",
+      "normalized_popularity": 0.01,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)",
+        "AWS"
+      ],
+      "final_comparison_score": 54.45
+    }
+  },
+  {
+    "index": 53,
+    "level": "Beginner",
+    "title": "AWS Certified Machine Learning Specialty Full Practice Exam",
+    "link": "https://www.udemy.com/course/ai-for-work/",
+    "ratingsCount": 4003,
+    "totalHours": "62.5",
+    "lecturesCount": "701",
+    "rating": 4.3,
+    "whatYoullLearn": [
+      "Save Time: Save over 10 hours each week by automating repetitive tasks.",
+      "Be more Productive: Learn how to streamline your workday with AI, allowing more time for high-impact work.",
+      "Be more Innovative: Discover how AI can serve as a creativity partner, helping you generate fresh ideas and innovative solutions.",
+      "Future-Proof Your Skills: Acquire skills essential for staying competitive and relevant in today’s AI-driven work environment.",
+      "Master Good Prompts: Develop techniques for crafting effective AI prompts, unlocking the full potential of AI tools.",
+      "10 Minutes a Day of Hands-On Practice: Experience practical, bite-sized drills designed for professionals, requiring only 10 minutes per day.",
+      "Boost Your “AIQ”: Take an AIQ assessment before and after the course to measure your growth.",
+      "Learn how to use AI as a coworker in the following roles: Administrative Assistant, Planner/Strategist, Copy Editor, Data Analyst, Researcher, Tech Support Agen"
+    ],
+    "analytics": {
+      "relevance_score": 0.11,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Poor topic match, missing RAG/LLM Engineering. Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.5,
+        "sentiment_trend": "Mixed",
+        "detected_strengths": [
+          "No Specific Strengths Detected"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Low"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.5,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "Low"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.86,
+      "rating_tag": "High",
+      "normalized_popularity": 0.06,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Long (>25h)",
+        "AWS"
+      ],
+      "final_comparison_score": 36.7
+    }
+  },
+  {
+    "index": 54,
+    "level": "Beginner",
+    "title": "AI-Driven Business Process Modeling",
+    "link": "https://www.udemy.com/course/chatgpt4datascience_x/",
+    "ratingsCount": 4003,
+    "totalHours": "62.5",
+    "lecturesCount": "701",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6483599_6794.jpg",
+    "rating": 4.7,
+    "whatYoullLearn": [
+      "How to access ChatGPT",
+      "Using ChatGPT to help learn data science",
+      "ChatGPT to help debug your code",
+      "ChatGPT to interpret statistical results",
+      "Using ChatGPT to help communicate data science results",
+      "How ChatGPT can help you with machine learning",
+      "What AI-assisted data science means"
+    ],
+    "analytics": {
+      "relevance_score": 0.41,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.5,
+        "sentiment_trend": "Mixed",
+        "detected_strengths": [
+          "No Specific Strengths Detected"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Low"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.5,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "Low"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.94,
+      "rating_tag": "High",
+      "normalized_popularity": 0.06,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Long (>25h)"
+      ],
+      "final_comparison_score": 49.5
+    }
+  },
+  {
+    "index": 55,
+    "level": "Beginner",
+    "title": "AI For Work: 12 Ways to Do Better Work, Faster",
+    "link": "https://www.udemy.com/course/ai-engineering/",
+    "ratingsCount": 14,
+    "totalHours": "3",
+    "lecturesCount": "28",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6294069_69a1.jpg",
+    "rating": 4.5,
+    "whatYoullLearn": [
+      "Introduction to AI/ML concepts and tools",
+      "Building a ChatGPT clone using Google's Gemini model",
+      "Using GitHub for data science and AI projects",
+      "Implementing continuous integration for data science/AI workflows",
+      "Prompt engineering techniques for better AI interactions",
+      "Document search capabilities in AI systems",
+      "Understanding and working with word embeddings",
+      "Using Hugging Face tools and models",
+      "AI automation techniques",
+      "Retrieval-Augmented Generation (RAG) for enhancing AI responses",
+      "Fine-tuning AI models for specific tasks",
+      "Cover 5-6 AI projects"
+    ],
+    "analytics": {
+      "relevance_score": 0.5,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.75,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "great"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.8,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.75,
+        "instructor_tag": "High",
+        "freshness_tag": "Low",
+        "engagement_tag": "Medium"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "RAG",
+        "Short (<10h)"
+      ],
+      "final_comparison_score": 55.25
+    }
+  },
+  {
+    "index": 56,
+    "level": "Beginner",
+    "title": "Generative AI for data analytics",
+    "link": "https://www.udemy.com/course/learn-ai/",
+    "ratingsCount": 14,
+    "totalHours": "3",
+    "lecturesCount": "28",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5300284_7bff.jpg",
+    "rating": 4.6,
+    "whatYoullLearn": [
+      "Understand the fundamentals of AI",
+      "Master ChatGPT, Grok, Gemini, & Copilot",
+      "Enhance productivity with AI for everyday tasks",
+      "Apply advanced prompt engineering techniques",
+      "Generate high-quality text, images, videos, and music",
+      "Leverage AI for business and marketing",
+      "Use AI tools for data analysis and automation",
+      "Understand ethical AI usage and privacy considerations",
+      "Learn best practices for using AI responsibly while protecting personal and business data",
+      "Utilize AI for content creation, customer engagement, and strategic planning",
+      "Work with AI to analyze data, generate reports, and automate repetitive tasks",
+      "Use ChatGPT effectively for writing, research, brainstorming, and problem-solving",
+      "Explore real-world AI applications",
+      "Stay updated with the latest AI advancements"
+    ],
+    "analytics": {
+      "relevance_score": 0.4,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.8,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "great",
+          "clear",
+          "engaging"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "High"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.9,
+        "instructor_tag": "High",
+        "freshness_tag": "Low",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.92,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "RAG",
+        "Short (<10h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 53.7
+    }
+  },
+  {
+    "index": 57,
+    "level": "Beginner",
+    "title": "Generative AI For Beginners",
+    "link": "https://www.udemy.com/course/understanding-ai-for-beginners-the-essential guide-to-ai/",
+    "ratingsCount": 5365,
+    "totalHours": "1.5",
+    "lecturesCount": "18",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6134873_b97a_7.jpg",
+    "rating": 4.9,
+    "whatYoullLearn": [
+      "Demystify AI by breaking down complex concepts into simple, easy-to-understand lessons tailored for absolute beginners.",
+      "Explore real-world applications of AI in business, healthcare, education, and daily life through relatable case studies.",
+      "Introduce key AI technologies such as machine learning, natural language processing, and computer vision without needing any coding background.",
+      "Spark curiosity and confidence to engage in further AI learning or participate in AI related discussions and decision-making."
+    ],
+    "analytics": {
+      "relevance_score": 0.12,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Poor topic match, missing RAG/LLM Engineering. Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.8,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "clear",
+          "practical"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "High"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.8,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.9,
+        "instructor_tag": "High",
+        "freshness_tag": "Low",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.98,
+      "rating_tag": "High",
+      "normalized_popularity": 0.08,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 44.7
+    }
+  },
+  {
+    "index": 58,
+    "level": "Beginner",
+    "title": "ChatGPT & AI Tools - From Beginner to Expert",
+    "link": "https://www.udemy.com/course/runway-ai-video-creation/",
+    "ratingsCount": 5365,
+    "totalHours": "1.5",
+    "lecturesCount": "18",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6255363_d894.jpg",
+    "rating": 4.5,
+    "whatYoullLearn": [
+      "Create AI-Generated Videos: Use image-to-video to generate high-quality video content with simple prompts.",
+      "Master Runway ML Interface: Navigate Runway ML’s platform with ease and understand its core tools for video creation and editing.",
+      "Generate and Enhance Images: Learn to create stunning images with Runway ML’s image generation tools and integrate them into your video projects.",
+      "Craft Effective Prompts for Video Creation: Develop the skill of writing prompts that guide Runway ML to produce dynamic, creative video scenes.",
+      "Edit Videos with Runway ML: Use Runway’s \"editing\" tools to expand videos, upscale to 4K, and extend videos for professional results.",
+      "Optimize Camera Settings for Professional Shots: Adjust camera settings in Runway ML to achieve high-quality, cinematic video compositions.",
+      "Sync Audio and Lip Movements: Master lip-syncing techniques and integrate AI-driven audio for voiceovers",
+      "Expand and Enhance Videos: Learn how to expand your videos by directing your clips, scenes, and creative elements to enrich the narrative and visual appeal.",
+      "Meet SUNO, your free AI tool that's the perfect partner to use alongside Runway ML to generate AI music scores to bring your videos to life."
+    ],
+    "analytics": {
+      "relevance_score": 0.42,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.8,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "great",
+          "helpful"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "High"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.8,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.8,
+        "instructor_tag": "High",
+        "freshness_tag": "Low",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.08,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)"
+      ],
+      "final_comparison_score": 54.4
+    }
+  },
+  {
+    "index": 59,
+    "level": "Beginner",
+    "title": "Understanding AI for Beginners: The Essential Guide to AI",
+    "link": "https://www.udemy.com/course/artificial-intelligence-in-it-automotive-and other-fields/",
+    "ratingsCount": 1441,
+    "totalHours": "4.5",
+    "lecturesCount": "49",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6618813_c42a_2.jpg",
+    "rating": 4.3,
+    "whatYoullLearn": [
+      "What is ChatGPT Artificial Intelligence Tool",
+      "AI for Finance,Automotive,RequirementEngineering and many other fields",
+      "How to use ChatGPT to create simple python programs",
+      "How to use ChatGPT for doing prompt engineering"
+    ],
+    "analytics": {
+      "relevance_score": 0.4,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.88,
+        "sentiment_trend": "Overwhelmingly Positive",
+        "detected_strengths": [
+          "great",
+          "awesome",
+          "clear"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "High"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.8,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.88,
+        "instructor_tag": "High",
+        "freshness_tag": "Low",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.86,
+      "rating_tag": "High",
+      "normalized_popularity": 0.02,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)",
+        "Python"
+      ],
+      "final_comparison_score": 53.2
+    }
+  },
+  {
+    "index": 60,
+    "level": "Beginner",
+    "title": "AI Video Creation with Runway ML: A Generative AI Course",
+    "link": "https://www.udemy.com/course/essential-generative-ai-for-engineering-managers leads/",
+    "ratingsCount": 1441,
+    "totalHours": "4.5",
+    "lecturesCount": "49",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6491255_e426_2.jpg",
+    "rating": 4.3,
+    "whatYoullLearn": [
+      "Explain AI, ML & Generative AI in clear, business-friendly terms.",
+      "Craft effective prompts to generate useful, actionable outputs.",
+      "Integrate GenAI into workflows to save time and improve productivity.",
+      "Apply AI across functions like HR, Marketing, Operations & Engineering.",
+      "Support smarter, faster decision-making with AI-assisted insights.",
+      "Lead AI adoption in teams and measure its impact on business outcomes."
+    ],
+    "analytics": {
+      "relevance_score": 0.4,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.75,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "great",
+          "excellent"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.8,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.75,
+        "instructor_tag": "High",
+        "freshness_tag": "Low",
+        "engagement_tag": "Medium"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.86,
+      "rating_tag": "High",
+      "normalized_popularity": 0.02,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 51.25
+    }
+  },
+  {
+    "index": 61,
+    "level": "Beginner",
+    "title": "Easy to Understand - Artificial Intelligence for Everyone",
+    "link": "https://www.udemy.com/course/2025-bootcamp-understand-and-build-professional ai-agents/",
+    "ratingsCount": 5,
+    "totalHours": "4.5",
+    "lecturesCount": "14",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5445228_5ffd_2.jpg",
+    "rating": 4.3,
+    "whatYoullLearn": [
+      "How AI Agents fit into the Generative AI Revolution.",
+      "What framework is better to build your AI Agents? Comparative.",
+      "Learn to build basic, intermediate, and advanced AI Agents.",
+      "Learn CrewAI the right way: from basic Crews to advanced Flows.",
+      "Learn LangGraph the right way: from basic Agents to advanced Subgraphs.",
+      "Real Cases of AI Agents that will inspire you.",
+      "How to build advanced AI Agents that manage your email and other custom tools.",
+      "How to build advanced AI Agents that remember who you are and what you want.",
+      "How to build advanced Multi-Agents able to replace whole teams of people.",
+      "How to improve your AI Agents with Human-in-the-loop and other advanced techniques.",
+      "The process to build an AI Agent from scratch: from the initial interview with your client to the final app.",
+      "How to design a Plan to Introduce AI Agents in your company."
+    ],
+    "analytics": {
+      "relevance_score": 0.65,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.86,
+        "sentiment_trend": "Overwhelmingly Positive",
+        "detected_strengths": [
+          "great",
+          "easy to follow",
+          "practical"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "High"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "content_freshness_score": 0.95,
+        "course_engagement_score": 0.9,
+        "instructor_tag": "High",
+        "freshness_tag": "High",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.86,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "LangGraph",
+        "Short (<10h)",
+        "Beginner",
+        "AI Agents",
+        "Generative AI"
+      ],
+      "final_comparison_score": 63.1
+    }
+  },
+  {
+    "index": 62,
+    "level": "Beginner",
+    "title": "Essential Generative AI for Engineering Managers & Leads",
+    "link": "https://www.udemy.com/course/complete_generative_ai/",
+    "ratingsCount": 5,
+    "totalHours": "4.5",
+    "lecturesCount": "14",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6805429_47a9.jpg",
+    "rating": 5,
+    "whatYoullLearn": [
+      "Master the fundamentals of NLP: Tokenization, embedding, POS tagging, TF-IDF, chunking, and more.",
+      "Understand the fundamentals of Generative AI: Explore key concepts like autoencoders, VAEs, GANs, and Transformer models",
+      "Master Prompt Engineering: Learn techniques to design effective prompts for models like ChatGPT, including zero-shot, one-shot, and few-shot prompting.",
+      "Work with industry-leading tools: Explore cutting-edge Generative AI platforms like ChatGPT, Google Gemini, and Microsoft CoPilot for real-world applications.",
+      "Set up the environment for hands-on Generative AI applications: Implement RAG using Python, VS Code, and LangChain.",
+      "Work with LangChain and LangChain Ecosystem Libraries (LCEL): Build real-world Generative AI applications and explore the LangChain ecosystem.",
+      "Develop AI Agents: Understand and implement agents like Crew AI and AutoGen to automate complex tasks.",
+      "Implement Vector RAG and Graph RAG: Use Neo4j for advanced retrieval and data augmentation techniques.",
+      "Learn Self-Reflective RAG techniques: Understand how AI can reason and reflect on its own processes.",
+      "Practical Python skills for Generative AI: Start from the basics and progress to advanced AI development with Python and libraries like NLTK.",
+      "Build AI solutions from the ground up: Gain end-to-end knowledge of Generative AI, from basics to advanced implementations with LangChain and LCEL.",
+      "Generative AI with AWS Bedrock",
+      "Generative AI with Google Cloud Vertex AI",
+      "Hands on use case implementation with AWS Bedrock BOTO3",
+      "Google Cloud Vertex AI use case impelementation"
+    ],
+    "analytics": {
+      "relevance_score": 0.55,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match\n(RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.83,
+        "sentiment_trend": "Overwhelmingly Positive",
+        "detected_strengths": [
+          "great",
+          "excellent"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "High"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.8,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.83,
+        "instructor_tag": "High",
+        "freshness_tag": "Low",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 1,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "RAG",
+        "Short (<10h)",
+        "Python",
+        "Beginner",
+        "AI Agents",
+        "Generative AI",
+        "LangChain",
+        "AWS"
+      ],
+      "final_comparison_score": 59.45
+    }
+  },
+  {
+    "index": 63,
+    "level": "Beginner",
+    "title": "2026 Bootcamp: Understand and Build Professional AI Agents",
+    "link": "https://www.udemy.com/course/ai-agents-for-everyone-and-artificial intelligence-bootcamp/",
+    "ratingsCount": 806,
+    "totalHours": "26",
+    "lecturesCount": "200",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6458007_86f2.jpg",
+    "rating": 4.3,
+    "whatYoullLearn": [
+      "Understand the fundamentals of AI agents and their decision-making processes",
+      "Learn about machine learning and NLP technologies powering AI agents.",
+      "Explore different types of AI agents, from simple to advanced systems.",
+      "Gain hands-on experience with AutoGPT, IBM Bee, LangGraph, and CrewAI.",
+      "Develop AI agents for business, healthcare, finance, and entertainment.",
+      "Understand ethical considerations and biases in AI agent development.",
+      "Address legal and regulatory challenges for deploying AI agents.",
+      "Build collaborative and stateful AI agents using advanced frameworks.",
+      "Explore future trends and societal impacts of AI agents in various fields.",
+      "Create a portfolio of real-world AI agent projects for professional growth."
+    ],
+    "analytics": {
+      "relevance_score": 0.25,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Good topic match (LLM/LangChain). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.33,
+        "sentiment_trend": "Generally Negative",
+        "detected_strengths": [
+          "No Specific Strengths Detected"
+        ],
+        "detected_pain_points": [
+          "boring"
+        ],
+        "sentiment_tag": "Low"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.2,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "Low"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.86,
+      "rating_tag": "High",
+      "normalized_popularity": 0.01,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "AI Agents",
+        "LangGraph",
+        "Long (>25h)"
+      ],
+      "final_comparison_score": 36.8
+    }
+  },
+  {
+    "index": 64,
+    "level": "Beginner",
+    "title": "Complete Gen AI: Basic to Agent AI, RAG, Bedrock, Vertex AI",
+    "link": "https://www.udemy.com/course/genai-aws/",
+    "ratingsCount": 806,
+    "totalHours": "26",
+    "lecturesCount": "200",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6172651_b4f6_2.jpg",
+    "rating": 4.1,
+    "whatYoullLearn": [
+      "Understand AI, ML, and generative AI concepts, methods, and strategies in general and on AWS.",
+      "Understand the appropriate use of AI/ML and generative AI technologies to ask relevant questions within the candidate’s organization.",
+      "Determine the correct types of AI/ML technologies to apply to specific use cases.",
+      "Use AI, ML, and generative AI technologies responsibly.",
+      "Acquire the knowledge and pass AWS AI Practitioner Exam (AIF-C01) with confidence"
+    ],
+    "analytics": {
+      "relevance_score": 0.4,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.83,
+        "sentiment_trend": "Overwhelmingly Positive",
+        "detected_strengths": [
+          "clear",
+          "well-structured",
+          "hands-on",
+          "engaging"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "High"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.9,
+        "instructor_tag": "High",
+        "freshness_tag": "Low",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.82,
+      "rating_tag": "High",
+      "normalized_popularity": 0.01,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "RAG",
+        "Beginner",
+        "Long (>25h)",
+        "Generative AI",
+        "AWS"
+      ],
+      "final_comparison_score": 52.9
+    }
+  },
+  {
+    "index": 65,
+    "level": "Beginner",
+    "title": "AI Agents for Everyone & AI Bootcamp with 100 Hands-on Labs",
+    "link": "https://www.udemy.com/course/chat-gpt/",
+    "ratingsCount": 24,
+    "totalHours": "0.5",
+    "lecturesCount": "13",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6413173_84ff.jpg",
+    "rating": 4.1,
+    "whatYoullLearn": [
+      "How to use ChatGPT",
+      "How to write effective ChatGPT prompts to elicit information",
+      "Create and Use ChatGPT Prompt Libraries",
+      "Advance Your Communication Skills with ChatGPT",
+      "Write effective copy using ChatGPT",
+      "Use ChatGPT to write character biographies",
+      "Use ChatGPT to come up with plot points and ideas for fictional works",
+      "How to learn more about people, places and things using ChatGPT",
+      "Learn Prompt Engineering and Design with ChatGPT",
+      "How to use ChatGPT to advance your career",
+      "How to use ChatGPT to prepare for job interviews",
+      "How to use ChatGPT to target your resume for a specific job description",
+      "How to use ChatGPT to improve your LinkedIn Profile",
+      "How to use ChatGPT to script podcasts",
+      "How to use ChatGPT to script YouTube videos",
+      "How to use ChatGPT to code games in Python",
+      "How to use ChatGPT to create web pages",
+      "How to use ChatGPT to come up with ideas and use ChatGPT as your personal idea machine.",
+      "How to use ChatGPT to write Batch Apex in Salesforce",
+      "How to use ChatGPT to write Apex Test Classes in Salesforce",
+      "How to access ChatGPT in the New Bing Search Engine",
+      "How to join the OpenAI Discord Channel",
+      "How to use ChatGPT for document translation",
+      "How to use ChatGPT for text generation",
+      "How to detect the use of ChatGPT and other AI tools in various written works",
+      "How to use ChatGPT to outline and write a book",
+      "How to use ChatGPT with various social media networks",
+      "How to access Chat GPT 4",
+      "How to sign up for and access ChatGPT Plus",
+      "How to use ChatGPT to write HTML, Javascript and CSS for styled webpages",
+      "How to use ChatGPT Prompt Engineering and Design to control tone and response length",
+      "How to perform mass prompting inside of ChatGPT",
+      "How to use ChatGPT to overcome technology challenges",
+      "How to use ChatGPT to solve compatibility issues",
+      "How to use ChatGPT to strengthen security",
+      "How to use ChatGPT to translate technical jargon",
+      "How to use ChatGPT to navigate complex software and systems",
+      "How to use ChatGPT to translate code into human readable text",
+      "How to use ChatGPT to create Regex / Regular Expressions for you",
+      "How to use ChatGPT to debug code and for code completion",
+      "Learn Prompt Engineering",
+      "How to use Replit with ChatGPT",
+      "Learn Prompt Design",
+      "How to translate code from one language to another using ChatGPT",
+      "How to use ChatGPT to discern sentiment analysis",
+      "How to use ChatGPT to generate R code for data visualization",
+      "How to use ChatGPT to classify and categorize text",
+      "How to use ChatGPT to create ascii art",
+      "How to use ChatGPT to create algorithms",
+      "How to use ChatGPT to write SQL queries"
+    ],
+    "analytics": {
+      "relevance_score": 0.45,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.8,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "great",
+          "practical",
+          "engaging"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "High"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.8,
+        "content_freshness_score": 0.95,
+        "course_engagement_score": 0.9,
+        "instructor_tag": "High",
+        "freshness_tag": "High",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.82,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Short (<10h)",
+        "Python",
+        "Beginner",
+        "AI Agents",
+        "JavaScript"
+      ],
+      "final_comparison_score": 54.7
+    }
+  },
+  {
+    "index": 66,
+    "level": "Beginner",
+    "title": "Learn Generative AI and pass AWS AI Certification",
+    "link": "https://www.udemy.com/course/responsible-ai/",
+    "ratingsCount": 24,
+    "totalHours": "0.5",
+    "lecturesCount": "13",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6266365_27fb_2.jpg",
+    "rating": 4.8,
+    "whatYoullLearn": [
+      "Understand the main risks of working with (generative) AI, related to: privacy, fairness, explainability, transparency and accountability.",
+      "Evaluate AI projects in terms of responsible AI",
+      "Understand these risks and responsible AI practices through real-world examples in areas as banking, recruitment, healthcare and education.",
+      "Understand main issues related to regulations, such as the EU AI Act",
+      "Define the role and responsibilities of a Responsible AI Board",
+      "Implement Strategies for AI Risk Mitigation",
+      "Promote Organizational AI Literacy",
+      "Understand and Plan for Long-Term AI Risks"
+    ],
+    "analytics": {
+      "relevance_score": 0.1,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Poor topic match, missing RAG/LLM Engineering. Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.86,
+        "sentiment_trend": "Overwhelmingly Positive",
+        "detected_strengths": [
+          "great",
+          "informative",
+          "clear",
+          "engaging"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "High"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.9,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.9,
+        "instructor_tag": "High",
+        "freshness_tag": "Low",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.96,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "AWS",
+        "Short (<10h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 42.1
+    }
+  },
+  {
+    "index": 67,
+    "level": "Beginner",
+    "title": "ChatGPT Complete Course - Prompt Engineering for ChatGPT",
+    "link": "https://www.udemy.com/course/2024-generative-ai-masterclass-beginners-to expert/",
+    "ratingsCount": 345,
+    "totalHours": "2",
+    "lecturesCount": "20",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5024834_e7d5_8.jpg",
+    "rating": 4.5,
+    "whatYoullLearn": [
+      "Gain proficiency in ChatGPT 3.5 and 4 for advanced text creation and blog writing, harnessing its capabilities for generating engaging and relevant content.",
+      "Explore Generative AI for Marketing Use cases to automate Social Media, SEO, Podcasts, Content Writing, YouTube, Repurpose, Product Pages and a lot more",
+      "Adapt to the future of work influenced by AI, by following key rules and strategies that ensure success in an AI-dominated landscape.",
+      "Leverage AI to improve your Job hunting & Freelancing efforts - Get more jobs, opportunities by doing things right",
+      "Navigate through Midjourney setup and usage, mastering its features for innovative image and design creations.",
+      "Deep dive into Claude 2, understanding its distinct features as a ChatGPT alternative, and how to leverage it for enhanced text generation.",
+      "Understand Generative AI, GANs, VAEs, RNNs, and Transformers, and their distinct roles and applications in the current AI landscape.",
+      "Discover the business applications of AI, learning how to integrate AI tools like chatbots into your business strategy for improved customer engagement.",
+      "Explore BING's Image Generator (DALLE-3), Midjourney for creating unique and compelling visual content, perfect for digital marketing and creative projects.",
+      "Identify the top AI tools suitable for your business or personal needs, ensuring you stay ahead in the rapidly evolving AI technology sphere.",
+      "Learn the nuances of Bard as a versatile ChatGPT alternative, and how it can enhance your content creation strategy across various platforms.",
+      "Master RunwayML, SNAPY and PIKA for AI-driven video generation, learning how to automate ad creation and produce high-quality video content.",
+      "Explore Eleven Labs for AI-powered audio and narration, enhancing your multimedia content with lifelike audio experiences.",
+      "Master how to do research with Perplexity AI for Research and Writing"
+    ],
+    "analytics": {
+      "relevance_score": 0.4,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.67,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "excellent"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Medium"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.8,
+        "course_engagement_score": 0.67,
+        "instructor_tag": "Low",
+        "freshness_tag": "High",
+        "engagement_tag": "Medium"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.9,
+      "rating_tag": "High",
+      "normalized_popularity": 0.01,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "RAG",
+        "Short (<10h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 50.25
+    }
+  },
+  {
+    "index": 68,
+    "level": "Beginner",
+    "title": "Responsible AI: A Non-Technical Guide for Managers",
+    "link": "https://www.udemy.com/course/genai-for-kids/",
+    "ratingsCount": 345,
+    "totalHours": "2",
+    "lecturesCount": "20",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6362829_3a2b.jpg",
+    "rating": 4.6,
+    "whatYoullLearn": [
+      "Learn different Gen AI techniques for getting better at school Curriculum and projects",
+      "Learn the Prompting Technique for Better Results",
+      "Learn to Enhance Memory using enhanced Generative AI techniques",
+      "Leran Innovation by the use of Generative AI and Lateral Thinking Principles",
+      "Learn to enhance Creativity using Gen AI Tools",
+      "Learn to generate question banks for more practice on the school subjects",
+      "Learn to practice for international events like MUN using AI",
+      "Learn to enhance Communication Skills and be a better speaker using Gen AI",
+      "Learn to be Compteition Ready using Gen AI techniques",
+      "Learn to become an Excellent Presenter and prepare A-grade presentations using AI"
+    ],
+    "analytics": {
+      "relevance_score": 0.4,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.5,
+        "sentiment_trend": "Mixed",
+        "detected_strengths": [
+          "No Specific Strengths Detected"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "Low"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.5,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.5,
+        "instructor_tag": "Low",
+        "freshness_tag": "Low",
+        "engagement_tag": "Low"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.92,
+      "rating_tag": "High",
+      "normalized_popularity": 0.01,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 47.9
+    }
+  },
+  {
+    "index": 69,
+    "level": "Beginner",
+    "title": "Practical GenAI: Basics, Tools, Use cases, Ethics, Future",
+    "link": "https://www.udemy.com/course/an-introduction-to-generative-ai-for-beginners/",
+    "ratingsCount": 8,
+    "totalHours": "5.5",
+    "lecturesCount": "77",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/5670542_a124_3.jpg",
+    "rating": 4.6,
+    "whatYoullLearn": [
+      "Tech Leaders: Learn to harness AI tools for innovation and team efficiency.",
+      "Creative Professionals: Explore generative AI for art, writing, and design.",
+      "Business Innovators: Leverage AI for automation, marketing, and product creation.",
+      "Aspiring Managers: Understand AI's role in workflows and strategic decisions.",
+      "AI Enthusiasts: Dive deep into generative AI applications and future trends.",
+      "Entrepreneurs: Utilize AI to enhance productivity and create cutting-edge solutions.",
+      "Students: Gain practical insights into AI’s impact on careers and industries.",
+      "Tech Enthusiasts: Explore advanced AI models like GPT, DALL-E, and GANs.",
+      "Content Creators: Use AI tools to streamline creative processes effortlessly.",
+      "Managers: Drive AI adoption in organizational strategies and decision-making."
+    ],
+    "analytics": {
+      "relevance_score": 0.4,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Excellent topic match (RAG/LLM). Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.5,
+        "sentiment_trend": "Mixed",
+        "detected_strengths": [
+          "informative"
+        ],
+        "detected_pain_points": [
+          "hard to understand"
+        ],
+        "sentiment_tag": "Low"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.7,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.5,
+        "instructor_tag": "Medium",
+        "freshness_tag": "Low",
+        "engagement_tag": "Low"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.92,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "RAG",
+        "Short (<10h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 47.7
+    }
+  },
+  {
+    "index": 70,
+    "level": "Beginner",
+    "title": "GenAI For Kids",
+    "link": "https://www.udemy.com/course/sora-ai-video-creation/",
+    "ratingsCount": 8,
+    "totalHours": "5.5",
+    "lecturesCount": "77",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6330879_ecf9_2.jpg",
+    "rating": 4.1,
+    "whatYoullLearn": [
+      "Sora AI Basics: Understand the core tools and features to start creating videos immediately.",
+      "Sora 2 App: Learn to use Sora's NEW TikTok style video creation & social app",
+      "Prompting Skills: Master the art of crafting prompts to guide Sora AI for precise and creative results.",
+      "Text-to-Video Magic: Generate complete video scenes with just a few lines of text using Sora AI.",
+      "Customization & Style: Tailor your videos with cinematic styles, dynamic lighting, and customizations.",
+      "Advanced Editing Tools: Fine-tune your content using Sora AI’s easy-to-use editing suite.",
+      "Platform Optimization: Export videos for TikTok, YouTube, Instagram, or any platform with the right settings.",
+      "Extra AI Tools: Complete your Sora video projects with AI music, audio, voiceover and more. We'll show you some extra AI tools for this"
+    ],
+    "analytics": {
+      "relevance_score": 0.1,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Poor topic match, missing RAG/LLM Engineering. Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.83,
+        "sentiment_trend": "Overwhelmingly Positive",
+        "detected_strengths": [
+          "clear",
+          "easy to follow",
+          "practical"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "High"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.8,
+        "content_freshness_score": 0.95,
+        "course_engagement_score": 0.9,
+        "instructor_tag": "High",
+        "freshness_tag": "High",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.82,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 40.7
+    }
+  },
+  {
+    "index": 71,
+    "level": "Beginner",
+    "title": "An Introduction to Generative AI for Beginners",
+    "link": "https://www.udemy.com/course/machine-learning-for-absolute-beginners-level-1/",
+    "ratingsCount": 7,
+    "totalHours": "5",
+    "lecturesCount": "21",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6321919_ffce.jpg",
+    "rating": 4.4,
+    "whatYoullLearn": [
+      "Artificial Intelligence, Machine Learning and Deep Learning",
+      "Applied vs. Generalized AI",
+      "Features, Labels, Examples",
+      "The Process of Training a Model",
+      "Under-fitting and Over-fitting",
+      "Supervised/Unsupervised Learning",
+      "Classification and Regression",
+      "Clustering and Dimension Reduction",
+      "Reinforcement Learning",
+      "Generative AI"
+    ],
+    "analytics": {
+      "relevance_score": 0.1,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Poor topic match, missing RAG/LLM Engineering. Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.83,
+        "sentiment_trend": "Overwhelmingly Positive",
+        "detected_strengths": [
+          "informative",
+          "helpful",
+          "clear",
+          "engaging"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "High"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.8,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.9,
+        "instructor_tag": "High",
+        "freshness_tag": "Low",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.88,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 41.3
+    }
+  },
+  {
+    "index": 72,
+    "level": "Beginner",
+    "title": "Sora 2 AI Video Creation: A Generative AI Crash Course",
+    "link": "https://www.udemy.com/course/the-future-of-photography-ai-powered-photo shoots/",
+    "ratingsCount": 7,
+    "totalHours": "5",
+    "lecturesCount": "21",
+    "imageSrc": "https://img-c.udemycdn.com/course/240x135/6400751_29f7.jpg",
+    "rating": 4.6,
+    "whatYoullLearn": [
+      "How to Use FREE AI Tools to Create and Edit Realistic Portraits",
+      "How to Create Consistent Characters Using AI",
+      "How to Create Professional Headshots Using AI",
+      "How to Create Composties by Blending Multiple Images Using AI",
+      "How to Swap Faces in Portaits Using AI",
+      "How to Swap Clothes in Portraits Using AI",
+      "How to Edit and Enhance Portraits Using AI"
+    ],
+    "analytics": {
+      "relevance_score": 0.1,
+      "insight": "Level is 'Beginner', user wants 'Intermediate'. Poor topic match, missing RAG/LLM Engineering. Includes practical projects. Low popularity.",
+      "sentiment_analysis": {
+        "sentiment_score": 0.8,
+        "sentiment_trend": "Generally Positive",
+        "detected_strengths": [
+          "great",
+          "practical"
+        ],
+        "detected_pain_points": [
+          "No Specific Pain Points Detected"
+        ],
+        "sentiment_tag": "High"
+      },
+      "composite_scores": {
+        "instructor_teaching_quality": 0.8,
+        "content_freshness_score": 0.5,
+        "course_engagement_score": 0.9,
+        "instructor_tag": "High",
+        "freshness_tag": "Low",
+        "engagement_tag": "High"
+      },
+      "content_features": {
+        "has_capstone_project": true,
+        "project_summary": "Includes hands-on exercises and practical builds."
+      },
+      "normalized_rating": 0.92,
+      "rating_tag": "High",
+      "normalized_popularity": 0,
+      "popularity_tag": "Low",
+      "filter_tags": [
+        "Beginner",
+        "Short (<10h)",
+        "Generative AI"
+      ],
+      "final_comparison_score": 41.7
+    }
+  }
+]

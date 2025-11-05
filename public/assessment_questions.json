@@ -1,0 +1,1407 @@
+[
+  {
+    "id": "genai_b_001",
+    "text": "What does 'Generative AI' primarily focus on creating?",
+    "difficulty": 1,
+    "tag": "Generative AI",
+    "type": "MCQ",
+    "options": [
+      "Analyzing existing data",
+      "Creating new content (text, images, etc.)",
+      "Classifying data into categories",
+      "Predicting future trends"
+    ],
+    "correctAnswer": "Creating new content (text, images, etc.)"
+  },
+  {
+    "id": "genai_b_002",
+    "text": "Which of these is a well-known example of a Generative AI model for text?",
+    "difficulty": 1,
+    "tag": "Generative AI",
+    "type": "MCQ",
+    "options": [
+      "Linear Regression",
+      "K-Means Clustering",
+      "ChatGPT (GPT models)",
+      "Decision Tree"
+    ],
+    "correctAnswer": "ChatGPT (GPT models)"
+  },
+  {
+    "id": "genai_b_003",
+    "text": "Tools like Midjourney and DALL-E are primarily used for generating what type of content?",
+    "difficulty": 1,
+    "tag": "Generative AI",
+    "type": "MCQ",
+    "options": [
+      "Music",
+      "Code",
+      "Images",
+      "Spreadsheets"
+    ],
+    "correctAnswer": "Images"
+  },
+  {
+    "id": "genai_b_004",
+    "text": "What is the typical input provided to a text-to-image Generative AI model?",
+    "difficulty": 2,
+    "tag": "Generative AI",
+    "type": "MCQ",
+    "options": [
+      "A dataset of images",
+      "A numerical code",
+      "A text description (prompt)",
+      "A pre-existing image"
+    ],
+    "correctAnswer": "A text description (prompt)"
+  },
+  {
+    "id": "genai_b_005",
+    "text": "What does 'LLM' stand for?",
+    "difficulty": 1,
+    "tag": "Generative AI",
+    "type": "MCQ",
+    "options": [
+      "Large Logic Model",
+      "Long Learning Machine",
+      "Large Language Model",
+      "Layered Language Module"
+    ],
+    "correctAnswer": "Large Language Model"
+  },
+  {
+    "id": "genai_b_006",
+    "text": "What is 'Prompt Engineering' primarily concerned with?",
+    "difficulty": 2,
+    "tag": "Prompt Engineering",
+    "type": "MCQ",
+    "options": [
+      "Writing the AI model's code",
+      "Designing the user interface",
+      "Crafting effective inputs (prompts) for AI models",
+      "Training the AI model on new data"
+    ],
+    "correctAnswer": "Crafting effective inputs (prompts) for AI models"
+  },
+  {
+    "id": "genai_b_007",
+    "text": "If you ask an LLM a question and it gives a factually incorrect but plausible-sounding answer, what is this phenomenon often called?",
+    "difficulty": 3,
+    "tag": "Generative AI",
+    "type": "MCQ",
+    "options": [
+      "Overfitting",
+      "Hallucination",
+      "Underfitting",
+      "Syntax Error"
+    ],
+    "correctAnswer": "Hallucination"
+  },
+  {
+    "id": "genai_b_008",
+    "text": "Which term refers to providing a few examples within the prompt itself to guide an LLM's output?",
+    "difficulty": 3,
+    "tag": "Prompt Engineering",
+    "type": "MCQ",
+    "options": [
+      "Zero-Shot Prompting",
+      "Fine-Tuning",
+      "Few-Shot Prompting",
+      "Reinforcement Learning"
+    ],
+    "correctAnswer": "Few-Shot Prompting"
+  },
+  {
+    "id": "genai_c_001",
+    "text": "Explain the difference between Generative AI and traditional Predictive AI.",
+    "difficulty": 4,
+    "tag": "Generative AI",
+    "type": "ShortAnswer",
+    "minLength": 50,
+    "helpText": "Focus on what each type of AI *produces* (new content vs. forecasts).",
+    "scoringTags": {
+      "Generative AI": {
+        "primary": [
+          "generative",
+          "create",
+          "new content",
+          "synthesize"
+        ],
+        "secondary": [
+          "predictive",
+          "forecast",
+          "classify",
+          "analyze",
+          "pattern"
+        ]
+      }
+    }
+  },
+  {
+    "id": "genai_c_002",
+    "text": "What is a 'token' in the context of Large Language Models, and why is it important?",
+    "difficulty": 4,
+    "tag": "LLM Engineering",
+    "type": "ShortAnswer",
+    "minLength": 40,
+    "helpText": "Describe how text is broken down and its relation to context limits.",
+    "scoringTags": {
+      "LLM Engineering": {
+        "primary": [
+          "token",
+          "word",
+          "subword",
+          "piece"
+        ],
+        "secondary": [
+          "text",
+          "input",
+          "process",
+          "numerical",
+          "limit",
+          "context window"
+        ]
+      }
+    }
+  },
+  {
+    "id": "genai_c_003",
+    "text": "What potential ethical issue arises when Generative AI is trained primarily on data from one demographic group?",
+    "difficulty": 5,
+    "tag": "AI Ethics",
+    "type": "MCQ",
+    "options": [
+      "Model becomes too large",
+      "Lack of representation and potential bias",
+      "Requires specific hardware",
+      "Cannot generate creative content"
+    ],
+    "correctAnswer": "Lack of representation and potential bias"
+  },
+  {
+    "id": "genai_c_004",
+    "text": "Describe the concept of 'multimodal' Generative AI.",
+    "difficulty": 5,
+    "tag": "Generative AI",
+    "type": "ShortAnswer",
+    "minLength": 40,
+    "helpText": "Think about the different types of input and output (text, image, audio...).",
+    "scoringTags": {
+      "Generative AI": {
+        "primary": [
+          "multimodal",
+          "multiple modes",
+          "modality"
+        ],
+        "secondary": [
+          "text",
+          "image",
+          "audio",
+          "video",
+          "input",
+          "output",
+          "combine"
+        ]
+      }
+    }
+  },
+  {
+    "id": "genai_c_005",
+    "text": "What is the role of an 'embedding' in making text understandable for AI models?",
+    "difficulty": 6,
+    "tag": "LLM Engineering",
+    "type": "ShortAnswer",
+    "minLength": 50,
+    "helpText": "Explain how it captures meaning numerically.",
+    "scoringTags": {
+      "LLM Engineering": {
+        "primary": [
+          "embedding",
+          "vector",
+          "numerical representation"
+        ],
+        "secondary": [
+          "meaning",
+          "semantic",
+          "context",
+          "similarity",
+          "distance",
+          "text"
+        ]
+      }
+    }
+  },
+  {
+    "id": "genai_d_001",
+    "text": "Describe how 'temperature' and 'top-p' sampling parameters influence the output diversity and predictability of a Generative AI text model.",
+    "difficulty": 8,
+    "tag": "LLM Engineering",
+    "type": "ShortAnswer",
+    "minLength": 75,
+    "helpText": "Explain their effect on the probability distribution of the next token.",
+    "scoringTags": {
+      "LLM Engineering": {
+        "primary": [
+          "temperature",
+          "top-p",
+          "sampling",
+          "parameter"
+        ],
+        "secondary": [
+          "randomness",
+          "creativity",
+          "predictability",
+          "deterministic",
+          "probability",
+          "distribution",
+          "token"
+        ]
+      }
+    }
+  },
+  {
+    "id": "genai_d_002",
+    "text": "You need to generate marketing copy that strictly adheres to complex brand voice guidelines. Compare the pros and cons of using extensive prompt engineering with few-shot examples versus fine-tuning a smaller model on approved brand copy.",
+    "difficulty": 9,
+    "tag": "Model Training",
+    "type": "LongAnswer",
+    "minLength": 120,
+    "helpText": "Consider control, consistency, cost, data requirements, scalability, and ease of updates.",
+    "scoringTags": {
+      "Model Training": {
+        "primary": [
+          "fine-tuning",
+          "training",
+          "data"
+        ],
+        "secondary": [
+          "control",
+          "consistency",
+          "cost",
+          "guidelines",
+          "update",
+          "specific"
+        ]
+      },
+      "Prompt Engineering": {
+        "primary": [
+          "prompt",
+          "engineering",
+          "few-shot",
+          "base model"
+        ],
+        "secondary": [
+          "control",
+          "flexibility",
+          "cost",
+          "guidelines",
+          "iteration",
+          "general"
+        ]
+      }
+    }
+  },
+  {
+    "id": "genai_d_003",
+    "text": "Discuss the potential risks and mitigation strategies associated with deploying generative AI agents that can take actions in the real world (e.g., booking appointments, making purchases).",
+    "difficulty": 10,
+    "tag": "AI Ethics",
+    "type": "LongAnswer",
+    "minLength": 120,
+    "helpText": "Think about unintended actions, security vulnerabilities, accountability, and user confirmation.",
+    "scoringTags": {
+      "AI Ethics": {
+        "primary": [
+          "risk",
+          "agent",
+          "action",
+          "real world"
+        ],
+        "secondary": [
+          "harm",
+          "unintended",
+          "accountability",
+          "security",
+          "control",
+          "mitigation"
+        ]
+      },
+      "Architecture": {
+        "primary": [
+          "agent",
+          "action",
+          "security",
+          "control"
+        ],
+        "secondary": [
+          "design",
+          "safeguard",
+          "confirmation",
+          "monitoring",
+          "robust"
+        ]
+      }
+    }
+  },
+  {
+    "id": "rag_b_001",
+    "text": "What does 'RAG' stand for in the context of LLMs?",
+    "difficulty": 1,
+    "tag": "RAG/Vector",
+    "type": "MCQ",
+    "options": [
+      "Retrieval-Augmented Generation",
+      "Random Access Generation",
+      "Reinforced Attention Graph",
+      "Rule-Applied Grammar"
+    ],
+    "correctAnswer": "Retrieval-Augmented Generation"
+  },
+  {
+    "id": "rag_b_002",
+    "text": "What is the main purpose of using RAG with an LLM?",
+    "difficulty": 2,
+    "tag": "RAG/Vector",
+    "type": "MCQ",
+    "options": [
+      "To make the LLM faster",
+      "To reduce the LLM's file size",
+      "To allow the LLM to use external, up-to-date knowledge",
+      "To translate text into different languages"
+    ],
+    "correctAnswer": "To allow the LLM to use external, up-to-date knowledge"
+  },
+  {
+    "id": "rag_b_003",
+    "text": "What kind of database is specifically designed to store and query vector embeddings efficiently?",
+    "difficulty": 2,
+    "tag": "RAG/Vector",
+    "type": "MCQ",
+    "options": [
+      "SQL Database",
+      "NoSQL Document Database",
+      "Graph Database",
+      "Vector Database"
+    ],
+    "correctAnswer": "Vector Database"
+  },
+  {
+    "id": "rag_b_004",
+    "text": "What does an 'embedding model' primarily do in a RAG pipeline?",
+    "difficulty": 3,
+    "tag": "RAG/Vector",
+    "type": "MCQ",
+    "options": [
+      "Generates the final summary",
+      "Stores the original PDF documents",
+      "Converts text chunks into numerical vectors",
+      "Filters out irrelevant keywords"
+    ],
+    "correctAnswer": "Converts text chunks into numerical vectors"
+  },
+  {
+    "id": "rag_b_005",
+    "text": "In RAG, the 'retrieval' step typically happens *before* or *after* the LLM generates the final answer?",
+    "difficulty": 2,
+    "tag": "RAG/Vector",
+    "type": "MCQ",
+    "options": [
+      "Before",
+      "After",
+      "During",
+      "It depends on the query"
+    ],
+    "correctAnswer": "Before"
+  },
+  {
+    "id": "rag_c_001",
+    "text": "Explain the process of 'chunking' documents before creating embeddings for a RAG system. Why is choosing the right chunk size important?",
+    "difficulty": 4,
+    "tag": "RAG/Vector",
+    "type": "ShortAnswer",
+    "minLength": 60,
+    "helpText": "Consider LLM context limits, retrieval precision, and embedding quality.",
+    "scoringTags": {
+      "RAG/Vector": {
+        "primary": [
+          "chunking",
+          "split",
+          "segment",
+          "size"
+        ],
+        "secondary": [
+          "context window",
+          "limit",
+          "token",
+          "relevance",
+          "precision",
+          "embedding",
+          "overlap"
+        ]
+      }
+    }
+  },
+  {
+    "id": "rag_c_002",
+    "text": "What is 'semantic search' and how do vector embeddings enable it to find relevant information even if the exact keywords are not used?",
+    "difficulty": 5,
+    "tag": "RAG/Vector",
+    "type": "ShortAnswer",
+    "minLength": 60,
+    "helpText": "Contrast meaning-based similarity vs. exact word matching.",
+    "scoringTags": {
+      "RAG/Vector": {
+        "primary": [
+          "semantic search",
+          "vector",
+          "embedding",
+          "similarity"
+        ],
+        "secondary": [
+          "meaning",
+          "concept",
+          "context",
+          "keyword",
+          "lexical",
+          "distance",
+          "query"
+        ]
+      }
+    }
+  },
+  {
+    "id": "rag_c_003",
+    "text": "Describe the role of the LLM in the 'Generation' part of a RAG pipeline.",
+    "difficulty": 5,
+    "tag": "RAG/Vector",
+    "type": "ShortAnswer",
+    "minLength": 50,
+    "helpText": "How does it use the retrieved documents?",
+    "scoringTags": {
+      "RAG/Vector": {
+        "primary": [
+          "generation",
+          "llm",
+          "retrieved"
+        ],
+        "secondary": [
+          "synthesize",
+          "answer",
+          "context",
+          "document",
+          "source"
+        ]
+      },
+      "LLM Engineering": {
+        "primary": [
+          "llm",
+          "generate",
+          "context"
+        ],
+        "secondary": [
+          "input",
+          "prompt",
+          "output",
+          "synthesize",
+          "response"
+        ]
+      }
+    }
+  },
+  {
+    "id": "rag_c_004",
+    "text": "What is the typical sequence of steps in a Retrieval-Augmented Generation (RAG) pipeline after receiving a user query?",
+    "difficulty": 6,
+    "tag": "RAG/Vector",
+    "type": "MCQ-Reorder",
+    "options": [
+      "A) Generate Answer -> Retrieve Documents -> Embed Query",
+      "B) Embed Query -> Retrieve Documents -> Generate Answer",
+      "C) Retrieve Documents -> Generate Answer -> Embed Query",
+      "D) Embed Query -> Generate Answer -> Retrieve Documents"
+    ],
+    "correctAnswer": "B) Embed Query -> Retrieve Documents -> Generate Answer"
+  },
+  {
+    "id": "rag_d_001",
+    "text": "Describe a common strategy for evaluating the quality of *retrieval* in a RAG system, separate from the final generated answer. What metrics could be used?",
+    "difficulty": 8,
+    "tag": "RAG/Vector",
+    "type": "ShortAnswer",
+    "minLength": 75,
+    "helpText": "Focus on relevance of retrieved chunks (e.g., Hit Rate, MRR, NDCG).",
+    "scoringTags": {
+      "RAG/Vector": {
+        "primary": [
+          "retrieval",
+          "evaluate",
+          "metric"
+        ],
+        "secondary": [
+          "relevance",
+          "precision",
+          "recall",
+          "mrr",
+          "ndcg",
+          "hit rate",
+          "context"
+        ]
+      },
+      "LLMOps": {
+        "primary": [
+          "evaluate",
+          "metric",
+          "quality",
+          "retrieval"
+        ],
+        "secondary": [
+          "benchmark",
+          "test",
+          "monitoring",
+          "pipeline",
+          "component"
+        ]
+      }
+    }
+  },
+  {
+    "id": "rag_d_002",
+    "text": "How might you handle conflicting or contradictory information retrieved from multiple different documents in a RAG pipeline before the LLM generates the final answer?",
+    "difficulty": 9,
+    "tag": "RAG/Vector",
+    "type": "LongAnswer",
+    "minLength": 100,
+    "helpText": "Consider ranking sources, using the LLM to identify/resolve conflicts, or presenting evidence to the user.",
+    "scoringTags": {
+      "RAG/Vector": {
+        "primary": [
+          "conflict",
+          "contradiction",
+          "multiple source",
+          "retrieval"
+        ],
+        "secondary": [
+          "rank",
+          "score",
+          "synthesize",
+          "llm",
+          "resolve",
+          "verify",
+          "evidence"
+        ]
+      },
+      "Architecture": {
+        "primary": [
+          "multiple source",
+          "pipeline",
+          "handle conflict"
+        ],
+        "secondary": [
+          "logic",
+          "step",
+          "component",
+          "design",
+          "robust",
+          "disambiguate"
+        ]
+      }
+    }
+  },
+  {
+    "id": "rag_d_003",
+    "text": "Compare using a dense retriever (like DPR or Sentence Transformers) versus a sparse retriever (like BM25) in a RAG system. What are the pros and cons of each, and when might you combine them (hybrid search)?",
+    "difficulty": 10,
+    "tag": "RAG/Vector",
+    "type": "LongAnswer",
+    "minLength": 120,
+    "helpText": "Consider semantic understanding vs. keyword matching, computational cost, and handling of domain-specific terms.",
+    "scoringTags": {
+      "RAG/Vector": {
+        "primary": [
+          "dense retriever",
+          "sparse retriever",
+          "hybrid search",
+          "bm25"
+        ],
+        "secondary": [
+          "semantic",
+          "keyword",
+          "embedding",
+          "vector",
+          "tf-idf",
+          "performance",
+          "cost",
+          "recall",
+          "precision"
+        ]
+      }
+    }
+  },
+  {
+    "id": "rag_d_004",
+    "text": "You are building a RAG system for internal company documents containing sensitive PII. Which security measure is MOST critical during the indexing phase?",
+    "difficulty": 8,
+    "tag": "RAG/Vector",
+    "type": "MCQ-Scenario",
+    "options": [
+      "A) Using the fastest available embedding model.",
+      "B) Implementing robust access control lists (ACLs) on the source documents *before* indexing.",
+      "C) Choosing a vector database with the highest query speed.",
+      "D) Fine-tuning the LLM on company jargon."
+    ],
+    "correctAnswer": "B) Implementing robust access control lists (ACLs) on the source documents *before* indexing."
+  },
+  {
+    "id": "rag_d_005",
+    "text": "Which of the following are common components found in a production RAG system? (Select ALL that apply)",
+    "difficulty": 7,
+    "tag": "RAG/Vector",
+    "type": "MCMS",
+    "options": [
+      "Vector Database",
+      "Image Generation Model",
+      "Embedding Model",
+      "LLM for Generation",
+      "SQL Database for user logins",
+      "Document Loader/Chunker"
+    ],
+    "correctAnswers": [
+      "Vector Database",
+      "Embedding Model",
+      "LLM for Generation",
+      "Document Loader/Chunker"
+    ]
+  },
+  {
+    "id": "lc_b_001",
+    "text": "What is the primary goal of the Langchain library?",
+    "difficulty": 2,
+    "tag": "Langchain",
+    "type": "MCQ",
+    "options": [
+      "To train large language models from scratch",
+      "To provide a framework for building applications powered by LLMs",
+      "To create optimized vector databases",
+      "To automatically generate user interfaces"
+    ],
+    "correctAnswer": "To provide a framework for building applications powered by LLMs"
+  },
+  {
+    "id": "lc_b_002",
+    "text": "In Langchain, what core component represents a connection to an LLM (like OpenAI or a local model)?",
+    "difficulty": 3,
+    "tag": "Langchain",
+    "type": "MCQ",
+    "options": [
+      "Agent",
+      "Tool",
+      "Chain",
+      "Model I/O (LLM/ChatModel)"
+    ],
+    "correctAnswer": "Model I/O (LLM/ChatModel)"
+  },
+  {
+    "id": "lc_b_003",
+    "text": "What is a Langchain 'PromptTemplate' used for?",
+    "difficulty": 3,
+    "tag": "Langchain",
+    "type": "MCQ",
+    "options": [
+      "Storing the LLM's response",
+      "Defining reusable structures for creating prompts with variable inputs",
+      "Connecting to external data sources",
+      "Evaluating the output quality"
+    ],
+    "correctAnswer": "Defining reusable structures for creating prompts with variable inputs"
+  },
+  {
+    "id": "lc_c_001",
+    "text": "Explain the difference between a Langchain 'Chain' and an 'Agent'. When would you typically use each?",
+    "difficulty": 5,
+    "tag": "Langchain",
+    "type": "ShortAnswer",
+    "minLength": 70,
+    "helpText": "Consider pre-defined sequences vs. dynamic decision-making.",
+    "scoringTags": {
+      "Langchain": {
+        "primary": [
+          "chain",
+          "agent",
+          "sequence",
+          "tool"
+        ],
+        "secondary": [
+          "pre-defined",
+          "fixed",
+          "dynamic",
+          "decision",
+          "reasoning",
+          "llm",
+          "action"
+        ]
+      }
+    }
+  },
+  {
+    "id": "lc_c_002",
+    "text": "What is the role of 'Memory' components in Langchain, particularly in chatbot applications?",
+    "difficulty": 6,
+    "tag": "Langchain",
+    "type": "ShortAnswer",
+    "minLength": 50,
+    "helpText": "Explain how they help maintain context over a conversation.",
+    "scoringTags": {
+      "Langchain": {
+        "primary": [
+          "memory",
+          "chatbot",
+          "conversation"
+        ],
+        "secondary": [
+          "history",
+          "context",
+          "state",
+          "buffer",
+          "summary"
+        ]
+      },
+      "Architecture": {
+        "primary": [
+          "memory",
+          "state",
+          "context"
+        ],
+        "secondary": [
+          "chatbot",
+          "component",
+          "conversation",
+          "long-term"
+        ]
+      }
+    }
+  },
+  {
+    "id": "lc_c_003",
+    "text": "Which option correctly matches the Langchain component to its primary function?",
+    "difficulty": 5,
+    "tag": "Langchain",
+    "type": "MCQ-Matching",
+    "options": [
+      "A) Agent : Stores conversation history",
+      "B) Tool : Makes decisions on which action to take",
+      "C) Memory : Connects to an external capability (like a calculator or API)",
+      "D) Agent : Uses an LLM to decide which Tool(s) to use based on input"
+    ],
+    "correctAnswer": "D) Agent : Uses an LLM to decide which Tool(s) to use based on input"
+  },
+  {
+    "id": "lc_d_001",
+    "text": "Describe LangChain Expression Language (LCEL). What are its main advantages for composing complex LLM workflows (e.g., using the pipe '|' operator)?",
+    "difficulty": 8,
+    "tag": "Langchain",
+    "type": "ShortAnswer",
+    "minLength": 75,
+    "helpText": "Mention composability, streaming support, async operations, and visualization.",
+    "scoringTags": {
+      "Langchain": {
+        "primary": [
+          "lcel",
+          "expression language",
+          "pipe",
+          "|",
+          "runnable"
+        ],
+        "secondary": [
+          "composable",
+          "declarative",
+          "stream",
+          "batch",
+          "parallel",
+          "async",
+          "trace",
+          "visualize"
+        ]
+      }
+    }
+  },
+  {
+    "id": "hf_b_001",
+    "text": "What is the Hugging Face Hub primarily known for?",
+    "difficulty": 2,
+    "tag": "Huggingface",
+    "type": "MCQ",
+    "options": [
+      "Cloud computing services",
+      "A large repository of pre-trained AI models and datasets",
+      "A Python IDE",
+      "A project management tool"
+    ],
+    "correctAnswer": "A large repository of pre-trained AI models and datasets"
+  },
+  {
+    "id": "hf_c_001",
+    "text": "Explain the purpose of the `pipeline()` function in the Hugging Face Transformers library. Give an example task it simplifies.",
+    "difficulty": 5,
+    "tag": "Huggingface",
+    "type": "ShortAnswer",
+    "minLength": 50,
+    "helpText": "Describe its role as a high-level abstraction for inference.",
+    "scoringTags": {
+      "Huggingface": {
+        "primary": [
+          "pipeline",
+          "transformers",
+          "task",
+          "inference"
+        ],
+        "secondary": [
+          "easy",
+          "abstraction",
+          "high-level",
+          "sentiment",
+          "translation",
+          "summarization",
+          "ner"
+        ]
+      }
+    }
+  },
+  {
+    "id": "hf_d_001",
+    "text": "You want to fine-tune a Hugging Face BERT model on a custom dataset for sentiment analysis. Outline the key steps using the Transformers `Trainer` API.",
+    "difficulty": 8,
+    "tag": "Huggingface",
+    "type": "LongAnswer",
+    "minLength": 100,
+    "helpText": "Include loading model/tokenizer, preparing dataset, defining training arguments, creating Trainer, and calling train().",
+    "scoringTags": {
+      "Huggingface": {
+        "primary": [
+          "fine-tune",
+          "transformers",
+          "trainer",
+          "bert"
+        ],
+        "secondary": [
+          "dataset",
+          "tokenize",
+          "model",
+          "trainingarguments",
+          "evaluate",
+          "compute_metrics"
+        ]
+      },
+      "Model Training": {
+        "primary": [
+          "fine-tune",
+          "train",
+          "dataset",
+          "bert"
+        ],
+        "secondary": [
+          "model",
+          "hyperparameter",
+          "evaluate",
+          "loss",
+          "accuracy",
+          "epoch"
+        ]
+      }
+    }
+  },
+  {
+    "id": "ethics_b_001",
+    "text": "What is meant by 'AI bias'?",
+    "difficulty": 1,
+    "tag": "AI Ethics",
+    "type": "MCQ",
+    "options": [
+      "When an AI model makes random mistakes",
+      "Systematic and unfair discrimination in AI outputs against certain groups",
+      "When an AI model is too complex",
+      "When an AI model uses outdated information"
+    ],
+    "correctAnswer": "Systematic and unfair discrimination in AI outputs against certain groups"
+  },
+  {
+    "id": "ethics_c_001",
+    "text": "Explain the concept of 'transparency' or 'explainability' (XAI) in AI systems. Why is it important, especially in high-stakes decisions?",
+    "difficulty": 5,
+    "tag": "AI Ethics",
+    "type": "ShortAnswer",
+    "minLength": 60,
+    "helpText": "Focus on understanding *how* the AI reached its conclusion.",
+    "scoringTags": {
+      "AI Ethics": {
+        "primary": [
+          "transparency",
+          "explainability",
+          "xai",
+          "interpretability"
+        ],
+        "secondary": [
+          "understand",
+          "decision",
+          "black box",
+          "trust",
+          "debug",
+          "audit",
+          "accountability",
+          "bias"
+        ]
+      }
+    }
+  },
+  {
+    "id": "ethics_d_001",
+    "text": "Discuss the potential ethical risks associated with using Generative AI for creating highly realistic fake news or deepfakes. What are possible societal impacts?",
+    "difficulty": 8,
+    "tag": "AI Ethics",
+    "type": "LongAnswer",
+    "minLength": 100,
+    "helpText": "Consider trust in media, manipulation, and security implications.",
+    "scoringTags": {
+      "AI Ethics": {
+        "primary": [
+          "risk",
+          "ethics",
+          "deepfake",
+          "fake news"
+        ],
+        "secondary": [
+          "disinformation",
+          "manipulation",
+          "trust",
+          "security",
+          "societal impact",
+          "malicious"
+        ]
+      },
+      "Generative AI": {
+        "primary": [
+          "generative",
+          "deepfake",
+          "fake news"
+        ],
+        "secondary": [
+          "realistic",
+          "synthetic media",
+          "image generation",
+          "video generation",
+          "misinformation"
+        ]
+      }
+    }
+  },
+  {
+    "id": "dev_b_001",
+    "text": "Which HTTP method is typically used to send data to an AI API endpoint to get a prediction or generation?",
+    "difficulty": 2,
+    "tag": "Development",
+    "type": "MCQ",
+    "options": [
+      "GET",
+      "POST",
+      "DELETE",
+      "PUT"
+    ],
+    "correctAnswer": "POST"
+  },
+  {
+    "id": "dev_c_001",
+    "text": "When integrating an LLM API into a Python application, what library is commonly used to make the HTTP requests?",
+    "difficulty": 4,
+    "tag": "Development",
+    "type": "MCQ",
+    "options": [
+      "NumPy",
+      "Pandas",
+      "Requests",
+      "Matplotlib"
+    ],
+    "correctAnswer": "Requests"
+  },
+  {
+    "id": "dev_d_001",
+    "text": "Describe how you would handle API keys securely when building a web application that interacts with a paid LLM API (like OpenAI). Why is simply putting the key in your frontend JavaScript code a bad idea?",
+    "difficulty": 8,
+    "tag": "Development",
+    "type": "ShortAnswer",
+    "minLength": 75,
+    "helpText": "Consider backend servers, environment variables, and security risks.",
+    "scoringTags": {
+      "Development": {
+        "primary": [
+          "api key",
+          "secure",
+          "security"
+        ],
+        "secondary": [
+          "backend",
+          "environment variable",
+          "server-side",
+          "credential",
+          "leak"
+        ]
+      },
+      "Architecture": {
+        "primary": [
+          "api key",
+          "security",
+          "backend"
+        ],
+        "secondary": [
+          "client-side",
+          "risk",
+          "design",
+          "secret management",
+          "protect"
+        ]
+      }
+    }
+  },
+  {
+    "id": "cloud_b_001",
+    "text": "Which Azure service is specifically designed for deploying and managing OpenAI models like GPT-4?",
+    "difficulty": 3,
+    "tag": "Cloud AI",
+    "type": "MCQ",
+    "options": [
+      "Azure Functions",
+      "Azure Blob Storage",
+      "Azure OpenAI Service",
+      "Azure Virtual Machines"
+    ],
+    "correctAnswer": "Azure OpenAI Service"
+  },
+  {
+    "id": "cloud_c_001",
+    "text": "What is the purpose of AWS SageMaker or Azure Machine Learning in the context of AI development?",
+    "difficulty": 5,
+    "tag": "Cloud AI",
+    "type": "ShortAnswer",
+    "minLength": 50,
+    "helpText": "Describe them as platforms for the end-to-end ML lifecycle.",
+    "scoringTags": {
+      "Cloud AI": {
+        "primary": [
+          "sagemaker",
+          "azure machine learning",
+          "azure ml"
+        ],
+        "secondary": [
+          "platform",
+          "build",
+          "train",
+          "deploy",
+          "manage",
+          "lifecycle"
+        ]
+      },
+      "LLMOps": {
+        "primary": [
+          "lifecycle",
+          "deploy",
+          "manage",
+          "mlops"
+        ],
+        "secondary": [
+          "platform",
+          "workflow",
+          "tool",
+          "end-to-end",
+          "pipeline"
+        ]
+      }
+    }
+  },
+  {
+    "id": "cloud_d_001",
+    "text": "Compare using a fully managed AI service (like AWS Bedrock or Azure OpenAI) versus self-hosting an open-source model on cloud VMs (like EC2 or Azure VM) for a production application. Discuss trade-offs like cost, control, scalability, and maintenance.",
+    "difficulty": 9,
+    "tag": "Cloud AI",
+    "type": "LongAnswer",
+    "minLength": 120,
+    "helpText": "Consider who manages infrastructure, updates, and scaling.",
+    "scoringTags": {
+      "Cloud AI": {
+        "primary": [
+          "managed service",
+          "bedrock",
+          "azure openai",
+          "self-host",
+          "vm"
+        ],
+        "secondary": [
+          "cost",
+          "control",
+          "scalability",
+          "maintenance",
+          "feature",
+          "update"
+        ]
+      },
+      "Architecture": {
+        "primary": [
+          "trade-off",
+          "managed",
+          "self-hosted",
+          "deploy"
+        ],
+        "secondary": [
+          "design",
+          "infrastructure",
+          "choice",
+          "comparison",
+          "flexibility"
+        ]
+      },
+      "Deployment": {
+        "primary": [
+          "deploy",
+          "managed service",
+          "infrastructure",
+          "vm"
+        ],
+        "secondary": [
+          "hosting",
+          "update",
+          "scale",
+          "ops",
+          "responsibility"
+        ]
+      }
+    }
+  },
+  {
+    "id": "train_b_001",
+    "text": "What is the main goal of 'fine-tuning' a pre-trained language model?",
+    "difficulty": 3,
+    "tag": "Model Training",
+    "type": "MCQ",
+    "options": [
+      "To make the model much larger",
+      "To adapt the model to a specific task or domain",
+      "To reduce the model's inference speed",
+      "To erase its original training data"
+    ],
+    "correctAnswer": "To adapt the model to a specific task or domain"
+  },
+  {
+    "id": "train_c_001",
+    "text": "Explain the difference between 'fine-tuning' and 'prompt engineering'. When might you choose one over the other?",
+    "difficulty": 6,
+    "tag": "Model Training",
+    "type": "ShortAnswer",
+    "minLength": 70,
+    "helpText": "Consider changes to model weights vs. changes to input.",
+    "scoringTags": {
+      "Model Training": {
+        "primary": [
+          "fine-tuning",
+          "train",
+          "weights"
+        ],
+        "secondary": [
+          "data",
+          "specific task",
+          "adapt",
+          "update model"
+        ]
+      },
+      "Prompt Engineering": {
+        "primary": [
+          "prompt",
+          "input",
+          "no training"
+        ],
+        "secondary": [
+          "guide",
+          "instruct",
+          "few-shot",
+          "base model"
+        ]
+      }
+    }
+  },
+  {
+    "id": "train_d_001",
+    "text": "Describe a potential challenge when fine-tuning a very large language model (e.g., > 70B parameters) and mention one technique (like PEFT/LoRA or quantization) used to mitigate it.",
+    "difficulty": 9,
+    "tag": "Model Training",
+    "type": "ShortAnswer",
+    "minLength": 75,
+    "helpText": "Focus on resource constraints (memory/compute).",
+    "scoringTags": {
+      "Model Training": {
+        "primary": [
+          "fine-tune",
+          "large model",
+          "challenge",
+          "peft",
+          "lora",
+          "quantization"
+        ],
+        "secondary": [
+          "resource",
+          "memory",
+          "compute",
+          "gpu",
+          "efficient"
+        ]
+      },
+      "LLM Engineering": {
+        "primary": [
+          "large model",
+          "resource",
+          "memory",
+          "compute",
+          "gpu"
+        ],
+        "secondary": [
+          "optimization",
+          "efficient",
+          "challenge",
+          "scale"
+        ]
+      }
+    }
+  },
+  {
+    "id": "deploy_b_001",
+    "text": "What does 'latency' refer to when deploying an AI model as an API?",
+    "difficulty": 2,
+    "tag": "Deployment",
+    "type": "MCQ",
+    "options": [
+      "The accuracy of the model",
+      "The amount of data used for training",
+      "The time it takes to get a response after sending a request",
+      "The cost of running the model"
+    ],
+    "correctAnswer": "The time it takes to get a response after sending a request"
+  },
+  {
+    "id": "deploy_c_001",
+    "text": "What is 'model drift' and why is it important to monitor for it in deployed LLM applications?",
+    "difficulty": 6,
+    "tag": "LLMOps",
+    "type": "ShortAnswer",
+    "minLength": 60,
+    "helpText": "Explain how model performance can degrade over time due to changes in input data.",
+    "scoringTags": {
+      "LLMOps": {
+        "primary": [
+          "model drift",
+          "monitoring",
+          "performance"
+        ],
+        "secondary": [
+          "degrade",
+          "accuracy",
+          "data distribution",
+          "time",
+          "retrain",
+          "update"
+        ]
+      },
+      "Deployment": {
+        "primary": [
+          "monitoring",
+          "performance",
+          "drift"
+        ],
+        "secondary": [
+          "production",
+          "real-world",
+          "accuracy",
+          "maintain",
+          "update"
+        ]
+      }
+    }
+  },
+  {
+    "id": "deploy_d_001",
+    "text": "Discuss the challenges of A/B testing different prompts or fine-tuned models for an LLM application in production. How might you measure success?",
+    "difficulty": 9,
+    "tag": "LLMOps",
+    "type": "LongAnswer",
+    "minLength": 100,
+    "helpText": "Consider defining clear metrics (e.g., user satisfaction, task completion, conversion), traffic splitting, and statistical significance.",
+    "scoringTags": {
+      "LLMOps": {
+        "primary": [
+          "a/b testing",
+          "prompt",
+          "fine-tuned",
+          "production",
+          "metric"
+        ],
+        "secondary": [
+          "evaluate",
+          "compare",
+          "experiment",
+          "user satisfaction",
+          "conversion",
+          "statistical significance",
+          "traffic"
+        ]
+      },
+      "Deployment": {
+        "primary": [
+          "a/b testing",
+          "production",
+          "experiment",
+          "measure"
+        ],
+        "secondary": [
+          "traffic splitting",
+          "rollout",
+          "compare",
+          "performance",
+          "metric"
+        ]
+      }
+    }
+  },
+  {
+    "id": "prof_001",
+    "text": "What's your primary motivation for exploring AI courses right now?",
+    "tag": "Profiler",
+    "type": "MCQ",
+    "options": [
+      "Career Change / New Job Opportunities",
+      "Build a Specific AI Project/Idea",
+      "Enhance Skills for Current Job / Productivity",
+      "Academic Requirement / School Project",
+      "General Interest / Curiosity"
+    ]
+  },
+  {
+    "id": "prof_002",
+    "text": "Which of these AI application areas seems most exciting or relevant to you?",
+    "tag": "Profiler",
+    "type": "MCQ",
+    "options": [
+      "Generating realistic images, art, or music (Creative AI)",
+      "Building intelligent chatbots and assistants (Conversational AI)",
+      "Analyzing data to find insights or make predictions (Data Science / Predictive AI)",
+      "Understanding the ethical implications and societal impact of AI (Responsible AI)",
+      "Learning to code and build AI applications (Development Focus)"
+    ]
+  },
+  {
+    "id": "prof_003",
+    "text": "How would you rate your current programming/coding skills?",
+    "tag": "Profiler",
+    "type": "MCQ",
+    "options": [
+      "No experience",
+      "Beginner (e.g., basic scripts, HTML/CSS)",
+      "Intermediate (Comfortable with one language, can build simple apps)",
+      "Advanced (Professional developer experience)"
+    ]
+  }
+]
+

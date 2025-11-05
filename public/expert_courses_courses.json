@@ -1,0 +1,830 @@
+[
+    {
+        "index": 3,
+        "level": "Expert_courses",
+        "title": "Azure AI Agent Service (AI Foundry, Semantic Kernel SDK)",
+        "link": "https://www.udemy.com/course/azure-ai-agent-service-ai-foundry-semantic-kernel-sdk/",
+        "ratingValue": "4.6",
+        "ratingsCount": 143,
+        "totalHours": "33",
+        "lecturesCount": "511",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6458321_7f39_2.jpg",
+        "whatYoullLearn": [
+            "Build Agents with Azure AI Agent Service",
+            "Learn About Azure OpenAI and GenAI",
+            "Learn About Azure AI Foundry",
+            "Work with Azure AI Foundry SDK"
+        ],
+        "img_src": "/placeholder/default_course_image.png",
+        "rating": 0,
+        "analytics": {
+            "relevance_score": 0.2,
+            "insight": "A weak match as it is designed for experts, not intermediate developers, and its focus on Azure AI Agent Service and Semantic Kernel SDK is not a direct match for LLM Engineering and RAG systems, compounded by a 0/5 average rating.",
+            "normalized_rating": 0,
+            "normalized_popularity": 0,
+            "final_comparison_score": 9.1,
+            "filter_tags": [
+                "Expert_courses",
+                "Generative AI",
+                "Long (> 25h)"
+            ]
+        }
+    },
+    {
+        "index": 1,
+        "level": "Expert_courses",
+        "title": "Learn Hugging Face Bootcamp",
+        "link": "https://www.udemy.com/course/complete-hugging-face-bootcamp/",
+        "ratingValue": "4.5",
+        "ratingsCount": 609,
+        "totalHours": "9.5",
+        "lecturesCount": "49",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/5921904_40c8.jpg",
+        "whatYoullLearn": [
+            "Master Hugging Face's platform, including models, datasets, and spaces.",
+            "Set up AI development environments with Hugging Face and Google Colab.",
+            "Use Transformers for NLP tasks like text classification and entity recognition.",
+            "Develop and train image generation models using the Diffusers library.",
+            "Apply cutting-edge video and audio models for media generation and analysis.",
+            "Build interactive AI applications with Gradio, making ML models user-friendly.",
+            "Understand and implement advanced techniques in large language models.",
+            "Initiate, manage, and deploy comprehensive machine learning projects."
+        ],
+        "img_src": "/placeholder/default_course_image.png",
+        "rating": 0,
+        "analytics": {
+            "relevance_score": 0.1,
+            "insight": "Covers relevant LLM topics and has a high enrollment count, its 'Expert' level is above the user's 'Intermediate' request, it does not explicitly cover RAG, and critically, it has an average rating of 0/5.0, indicating severe quality issues that make it a very poor match.",
+            "normalized_rating": 0,
+            "normalized_popularity": 0.02,
+            "final_comparison_score": 4.91,
+            "filter_tags": [
+                "Expert_courses",
+                "Generative AI",
+                "Huggingface",
+                "LLM Engineering",
+                "Short (< 10h)"
+            ]
+        }
+    },
+    {
+        "index": 4,
+        "level": "Expert_courses",
+        "title": "AWS Certified Machine Learning Specialty 2025 - Hands On!",
+        "link": "https://www.udemy.com/course/genai-and-predictive-ai-architecture/",
+        "ratingValue": "4.5",
+        "ratingsCount": 143,
+        "totalHours": "33",
+        "lecturesCount": "511",
+        "whatYoullLearn": [
+            "Foundations of Generative AI & Predictive AI",
+            "Understand the key components and layers within Generative AI and Predictive AI architectures.",
+            "Learn the differences between traditional AI, Generative AI, and Predictive AI and how to select the right approach.",
+            "Analyze enterprise AI architecture and its application",
+            "Explore various types of Generative AI models, including GANs, VAEs, Transformers, and Diffusion models.",
+            "Discover the best practices for using Generative AI in business applications.",
+            "Compare Conversational AI vs. Generative AI to understand chatbot and AI assistant implementations.",
+            "Explore over 40+ real-world use cases of Generative AI across industries.",
+            "Evaluate the top Generative AI tools and platforms, including OpenAI’s GPT models, Google’s Bard, Stability AI, and more.",
+            "Learn about popular Generative AI models and their key differentiators.",
+            "Understand the differences between Large Language Models (LLMs) and Generative AI and when to use each.",
+            "Learn the layers of Predictive AI architecture and how data is processed for forecasting and decision-making.",
+            "Explore various Predictive AI models, such as regression models, decision trees, neural networks, and time series forecasting.",
+            "Understand how Predictive AI works, including data ingestion, model training, and prediction generation.",
+            "Gain knowledge on how to implement Predictive AI in an organization",
+            "Compare Generative AI vs. Predictive AI applications to determine their respective strengths in different scenarios.",
+            "Explore the Generative AI Monitoring Architecture",
+            "Learn how Predictive AI Monitoring Architecture works to enhance model accuracy, reduce drift, and optimize decision-making."
+        ],
+        "img_src": "/placeholder/default_course_image.png",
+        "rating": 0,
+        "analytics": {
+            "relevance_score": 0.05,
+            "insight": "While the course touches on Generative AI and LLMs, it is designed for experts, lacks coverage of RAG systems, and has an extremely low average rating of 0/5.0, which contradicts the user's preference for high engagement.",
+            "normalized_rating": 0,
+            "normalized_popularity": 0,
+            "final_comparison_score": 2.35,
+            "filter_tags": [
+                "Expert_courses",
+                "Generative AI",
+                "Huggingface",
+                "LLM Engineering",
+                "Long (> 25h)"
+            ]
+        }
+    },
+    {
+        "index": 11,
+        "level": "Expert_courses",
+        "title": "Google Cloud Certified Generative AI Leader - Mock Exams",
+        "link": "https://www.udemy.com/course/chatgpt-in-marketing-introduction-to-chatgpt-ai-marketing/",
+        "ratingValue": "4.6",
+        "ratingsCount": 2568,
+        "totalHours": "7.5",
+        "lecturesCount": "80",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6623061_a3bf_2.jpg",
+        "whatYoullLearn": [
+            "ChatGPT: Create content, synthesize information, and learn faster than ever with effective prompt engineering!",
+            "ChatGPT: Turn your creativity into paid work, generate fresh ideas, reach new audiences, and scale your projects!",
+            "Marketing: Generate targeted content with ChatGPT, capitalize on trends, create ads, newsletters, and media campaigns!",
+            "Productivity: Achieve your goals faster with ChatGPT, manage your time, prioritize tasks, and create an optimized daily schedule!",
+            "Soft Skills: Improve your communication, leadership, problem-solving, and social skills with personalized ChatGPT feedback!",
+            "AI Voice Tools: Easily create AI-generated speech for any use case and even clone your own voice entirely!",
+            "AI Photo Tools: Add motion to images, dynamically enhance image aesthetics, and create custom images in bulk!",
+            "AI Video Tools: Create an AI avatar that transforms scripts into presentations and quickly generate social media content!",
+            "AI Writing Tools: Automate writing tasks, generate effective copy, and integrate with Google Sheets/Excel!",
+            "AI Music Tools: Create unique compositions for any types of video and save time with a streamlined creative process.",
+            "DALL-E 3: Create amazing photos from prompts, fill in or remove elements of images using inpainting and outpainting techniques!",
+            "Branding: Develop a visual identity, design logos, and generate content to establish a strong online presence!",
+            "Business: Streamline your workflow, automate repetitive tasks, and gain insights that help you make data-driven decisions for your business!",
+            "Multimodal: Combine multiple AI tools to create immersive and engaging content that would have previously taken an entire team to create!",
+            "Coding: Combine the power of ChatGPT with programming fundamentals, algorithms, debugging, and documentation!",
+            "Midjourney: Use prompts, parameters, and modifiers to create amazing images that showcase your personal style and creativity!",
+            "Midjourney: Leverage prompts, parameters, and modifiers to craft stunning visuals that embody your unique flair and imagination!",
+            "OpenAI: Unleash the power of ChatGPT for cutting-edge marketing strategies and impactful results."
+        ],
+        "img_src": "/placeholder/default_course_image.png",
+        "rating": 0,
+        "analytics": {
+            "relevance_score": 0,
+            "insight": "Analysis failed due to API error.",
+            "normalized_rating": 0,
+            "normalized_popularity": 0.09,
+            "final_comparison_score": 1.71,
+            "filter_tags": [
+                "Expert_courses",
+                "Generative AI",
+                "LLM Engineering",
+                "Langchain",
+                "Short (< 10h)"
+            ]
+        }
+    },
+    {
+        "index": 12,
+        "level": "Expert_courses",
+        "title": "RAG-LLM Evals & Test Automation for Beginners",
+        "link": "https://www.udemy.com/course/deep-reinforcement-learning-in-pytorch/",
+        "ratingValue": "4.4",
+        "ratingsCount": 2568,
+        "totalHours": "7.5",
+        "lecturesCount": "80",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6367439_e989_2.jpg",
+        "whatYoullLearn": [
+            "Review Reinforcement Learning Basics: MDPs, Bellman Equation, Q-Learning",
+            "Theory and Implementation of Deep Q-Learning / DQN",
+            "Theory and Implementation of Policy Gradient Methods and A2C (Advantage Actor-Critic)",
+            "Apply DQN and A2C to Atari Environments (Breakout, Pong, Asteroids, etc.)",
+            "VIP Only: Apply A2C to Build a Trading Algorithm for Multi-Period Portfolio Optimization"
+        ],
+        "img_src": "/placeholder/default_course_image.png",
+        "rating": 0,
+        "analytics": {
+            "relevance_score": 0,
+            "insight": "Analysis failed due to API error.",
+            "normalized_rating": 0,
+            "normalized_popularity": 0.09,
+            "final_comparison_score": 1.71,
+            "filter_tags": [
+                "Expert_courses",
+                "Langchain",
+                "Short (< 10h)"
+            ]
+        }
+    },
+    {
+        "index": 2,
+        "level": "Expert_courses",
+        "title": "All-in-One AI Masterclass 2025: ChatGPT, Gemini, Midjourney!",
+        "link": "https://www.udemy.com/course/marketing-automation-automation-secrets-for-business-growth/",
+        "ratingValue": "4.7",
+        "ratingsCount": 609,
+        "totalHours": "9.5",
+        "lecturesCount": "49",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6234409_35f3_2.jpg",
+        "whatYoullLearn": [
+            "ChatGPT: Start using ChatGPT with beginner to advanced prompts & techniques",
+            "ChatGPT for Digital Marketing",
+            "ChatGPT for Social Media Marketing",
+            "ChatGPT for Google Ads & Social Media Ads",
+            "AI for Productivity: 10x what you do for business or personal work with ChatGPT",
+            "Google Gemini: research, create, edit with Google's ChatGPT competitor",
+            "AI for Business: Save time & money with ChatGPT",
+            "Midjourney: Create incredible AI art with this powerful tool",
+            "Prompt Engineering: Write better prompts that get more advanced, personal and professional results",
+            "Other AI Tools for tasks like automated video creation, AI audio voice overs, and more"
+        ],
+        "img_src": "/placeholder/default_course_image.png",
+        "rating": 0,
+        "analytics": {
+            "relevance_score": 0,
+            "insight": "Analysis failed due to API error.",
+            "normalized_rating": 0,
+            "normalized_popularity": 0.02,
+            "final_comparison_score": 0.41,
+            "filter_tags": [
+                "Expert_courses",
+                "LLM Engineering",
+                "Short (< 10h)"
+            ]
+        }
+    },
+    {
+        "index": 19,
+        "level": "Expert_courses",
+        "title": "Securing GenAI Systems  With Best Practice Frameworks",
+        "link": "https://www.udemy.com/course/github-copilot-certification-practice-exams/",
+        "ratingValue": "4.7",
+        "ratingsCount": 591,
+        "totalHours": "8.5",
+        "lecturesCount": "59",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6393223_e2de.jpg",
+        "whatYoullLearn": [],
+        "img_src": "/placeholder/default_course_image.png",
+        "rating": 0,
+        "analytics": {
+            "relevance_score": 0,
+            "insight": "Analysis failed due to API error.",
+            "normalized_rating": 0,
+            "normalized_popularity": 0.02,
+            "final_comparison_score": 0.39,
+            "filter_tags": [
+                "Expert_courses",
+                "Generative AI",
+                "Short (< 10h)"
+            ]
+        }
+    },
+    {
+        "index": 20,
+        "level": "Expert_courses",
+        "title": "AI Money Machines: Build 7 Streams of Income from AI chatGPT",
+        "link": "https://www.udemy.com/course/certified-associate-generative-ai-llms-exams/",
+        "ratingValue": "4.1",
+        "ratingsCount": 591,
+        "totalHours": "8.5",
+        "lecturesCount": "59",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/5092736_5338.jpg",
+        "whatYoullLearn": [],
+        "img_src": "/placeholder/default_course_image.png",
+        "rating": 0,
+        "analytics": {
+            "relevance_score": 0,
+            "insight": "Analysis failed due to API error.",
+            "normalized_rating": 0,
+            "normalized_popularity": 0.02,
+            "final_comparison_score": 0.39,
+            "filter_tags": [
+                "Expert_courses",
+                "Short (< 10h)"
+            ]
+        }
+    },
+    {
+        "index": 13,
+        "level": "Expert_courses",
+        "title": "2025 AI Mastery: Learn ChatGPT, Midjourney, Firefly, Gemini",
+        "link": "https://www.udemy.com/course/extending-m365-copilot-agents-copilot-studio-ai-studio/",
+        "ratingValue": "4.8",
+        "ratingsCount": 501,
+        "totalHours": "35",
+        "lecturesCount": "549",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6186251_2da1_2.jpg",
+        "whatYoullLearn": [
+            "Extending M365 Copilot With Agents",
+            "Extending M365 Copilot With Microsoft Copilot Studio",
+            "Extending M365 Copilot With Azure AI Studio",
+            "Connectors and Actions in Microsoft Copilot Studio",
+            "Prompt Flow in Azure AI Studio"
+        ],
+        "img_src": "/placeholder/default_course_image.png",
+        "rating": 0,
+        "analytics": {
+            "relevance_score": 0,
+            "insight": "Analysis failed due to API error.",
+            "normalized_rating": 0,
+            "normalized_popularity": 0.02,
+            "final_comparison_score": 0.33,
+            "filter_tags": [
+                "Expert_courses",
+                "Long (> 25h)"
+            ]
+        }
+    },
+    {
+        "index": 14,
+        "level": "Expert_courses",
+        "title": "Advanced AI: Deep Reinforcement Learning in PyTorch (v2)",
+        "link": "https://www.udemy.com/course/chatgpt-for-work-use-ai-at-work-to-improve-efficiency/",
+        "ratingValue": "4.7",
+        "ratingsCount": 501,
+        "totalHours": "35",
+        "lecturesCount": "549",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6483621_2b9c_3.jpg",
+        "whatYoullLearn": [
+            "ChatGPT: Create content, synthesize information, and learn faster than ever with effective prompt engineering!",
+            "ChatGPT: Turn your creativity into paid work, generate fresh ideas, reach new audiences, and scale your projects!",
+            "Marketing: Generate targeted content with ChatGPT, capitalize on trends, create ads, newsletters, and media campaigns!",
+            "Productivity: Achieve your goals faster with ChatGPT, manage your time, prioritize tasks, and create an optimized daily schedule!",
+            "Soft Skills: Improve your communication, leadership, problem-solving, and social skills with personalized ChatGPT feedback!",
+            "AI Voice Tools: Easily create AI-generated speech for any use case and even clone your own voice entirely!",
+            "AI Photo Tools: Add motion to images, dynamically enhance image aesthetics, and create custom images in bulk!",
+            "AI Video Tools: Create an AI avatar that transforms scripts into presentations and quickly generate social media content!",
+            "AI Writing Tools: Automate writing tasks, generate effective copy, and integrate with Google Sheets/Excel!",
+            "AI Music Tools: Create unique compositions for any types of video and save time with a streamlined creative process.",
+            "DALL-E 3: Create amazing photos from prompts, fill in or remove elements of images using inpainting and outpainting techniques!",
+            "Branding: Develop a visual identity, design logos, and generate content to establish a strong online presence!",
+            "Business: Streamline your workflow, automate repetitive tasks, and gain insights that help you make data-driven decisions for your business!",
+            "Multimodal: Combine multiple AI tools to create immersive and engaging content that would have previously taken an entire team to create!",
+            "Coding: Combine the power of ChatGPT with programming fundamentals, algorithms, debugging, and documentation!",
+            "Midjourney: Use prompts, parameters, and modifiers to create amazing images that showcase your personal style and creativity!"
+        ],
+        "img_src": "/placeholder/default_course_image.png",
+        "rating": 0,
+        "analytics": {
+            "relevance_score": 0,
+            "insight": "Analysis failed due to API error.",
+            "normalized_rating": 0,
+            "normalized_popularity": 0.02,
+            "final_comparison_score": 0.33,
+            "filter_tags": [
+                "Expert_courses",
+                "LLM Engineering",
+                "Long (> 25h)"
+            ]
+        }
+    },
+    {
+        "index": 5,
+        "level": "Expert_courses",
+        "title": "AWS Certified Machine Learning Specialty Full Practice Exam",
+        "link": "https://www.udemy.com/course/modelcontextprotocol/",
+        "ratingValue": "4.5",
+        "ratingsCount": 301,
+        "totalHours": "22",
+        "lecturesCount": "114",
+        "whatYoullLearn": [
+            "You will learn Agent to Agent (A2A) Protocol - Connect 3 agents via A2A and build a host orchestrator agent with A2A + MCP",
+            "You'll build 5 MCP Clients and 3 MCP Servers from Scratch. Full Working Code Included!",
+            "Build a UI for MCP client in Streamlit in Python",
+            "Learn to deploy your MCP Server to Google Cloud using Server Sent Events (SSE)",
+            "We'll use a free Gemini API Key, so you don't need to pay for AI Models when learning!",
+            "We'll use Python, Gemini, LangGraph, SSE, Streamlit on MacOS"
+        ],
+        "img_src": "/placeholder/default_course_image.png",
+        "rating": 0,
+        "analytics": {
+            "relevance_score": 0,
+            "insight": "Analysis failed due to API error.",
+            "normalized_rating": 0,
+            "normalized_popularity": 0.01,
+            "final_comparison_score": 0.2,
+            "filter_tags": [
+                "Expert_courses",
+                "Medium (10-25h)"
+            ]
+        }
+    },
+    {
+        "index": 6,
+        "level": "Expert_courses",
+        "title": "GenAI and Predictive AI Architecture",
+        "link": "https://www.udemy.com/course/model-context-protocol/",
+        "ratingValue": "4.8",
+        "ratingsCount": 301,
+        "totalHours": "22",
+        "lecturesCount": "114",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6519761_0ba3.jpg",
+        "whatYoullLearn": [
+            "Model Context Protocol (MCP) Theory",
+            "Model Context Protocol (MCP) Servers",
+            "Model Context Protocol (MCP) Clients",
+            "Model Context Protocol (MCP) Tools, Resources, Prompts",
+            "MCP Security"
+        ],
+        "img_src": "/placeholder/default_course_image.png",
+        "rating": 0,
+        "analytics": {
+            "relevance_score": 0,
+            "insight": "Analysis failed due to API error.",
+            "normalized_rating": 0,
+            "normalized_popularity": 0.01,
+            "final_comparison_score": 0.2,
+            "filter_tags": [
+                "Expert_courses",
+                "Generative AI",
+                "Medium (10-25h)"
+            ]
+        }
+    },
+    {
+        "index": 15,
+        "level": "Expert_courses",
+        "title": "Extending M365 Copilot (Copilot Studio, AI Studio, Teams AI)",
+        "link": "https://www.udemy.com/course/the-complete-azure-machine-learning-course-2025-edition/",
+        "ratingValue": "4.5",
+        "ratingsCount": 222,
+        "totalHours": "32",
+        "lecturesCount": "517",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6385355_c42e_4.jpg",
+        "whatYoullLearn": [
+            "Learn about supervised, unsupervised, and reinforcement learning, key concepts like training data, models, predictions, and real-world applications.",
+            "Navigate and utilize Azure ML Studio's tools, including Designer, Notebooks, Automated ML, and Model Management.",
+            "Load, clean, transform, and engineer features using Azure ML Studio to optimize model performance.",
+            "Use Azure ML Studio’s visual interface and custom Python scripts to create, train, and evaluate machine learning models.",
+            "Apply hyperparameter tuning, cross-validation, and automated ML techniques to enhance model accuracy and efficiency.",
+            "Learn different model deployment strategies, including real-time inference, batch inference, and Edge deployments using Azure Kubernetes Service (AKS) and Azure",
+            "Create reusable machine learning workflows using Azure ML Pipelines for training, evaluation, and deployment automation.",
+            "Set up CI/CD pipelines, automate model retraining, monitor model drift, and ensure security and compliance with Azure DevOps.",
+            "Work with GPT, DALL·E, Stable Diffusion, and Codex, fine-tune AI models, and apply responsible AI principles for fairness and transparency.",
+            "Work through multiple demos, labs, and real-world projects to gain practical experience in Azure Machine Learning.",
+            "Learners preparing for Microsoft AI certifications like AI-102 , AI-900 etc."
+        ],
+        "img_src": "/placeholder/default_course_image.png",
+        "rating": 0,
+        "analytics": {
+            "relevance_score": 0,
+            "insight": "Analysis failed due to API error.",
+            "normalized_rating": 0,
+            "normalized_popularity": 0.01,
+            "final_comparison_score": 0.15,
+            "filter_tags": [
+                "Expert_courses",
+                "Long (> 25h)"
+            ]
+        }
+    },
+    {
+        "index": 16,
+        "level": "Expert_courses",
+        "title": "Full AI Tools 2025: ChatGPT, Midjourney, Gemini, Firefly",
+        "link": "https://www.udemy.com/course/master-ai-tools-2025-chatgpt-gemini-firefly-midjourney/",
+        "ratingValue": "4.7",
+        "ratingsCount": 222,
+        "totalHours": "32",
+        "lecturesCount": "517",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6167341_cb76_2.jpg",
+        "whatYoullLearn": [
+            "ChatGPT: Create content, synthesize information, and learn faster than ever with effective prompt engineering!",
+            "Marketing: Generate targeted content with ChatGPT, capitalize on trends, create ads, newsletters, and media campaigns!",
+            "Soft Skills: Improve your communication, leadership, problem-solving, and social skills with personalized ChatGPT feedback!",
+            "AI Photo Tools: Add motion to images, dynamically enhance image aesthetics, and create custom images in bulk!",
+            "Coding: Combine the power of ChatGPT with programming fundamentals, algorithms, debugging, and documentation!",
+            "Business: Streamline your workflow, automate repetitive tasks, and gain insights that help you make data-driven decisions for your business!",
+            "DALL-E 3: Create amazing photos from prompts, fill in or remove elements of images using inpainting and outpainting techniques!",
+            "AI Writing Tools: Automate writing tasks, generate effective copy, and integrate with Google Sheets/Excel!",
+            "ChatGPT: Turn your creativity into paid work, generate fresh ideas, reach new audiences, and scale your projects!",
+            "Productivity: Achieve your goals faster with ChatGPT, manage your time, prioritize tasks, and create an optimized daily schedule!",
+            "AI Voice Tools: Easily create AI-generated speech for any use case and even clone your own voice entirely!",
+            "Midjourney: Use prompts, parameters, and modifiers to create amazing images that showcase your personal style and creativity!",
+            "Multimodal: Combine multiple AI tools to create immersive and engaging content that would have previously taken an entire team to create!",
+            "Branding: Develop a visual identity, design logos, and generate content to establish a strong online presence!",
+            "AI Music Tools: Create unique compositions for any types of video and save time with a streamlined creative process.",
+            "AI Video Tools: Create an AI avatar that transforms scripts into presentations and quickly generate social media content!"
+        ],
+        "img_src": "/placeholder/default_course_image.png",
+        "rating": 0,
+        "analytics": {
+            "relevance_score": 0,
+            "insight": "Analysis failed due to API error.",
+            "normalized_rating": 0,
+            "normalized_popularity": 0.01,
+            "final_comparison_score": 0.15,
+            "filter_tags": [
+                "Expert_courses",
+                "LLM Engineering",
+                "Long (> 25h)"
+            ]
+        }
+    },
+    {
+        "index": 23,
+        "level": "Expert_courses",
+        "title": "Developing Generative AI Applications on Azure",
+        "link": "https://www.udemy.com/course/nca-genl-nvidia-certified-generative-ai-llms-specialization/",
+        "ratingValue": "5.0",
+        "ratingsCount": 227,
+        "totalHours": "15.5",
+        "lecturesCount": "65",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6057863_36d8.jpg",
+        "whatYoullLearn": [
+            "Understand foundational concepts in machine learning and neural networks critical to generative AI.",
+            "Explain the architecture of transformers and large language models (LLMs), including attention mechanisms and training strategies.",
+            "Design and evaluate effective prompts using zero-shot, few-shot, and chain-of-thought techniques.",
+            "Compare fine-tuning, instruction tuning, LoRA, and PEFT approaches for adapting pretrained models.",
+            "Use key NVIDIA tools such as NeMo, Triton, RAPIDS, and TensorRT for LLM training, optimization, and deployment.",
+            "Apply best practices in LLM evaluation, experimentation, and reproducibility to prepare for real-world use and the certification exam."
+        ],
+        "img_src": "/placeholder/default_course_image.png",
+        "rating": 0,
+        "analytics": {
+            "relevance_score": 0,
+            "insight": "Analysis failed due to API error.",
+            "normalized_rating": 0,
+            "normalized_popularity": 0.01,
+            "final_comparison_score": 0.15,
+            "filter_tags": [
+                "Expert_courses",
+                "Generative AI",
+                "Huggingface",
+                "LLM Engineering",
+                "Medium (10-25h)"
+            ]
+        }
+    },
+    {
+        "index": 24,
+        "level": "Expert_courses",
+        "title": "GitHub Copilot Certification | Practice Exams 2025",
+        "link": "https://www.udemy.com/course/securing-genai-systems-u/",
+        "ratingValue": "4.1",
+        "ratingsCount": 227,
+        "totalHours": "15.5",
+        "lecturesCount": "65",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6218465_e7ec.jpg",
+        "whatYoullLearn": [
+            "Identify the most common security risks in GenAI systems – including prompt injection, data leakage, model poisoning, and more.",
+            "Apply protection strategies at every stage of the GenAI pipeline — from data collection to inference and monitoring.",
+            "Know real-world tools and platforms to secure AI components.",
+            "Design layered, explainable, and practical security solutions that are future-ready"
+        ],
+        "img_src": "/placeholder/default_course_image.png",
+        "rating": 0,
+        "analytics": {
+            "relevance_score": 0,
+            "insight": "Analysis failed due to API error.",
+            "normalized_rating": 0,
+            "normalized_popularity": 0.01,
+            "final_comparison_score": 0.15,
+            "filter_tags": [
+                "Expert_courses",
+                "Generative AI",
+                "Medium (10-25h)"
+            ]
+        }
+    },
+    {
+        "index": 21,
+        "level": "Expert_courses",
+        "title": "GitHub Copilot Exam Prep: Ace Your Certification [2025]",
+        "link": "https://www.udemy.com/course/developing-generative-ai-applications-on-azure/",
+        "ratingValue": "4.6",
+        "ratingsCount": 119,
+        "totalHours": "32",
+        "lecturesCount": "515",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6178407_5cfd.jpg",
+        "whatYoullLearn": [
+            "Master Azure OpenAI Service: Learn to deploy and manage Generative AI applications using Azure OpenAI Service",
+            "Hands-on Linux and Python: Gain practical skills in Linux and Python essential for AI development.",
+            "Build AI Models: Acquire the expertise to design and build generative AI models from scratch.",
+            "Master Machine Learning Concepts: Learn the core concepts and techniques of machine learning, including supervised and unsupervised learning, model evaluation,",
+            "Develop Generative AI Applications: Acquire skills to build and deploy generative AI models on aws bedrock, leveraging advanced techniques and tools."
+        ],
+        "img_src": "/placeholder/default_course_image.png",
+        "rating": 0,
+        "analytics": {
+            "relevance_score": 0,
+            "insight": "Analysis failed due to API error.",
+            "normalized_rating": 0,
+            "normalized_popularity": 0,
+            "final_comparison_score": 0.08,
+            "filter_tags": [
+                "Expert_courses",
+                "Generative AI",
+                "Langchain",
+                "Long (> 25h)"
+            ]
+        }
+    },
+    {
+        "index": 22,
+        "level": "Expert_courses",
+        "title": "Generative AI and LLMs (NCA-GENL) - Mock Exams",
+        "link": "https://www.udemy.com/course/practice-exams-github-copilot-certificate/",
+        "ratingValue": "4.1",
+        "ratingsCount": 119,
+        "totalHours": "32",
+        "lecturesCount": "515",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6120807_25ac_3.jpg",
+        "whatYoullLearn": [],
+        "img_src": "/placeholder/default_course_image.png",
+        "rating": 0,
+        "analytics": {
+            "relevance_score": 0,
+            "insight": "Analysis failed due to API error.",
+            "normalized_rating": 0,
+            "normalized_popularity": 0,
+            "final_comparison_score": 0.08,
+            "filter_tags": [
+                "Expert_courses",
+                "Generative AI",
+                "Long (> 25h)"
+            ]
+        }
+    },
+    {
+        "index": 9,
+        "level": "Expert_courses",
+        "title": "Full AI Course 2025: ChatGPT, Gemini, Midjourney, Firefly",
+        "link": "https://www.udemy.com/course/google-cloud-certified-generative-ai-leader/",
+        "ratingValue": "4.4",
+        "ratingsCount": 90,
+        "totalHours": "13.5",
+        "lecturesCount": "194",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6255701_c7a4_2.jpg",
+        "whatYoullLearn": [],
+        "img_src": "/placeholder/default_course_image.png",
+        "rating": 0,
+        "analytics": {
+            "relevance_score": 0,
+            "insight": "Analysis failed due to API error.",
+            "normalized_rating": 0,
+            "normalized_popularity": 0,
+            "final_comparison_score": 0.06,
+            "filter_tags": [
+                "Expert_courses",
+                "Medium (10-25h)"
+            ]
+        }
+    },
+    {
+        "index": 10,
+        "level": "Expert_courses",
+        "title": "Master AI Tools in 2025: ChatGPT, Midjourney, Gemini Firefly",
+        "link": "https://www.udemy.com/course/rag-llm-evaluation-ai-test/",
+        "ratingValue": "4.8",
+        "ratingsCount": 90,
+        "totalHours": "13.5",
+        "lecturesCount": "194",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6158605_c6df_2.jpg",
+        "whatYoullLearn": [
+            "How Custom Large Language Models (LLM) are designed using Retrieval Augmented Generation (RAG) Architecture",
+            "Common Benchmarks/Metrics used in Evaluating RAG based LLM’s",
+            "Introduction to RAGAS Evaluation framework for evaluating/test LLM’s",
+            "Practical Scripts generation to automate and assert the Metrics Score of LLM’s.",
+            "Automate Scenarios such as Single turn interactions and Multi turn interactions with LLM’s using RAGAS Framework",
+            "Generate Test Data for evaluating the Metrics of LLM using RAGAS Framework.",
+            "Create RAGAS Pytest Evaluation Framework to assert the Metrics of RAG- (Custom) LLM’s"
+        ],
+        "img_src": "/placeholder/default_course_image.png",
+        "rating": 0,
+        "analytics": {
+            "relevance_score": 0,
+            "insight": "Analysis failed due to API error.",
+            "normalized_rating": 0,
+            "normalized_popularity": 0,
+            "final_comparison_score": 0.06,
+            "filter_tags": [
+                "Expert_courses",
+                "LLM Engineering",
+                "Langchain",
+                "Medium (10-25h)"
+            ]
+        }
+    },
+    {
+        "index": 17,
+        "level": "Expert_courses",
+        "title": "The complete Azure Machine learning course - 2025 Edition",
+        "link": "https://www.udemy.com/course/securing-genai-systems-with-best-practice-frameworks/",
+        "ratingValue": "4.4",
+        "ratingsCount": 18,
+        "totalHours": "0",
+        "lecturesCount": null,
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6471473_24b6_4.jpg",
+        "whatYoullLearn": [
+            "Generative AI Security",
+            "GenAI Security Frameworks",
+            "MITRE ATLAS Framework",
+            "AWS Generative AI Security Scoping Matrix",
+            "Google SAIF",
+            "OWASP Top 10 For LLM"
+        ],
+        "img_src": "/placeholder/default_course_image.png",
+        "rating": 0,
+        "analytics": {
+            "relevance_score": 0,
+            "insight": "Analysis failed due to API error.",
+            "normalized_rating": 0,
+            "normalized_popularity": 0,
+            "final_comparison_score": 0.01,
+            "filter_tags": [
+                "Expert_courses",
+                "Generative AI",
+                "Short (< 10h)"
+            ]
+        }
+    },
+    {
+        "index": 18,
+        "level": "Expert_courses",
+        "title": "Master AI Tools 2025: ChatGPT, Gemini, Firefly, Midjourney",
+        "link": "https://www.udemy.com/course/ai-money-machines-mastering-chatgpt-ai-tools-4-moneyatm/",
+        "ratingValue": "4.7",
+        "ratingsCount": 18,
+        "totalHours": "0",
+        "lecturesCount": null,
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6592577_0094_2.jpg",
+        "whatYoullLearn": [
+            "ChatGPT Mastery from Power of Prompting with 10000+ prompts list in web and resources",
+            "Generative AI for Next Level of Video Generation",
+            "How AI can help in Videos, voiceovers, website, chatbots & Online Businesses",
+            "Most Advanced AI Affiliate Marketing",
+            "Generate 7 Streams of income (Step by step explained)"
+        ],
+        "img_src": "/placeholder/default_course_image.png",
+        "rating": 0,
+        "analytics": {
+            "relevance_score": 0,
+            "insight": "Analysis failed due to API error.",
+            "normalized_rating": 0,
+            "normalized_popularity": 0,
+            "final_comparison_score": 0.01,
+            "filter_tags": [
+                "Expert_courses",
+                "Generative AI",
+                "Short (< 10h)"
+            ]
+        }
+    },
+    {
+        "index": 7,
+        "level": "Expert_courses",
+        "title": "MCP & A2A - Model Context Protocol & Agent to Agent Protocol",
+        "link": "https://www.udemy.com/course/full-ai-course-chatgpt-google-gemini-midjourney-firefly/",
+        "ratingValue": "4.5",
+        "ratingsCount": 4,
+        "totalHours": "3.5",
+        "lecturesCount": "25",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6532595_cb9e_6.jpg",
+        "whatYoullLearn": [
+            "ChatGPT: Start using ChatGPT with beginner to advanced prompts & techniques",
+            "ChatGPT for Digital Marketing",
+            "ChatGPT for Social Media Marketing",
+            "ChatGPT for Google Ads & Social Media Ads",
+            "AI for Productivity: 10x what you do for business or personal work with ChatGPT",
+            "Google Gemini: research, create, edit with Google's ChatGPT competitor",
+            "AI for Business: Save time & money with ChatGPT",
+            "Midjourney: Create incredible AI art with this powerful tool",
+            "Prompt Engineering: Write better prompts that get more advanced, personal and professional results",
+            "Other AI Tools for tasks like automated video creation, AI audio voice overs, and more"
+        ],
+        "img_src": "/placeholder/default_course_image.png",
+        "rating": 0,
+        "analytics": {
+            "relevance_score": 0,
+            "insight": "Analysis failed due to API error.",
+            "normalized_rating": 0,
+            "normalized_popularity": 0,
+            "final_comparison_score": 0,
+            "filter_tags": [
+                "Expert_courses",
+                "LLM Engineering",
+                "Short (< 10h)"
+            ]
+        }
+    },
+    {
+        "index": 8,
+        "level": "Expert_courses",
+        "title": "MCP Crash Course: Complete Model Context Protocol in a Day",
+        "link": "https://www.udemy.com/course/chatgpt-midjourney-23-proven-methods-to-earn-with-ai/",
+        "ratingValue": "4.5",
+        "ratingsCount": 4,
+        "totalHours": "3.5",
+        "lecturesCount": "25",
+        "imageSrc": "https://img-c.udemycdn.com/course/240x135/6508751_d289.jpg",
+        "whatYoullLearn": [
+            "ChatGPT: Create content, synthesize information, and learn faster than ever with effective prompt engineering!",
+            "ChatGPT: Turn your creativity into paid work, generate fresh ideas, reach new audiences, and scale your projects!",
+            "Marketing: Generate targeted content with ChatGPT, capitalize on trends, create ads, newsletters, and media campaigns!",
+            "Productivity: Achieve your goals faster with ChatGPT, manage your time, prioritize tasks, and create an optimized daily schedule!",
+            "Soft Skills: Improve your communication, leadership, problem-solving, and social skills with personalized ChatGPT feedback!",
+            "AI Voice Tools: Easily create AI-generated speech for any use case and even clone your own voice entirely!",
+            "AI Photo Tools: Add motion to images, dynamically enhance image aesthetics, and create custom images in bulk!",
+            "Midjourney: Use prompts, parameters, and modifiers to create amazing images that showcase your personal style and creativity!",
+            "AI Video Tools: Create an AI avatar that transforms scripts into presentations and quickly generate social media content!",
+            "AI Writing Tools: Automate writing tasks, generate effective copy, and integrate with Google Sheets/Excel!",
+            "AI Music Tools: Create unique compositions for any types of video and save time with a streamlined creative process.",
+            "DALL-E 3: Create amazing photos from prompts, fill in or remove elements of images using inpainting and outpainting techniques!",
+            "Branding: Develop a visual identity, design logos, and generate content to establish a strong online presence!",
+            "Business: Streamline your workflow, automate repetitive tasks, and gain insights that help you make data-driven decisions for your business!",
+            "Multimodal: Combine multiple AI tools to create immersive and engaging content that would have previously taken an entire team to create!",
+            "Coding: Combine the power of ChatGPT with programming fundamentals, algorithms, debugging, and documentation!"
+        ],
+        "img_src": "/placeholder/default_course_image.png",
+        "rating": 0,
+        "analytics": {
+            "relevance_score": 0,
+            "insight": "Analysis failed due to API error.",
+            "normalized_rating": 0,
+            "normalized_popularity": 0,
+            "final_comparison_score": 0,
+            "filter_tags": [
+                "Expert_courses",
+                "LLM Engineering",
+                "Short (< 10h)"
+            ]
+        }
+    }
+]
