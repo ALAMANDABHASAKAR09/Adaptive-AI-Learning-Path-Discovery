@@ -1,4 +1,5 @@
 # Adaptive-AI-Learning-Path-Discovery
+https://poetic-cassata-aef226.netlify.app/
 
 This repository is a Vite + React app. It is configured to deploy to GitHub Pages via GitHub Actions.
 
