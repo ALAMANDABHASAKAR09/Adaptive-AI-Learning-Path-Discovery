@@ -1,0 +1,40 @@
+[
+  {
+    "id": "prof_001",
+    "text": "What's your primary motivation for exploring AI courses right now?",
+    "tag": "Profiler",
+    "type": "MCQ",
+    "options": [
+      "Career Change / New Job Opportunities",
+      "Build a Specific AI Project/Idea",
+      "Enhance Skills for Current Job / Productivity",
+      "Academic Requirement / School Project",
+      "General Interest / Curiosity"
+    ]
+  },
+  {
+    "id": "prof_002",
+    "text": "Which of these AI application areas seems most exciting or relevant to you?",
+    "tag": "Profiler",
+    "type": "MCQ",
+    "options": [
+      "Generating realistic images, art, or music (Creative AI)",
+      "Building intelligent chatbots and assistants (Conversational AI)",
+      "Analyzing data to find insights or make predictions (Data Science / Predictive AI)",
+      "Understanding the ethical implications and societal impact of AI (Responsible AI)",
+      "Learning to code and build AI applications (Development Focus)"
+    ]
+  },
+  {
+    "id": "prof_003",
+    "text": "How would you rate your current programming/coding skills?",
+    "tag": "Profiler",
+    "type": "MCQ",
+    "options": [
+      "No experience",
+      "Beginner (e.g., basic scripts, HTML/CSS)",
+      "Intermediate (Comfortable with one language, can build simple apps)",
+      "Advanced (Professional developer experience)"
+    ]
+  }
+]

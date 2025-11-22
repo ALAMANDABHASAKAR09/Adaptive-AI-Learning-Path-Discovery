@@ -1,0 +1,23 @@
+[
+  {
+    "id": "rag_d_005",
+    "text": "Which of the following are common components found in a production RAG system? (Select ALL that apply)",
+    "difficulty": 7,
+    "tag": "RAG/Vector",
+    "type": "MCMS",
+    "options": [
+      "Vector Database",
+      "Image Generation Model",
+      "Embedding Model",
+      "LLM for Generation",
+      "SQL Database for user logins",
+      "Document Loader/Chunker"
+    ],
+    "correctAnswers": [
+      "Vector Database",
+      "Embedding Model",
+      "LLM for Generation",
+      "Document Loader/Chunker"
+    ]
+  }
+]
